@@ -1,5 +1,5 @@
 # junelite
-A free and open-source minimized version of June. 
+A free, open-source, redistributable and minimized post-processing stack for Unity and VRChat.
 
 #  Download? Here!
 Yes, everyone just wants this. Please download the latest compiled UnityPackage from my Booth or Gumroad, as not all necessary files are on GitHub (such as images or meta) and it makes updating easier (one less place to worry about). https://lukasong.gumroad.com/ and https://lukasong.booth.pm/ (don't forget to give a rating and favorite!)
