@@ -1,6 +1,11 @@
 # junelite
 A free, open-source, and redistributable post-processing stack for Unity and VRChat.
 
+<p align="center">
+  <img width="480" height="270" src="https://github.com/lukasong/junelite/blob/main/.preview/beeg_preview.gif">
+</p>
+
+
 #  Download? Here!
 Yes, everyone just wants this. Please download the latest compiled UnityPackage from my Booth or Gumroad, https://lukasong.gumroad.com/ and https://lukasong.booth.pm/ (don't forget to give a rating and favorite!).
 
