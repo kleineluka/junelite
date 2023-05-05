@@ -1,5 +1,12 @@
-# junelite
-A free, open-source, and redistributable post-processing stack for Unity and VRChat.
+<h1 align="center">
+ June Lite
+</h1>
+
+
+<p align="center">
+  A free, open-source, and redistributable post-processing stack for Unity and VRChat.
+</p>
+
 
 <p align="center">
   <img width="480" height="270" src="https://github.com/lukasong/junelite/blob/main/.preview/beeg_preview.gif">
