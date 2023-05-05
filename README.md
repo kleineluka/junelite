@@ -62,3 +62,8 @@ June Lite is a free version of my post-procesisng shader “June” for Unity an
 - Scripts to help you in Unity, AudioLink, and so so much more!
 - You can find more info out on [my website](http://www.luka.moe/june), [my Booth.pm](https://lukasong.booth.pm/items/3463934) and [my Gumroad.com](https://lukasong.gumroad.com/l/juneshadernew)~
 
+# 👽 And can I compile it myself?!
+- Shaders don't need compiled! Just drag it into Unity.
+- However, the Github doesn't have the images for the UI editor.
+- You will need to get the images from the Booth/Gumroad package, or you will need to edit the editor file (.cs) to not require image resources.
+
