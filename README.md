@@ -1,5 +1,5 @@
 <h1 align="center">
- June Lite
+ 🌈 June Lite ✨
 </h1>
 
 
@@ -13,10 +13,10 @@
 </p>
 
 
-#  Download? Here!
+# 🍩 Download? Here!
 Yes, everyone just wants this. Please download the latest ready-to-use UnityPackage from my Booth or Gumroad, https://lukasong.gumroad.com/ and https://lukasong.booth.pm/ (don't forget to give a rating and favorite!).
 
-# About
+# 🍡 About
 June Lite is a free version of my post-procesisng shader “June” for Unity and VRChat. It includes a myriad of screen effects (think shakes, blurs, image filters, etc.) that you can apply to your VRChat avatar, VRChat world, Unity projects, and Unity games! If you are interested in the paid version, more information will follow at the bottom.
 
 # 🥺 What’s in June Lite?
@@ -55,7 +55,7 @@ June Lite is a free version of my post-procesisng shader “June” for Unity an
 # 📝 What is the license? 
 - You may not edit the code, or redistribute the code alone.
 - You may not take the code for your own projects, or re-use it in any way.
-- You may redistribute the shader in transformative works (commercial or free) with proper attribution (see shader UI for more information). A transformative work would be an animation for an avatar, a world, or a game. For any questions, pleaes contact me on Discord (below).
+- You may redistribute the shader in transformative works (commercial or free) with proper attribution (see shader UI for more information). A transformative work would be an animation for an avatar, a world, or a game. For any questions, pleaes contact me on Discord (luka[#]8375) or email (lukazoeysong[@]gmail.com).
 
 # 🦄 And what about the paid version?
 - A loooot more effects, optimized shader locking, a feature-packed UI..
