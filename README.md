@@ -55,7 +55,7 @@ June Lite is a free version of my post-procesisng shader “June” for Unity an
 # 📝 What is the license? 
 - You may not edit the code, or redistribute the code alone.
 - You may not take the code for your own projects, or re-use it in any way.
-- You may redistribute the shader in transformative works (commercial or free) with proper attribution (see shader UI for more information). A transformative work would be an animation for an avatar, a world, or a game. For any questions, pleaes contact me on Discord (luka[#]8375) or email (lukazoeysong[@]gmail.com).
+- You may redistribute the shader in transformative works (commercial or free) with proper attribution (see shader UI for more information). Examples of transformative works are (but not limited to) an animation for an avatar, a world, a video, or a game. For any questions, pleaes contact me on Discord (luka[#]8375) or email (lukazoeysong[@]gmail.com).
 
 # 🦄 And what about the paid version?
 - A loooot more effects, optimized shader locking, a feature-packed UI..
