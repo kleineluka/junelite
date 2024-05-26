@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  A free, open-source, and redistributable post-processing stack for Unity and VRChat.
+  Make Unity prettier ✨ A free, open-source, and redistributable post-processing stack for Unity and VRChat.
 </p>
 
 
