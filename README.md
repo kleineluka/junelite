@@ -52,7 +52,7 @@ June Lite is a free version of my post-procesisng shader “June” for Unity an
 - ... and anything you want! (like really, a lot more)
 
 # 😵‍💫 How do I use it?
-- Download the zip (Booth) or unitypackage (Gumroad), and drag and drop it into Unity.
+- Download the zip (Booth) or unitypackage (Gumroad), and drag and drop it into Unity. (extract if zip!!)
 - Make a material, and make a cube and drag it onto it. Done! Now customize as you want.
 
 # 📝 What is the license? 
