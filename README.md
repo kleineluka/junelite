@@ -70,7 +70,7 @@ For any questions, pleaes contact me with the details on my Github profile!
 - You can find more info out on [my website](http://www.luka.moe/june), [my Booth](http://www.luka.moe.go/booth) and [my Gumroad](http://www.luka.moe/go/gumroad)~
 
 # 👽 And can I compile it myself?!
-- Shaders don't need compiled! Just drag it into Unity.
+- Shaders don't need compiled (by you)! Just drag it into Unity.
 - However, the Github doesn't have the images for the UI editor.
-- You will need to get the images from the Booth/Gumroad package, or you will need to edit the editor file (.cs) to not require image resources. (note: the shader will work fine, the editor just will error without)
+- You will need to get the images from the Booth/Gumroad package, or you will need to edit the editor file (.cs) to not require image resources. (note: the shader will work fine, but the editor will error without)
 
