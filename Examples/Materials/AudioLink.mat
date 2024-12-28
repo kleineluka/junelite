@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AudioLink
+  m_Shader: {fileID: 4800000, guid: 2fadcf1c16cff41549a438b367f06baa, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _KEYWORD_ENABLE_LITE_FILTER
+  - _KEYWORD_ENABLE_LITE_QUALITY
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LiteDistortionTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LiteOverlayTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 0
+    - _Clip: 0
+    - _LiteAudioLinkBand: 1
+    - _LiteAudioLinkMax: 1
+    - _LiteAudioLinkMin: 0
+    - _LiteAudioLinkModule: 0
+    - _LiteAudioLinkPower: 1
+    - _LiteBlurModule: 0
+    - _LiteBlurPower: 0.622
+    - _LiteBlurRadius: -0.59
+    - _LiteBlurStyle: 2
+    - _LiteBlurTransparency: 1
+    - _LiteBorderModule: 0
+    - _LiteBorderPower: 0
+    - _LiteBorderSoften: 0
+    - _LiteBorderStyle: 0
+    - _LiteColoringBrightness: 0.55
+    - _LiteColoringColorGrading: 0.012
+    - _LiteColoringColorGradingTone: 0
+    - _LiteColoringDarkness: 0
+    - _LiteColoringDrain: 0
+    - _LiteColoringEmission: 1
+    - _LiteColoringHSVStyle: 0
+    - _LiteColoringHSVh: 0
+    - _LiteColoringHSVs: 0
+    - _LiteColoringHSVv: 0
+    - _LiteColoringInvert: 0
+    - _LiteColoringModule: 0
+    - _LiteColoringPosterization: 0
+    - _LiteColoringRGBOverlayTransparency: 0
+    - _LiteDistortionModule: 0
+    - _LiteDistortionPowerX: 0.166
+    - _LiteDistortionPowerY: 0.5
+    - _LiteDistortionSpeedX: 0.5
+    - _LiteDistortionSpeedY: 0.5
+    - _LiteDistortionStyle: 1
+    - _LiteDistortionTextureScale: 1
+    - _LiteDistortionWobble: 0
+    - _LiteDistortionWobbleCoverage: 50
+    - _LiteDistortionWobblePower: 0
+    - _LiteDistortionWobbleSpeed: 0
+    - _LiteFilterAstral: 0
+    - _LiteFilterAstralTransparency: 0.6
+    - _LiteFilterAstralZoom: 0
+    - _LiteFilterColorCrush: 0
+    - _LiteFilterColorCrushPower: 2.57
+    - _LiteFilterDuotone: 0
+    - _LiteFilterDuotoneThreshold: 0.5
+    - _LiteFilterDuotoneTransparency: 0
+    - _LiteFilterFilm: 0
+    - _LiteFilterFilmAmount: 0.5
+    - _LiteFilterGradient: 0
+    - _LiteFilterGradientTransparency: 1
+    - _LiteFilterGrain: 0
+    - _LiteFilterGrainAmount: 0.5
+    - _LiteFilterModule: 1
+    - _LiteFilterNeon: 0
+    - _LiteFilterNeonHue: 1
+    - _LiteFilterNeonTransparency: 1
+    - _LiteFilterNeonWidth: 0.5
+    - _LiteFilterOutline: 1
+    - _LiteFilterOutlineTolerance: 2.38
+    - _LiteFilterOutlineWidth: 2.8
+    - _LiteFilterRainbow: 0
+    - _LiteFilterRainbowSaturation: 1
+    - _LiteFilterRainbowSpeed: 0.5
+    - _LiteFilterVHS: 0
+    - _LiteFilterVHSAmount: 0.5
+    - _LiteFilterVignette: 0
+    - _LiteFilterVignettePower: 0.05
+    - _LiteFogDensity: 1
+    - _LiteFogDistribution: 1
+    - _LiteFogModule: 0
+    - _LiteFogSafespace: 0
+    - _LiteFogSafespaceSize: 10
+    - _LiteGlitchAmount: 0
+    - _LiteGlitchChromatic: 0
+    - _LiteGlitchModule: 0
+    - _LiteGlitchScale: 0
+    - _LiteGlitchUVs: 0
+    - _LiteOverlayAnimated: 0
+    - _LiteOverlayFrames: 0
+    - _LiteOverlayFramesX: 0
+    - _LiteOverlayFramesY: 0
+    - _LiteOverlayModule: 0
+    - _LiteOverlayOffsetX: 0
+    - _LiteOverlayOffsetY: 0
+    - _LiteOverlayScrub: 0
+    - _LiteOverlaySizeX: 1
+    - _LiteOverlaySizeY: 1
+    - _LiteOverlaySpeed: 0
+    - _LiteOverlayTransparency: 0
+    - _LiteRenderingFalloffEnd: 20
+    - _LiteRenderingFalloffStart: 15
+    - _LiteRenderingOOB: 1
+    - _LiteRenderingPower: 1
+    - _LiteRenderingQuality: 1
+    - _LiteUVManipulationModule: 0
+    - _LiteUVManipulationMoveX: 0
+    - _LiteUVManipulationMoveY: 0
+    - _LiteUVManipulationPixelation: 0
+    - _LiteUVManipulationPixelationPower: 247
+    - _LiteUVManipulationRotation: 0
+    - _LiteUVManipulationRotationAngle: 0
+    - _LiteUVManipulationShakePowerX: 0.146
+    - _LiteUVManipulationShakePowerY: 0.142
+    - _LiteUVManipulationShakeSpeedX: 0
+    - _LiteUVManipulationShakeSpeedY: 0
+    - _LiteUVManipulationShakeStyle: 0
+    - _LiteUVManipulationSpherize: 0
+    - _LiteUVManipulationSpherizePower: 0
+    - _LiteUVManipulationTransformationFlipX: 0
+    - _LiteUVManipulationTransformationFlipY: 0
+    - _LiteUVManipulationTransformationSlantBL: 0
+    - _LiteUVManipulationTransformationSlantBR: 0
+    - _LiteUVManipulationTransformationSlantTL: 0
+    - _LiteUVManipulationTransformationSlantTR: 0
+    - _LiteUVManipulationTransformationStretchX: 0
+    - _LiteUVManipulationTransformationStretchY: 0
+    - _LiteZoomModule: 0
+    - _LiteZoomPower: 0
+    - _LiteZoomRangeEnd: 10
+    - _LiteZoomRangeStart: 5
+    - _LiteZoomRangeStyle: 0
+    - _Transparency: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _LiteBlurColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LiteBorderColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LiteColoringRGBMultiply: {r: 1, g: 1, b: 1, a: 1}
+    - _LiteColoringRGBOverlay: {r: 0, g: 0, b: 0, a: 0}
+    - _LiteFilterAstralColor: {r: 1, g: 1, b: 1, a: 1}
+    - _LiteFilterDuotoneColorOne: {r: 0, g: 0, b: 0, a: 1}
+    - _LiteFilterDuotoneColorTwo: {r: 0, g: 0, b: 0, a: 1}
+    - _LiteFilterGradientLHS: {r: 0.7, g: 0.2, b: 0.3, a: 1}
+    - _LiteFilterGradientRHS: {r: 0.2, g: 0.3, b: 0.7, a: 1}
+    - _LiteFilterGrainColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LiteFilterOutlineColor: {r: 1, g: 0.11006278, b: 0.38676015, a: 1}
+    - _LiteFilterVignetteColor: {r: 0, g: 0, b: 0, a: 1}
+    - _LiteFogColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
