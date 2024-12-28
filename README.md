@@ -60,8 +60,9 @@ There are lots of options to download June Lite! You can get it from this reposi
 - You may (and are encouraged to) learn from the code, and take those techniques with you on your own adventures (ex. seeing how to transform an rgb colour to monochrome)!
 - You are free to make pull requests of course, I love learning about ways to improve my code!
 - You may redistribute the shader in transformative works (commercial or free) with proper attribution. Examples of transformative works are (but not limited to) an animation for an avatar, a world, a video, or a game.
-For any questions, pleaes contact me with the details on my Github profile!
 - As long as it is not any case stated above, assume MIT for now. This may change at any time!
+
+For any questions, pleaes contact me with the details on my Github profile!
 
 # 👽 And can I compile it myself?!
 - Shaders don't need compiled (by you)! Just drag it into Unity.
