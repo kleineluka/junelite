@@ -16,7 +16,7 @@
 June Lite is a free post-procesisng shader for Unity and VRChat. It includes a myriad of screen effects (think shakes, blurs, image filters, etc.) that you can apply to your VRChat avatar, VRChat world, Unity projects, and Unity games! In one short description: it makes your projects prettier!
 
 # 💗 Quick Start
-There are lots of options to download June Lite! You can get it from this repository, or download a plug-and-play package from [Gumroad](https://luka.moe/go/github), [Booth](https://luka.moe/go/booth), [Jinxxy](https://luka.moe/go/jinxxy), or [Payhip](https://luka.moe/go/payhip). You may also be interested in checking out the paid version of [June](https://www.luka.moe/june)!
+There are lots of options to download June Lite! You can clone it from this repository, or download a plug-and-play package from [Gumroad](https://luka.moe/go/gumroad), [Booth](https://luka.moe/go/booth), [Jinxxy](https://luka.moe/go/jinxxy), or [Payhip](https://luka.moe/go/payhip). You may also be interested in checking out the paid version of [June](https://www.luka.moe/june)!
 
 # 🥺 What’s in June Lite?
 - Custom, fast and easy UI!
