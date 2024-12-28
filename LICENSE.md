@@ -5,4 +5,5 @@
 - You are free to make pull requests of course, I love learning about ways to improve my code!
 - You may redistribute the shader in transformative works (commercial or free) with proper attribution. Examples of transformative works are (but not limited to) an animation for an avatar, a world, a video, or a game.
 - As long as it is not any case stated above, assume MIT for now. This may change at any time!
+
 For any questions, pleaes contact me with the details on my Github profile!
