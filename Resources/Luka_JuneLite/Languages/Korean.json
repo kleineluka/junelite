@@ -1,0 +1,1876 @@
+{
+    "entries": [
+        {
+            "key": "enabled",
+            "value": "활성화"
+        },
+        {
+            "key": "disabled",
+            "value": "비활성화"
+        },
+        {
+            "key": "config_tab_theme",
+            "value": "탭 테마"
+        },
+        {
+            "key": "config_text_theme",
+            "value": "텍스트 테마"
+        },
+        {
+            "key": "config_ui_size",
+            "value": "UI 크기"
+        },
+        {
+            "key": "config_updates",
+            "value": "업데이트 확인"
+        },
+        {
+            "key": "config_language",
+            "value": "언어"
+        },
+        {
+            "key": "config_toggle_updates",
+            "value": "업데이트 표시"
+        },
+        {
+            "key": "config_toggle_announcements",
+            "value": "소식 표시"
+        },
+        {
+            "key": "config_toggle_enabled",
+            "value": "활성화"
+        },
+        {
+            "key": "config_toggle_disabled",
+            "value": "비활성화"
+        },
+        {
+            "key": "config_save",
+            "value": "설정 저장"
+        },
+        {
+            "key": "config_reset",
+            "value": "설정 초기화"
+        },
+        {
+            "key": "config_save_success",
+            "value": "설정이 성공적으로 저장되었습니다! ^~^"
+        },
+        {
+            "key": "config_save_error",
+            "value": "설정을 저장하는 중 문제가 발생했습니다. Unity 패키지를 다시 가져와 보세요! >.<"
+        },
+        {
+            "key": "config_reset_success",
+            "value": "설정이 기본값으로 초기화되었습니다! ^~^"
+        },
+        {
+            "key": "config_reset_error",
+            "value": "설정을 초기화하는 중 문제가 발생했습니다. Unity 패키지를 다시 가져와 보세요! >.<"
+        },
+        {
+            "key": "dialog_okay",
+            "value": "오키!"
+        },
+        {
+            "key": "update_available",
+            "value": "업데이트 가능!"
+        },
+        {
+            "key": "update_description",
+            "value": "최신 버전을 다운로드하여 새로운 기능과 버그 수정을 확인하세요! <3"
+        },
+        {
+            "key": "tab_config",
+            "value": "설정"
+        },
+        {
+            "key": "open_docs",
+            "value": "도움이 필요하신가요? 여기를 클릭하여 문서를 확인하세요!"
+        },
+        {
+            "key": "tab_rendering",
+            "value": "렌더링"
+        },
+        {
+            "key": "tab_audio_link",
+            "value": "오디오 링크"
+        },
+        {
+            "key": "tab_coloring",
+            "value": "색상"
+        },
+        {
+            "key": "tab_blur",
+            "value": "블러"
+        },
+        {
+            "key": "tab_distortion",
+            "value": "왜곡"
+        },
+        {
+            "key": "tab_border",
+            "value": "테두리"
+        },
+        {
+            "key": "tab_fog",
+            "value": "안개"
+        },
+        {
+            "key": "tab_glitch",
+            "value": "글리치"
+        },
+        {
+            "key": "tab_overlay",
+            "value": "오버레이"
+        },
+        {
+            "key": "tab_uv_manipulation",
+            "value": "UV 조작"
+        },
+        {
+            "key": "tab_filter",
+            "value": "필터"
+        },
+        {
+            "key": "tab_zoom",
+            "value": "줌"
+        },
+        {
+            "key": "tab_sub_filter_vignette",
+            "value": "비네트"
+        },
+        {
+            "key": "tab_sub_filter_color_crush",
+            "value": "컬러 크러쉬"
+        },
+        {
+            "key": "tab_sub_filter_duotone",
+            "value": "듀오톤"
+        },
+        {
+            "key": "tab_sub_filter_rainbow",
+            "value": "레인보우"
+        },
+        {
+            "key": "tab_sub_filter_film",
+            "value": "필름"
+        },
+        {
+            "key": "tab_sub_filter_grain",
+            "value": "그레인"
+        },
+        {
+            "key": "tab_sub_filter_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "tab_sub_filter_gradient",
+            "value": "그라디언트"
+        },
+        {
+            "key": "tab_sub_filter_outline",
+            "value": "외곽선"
+        },
+        {
+            "key": "tab_sub_filter_astral",
+            "value": "아스트랄 프로젝션"
+        },
+        {
+            "key": "tab_sub_filter_neon",
+            "value": "네온"
+        },
+        {
+            "key": "tab_sub_uv_transformation",
+            "value": "변형"
+        },
+        {
+            "key": "tab_sub_uv_move",
+            "value": "이동"
+        },
+        {
+            "key": "tab_sub_uv_shake",
+            "value": "흔들림"
+        },
+        {
+            "key": "tab_sub_uv_pixelation",
+            "value": "픽셀화"
+        },
+        {
+            "key": "tab_sub_uv_rotation",
+            "value": "회전"
+        },
+        {
+            "key": "tab_sub_uv_spherize",
+            "value": "구면화"
+        },
+        {
+            "key": "prop_rendering_shader_power",
+            "value": "셰이더 강도"
+        },
+        {
+            "key": "prop_rendering_falloff_start",
+            "value": "감쇠 시작"
+        },
+        {
+            "key": "prop_rendering_falloff_end",
+            "value": "감쇠 끝"
+        },
+        {
+            "key": "prop_rendering_out_of_bounds_style",
+            "value": "범위 밖 스타일"
+        },
+        {
+            "key": "prop_blur_enable",
+            "value": "블러 모듈 활성화"
+        },
+        {
+            "key": "prop_blur_high_quality",
+            "value": "고품질 블러"
+        },
+        {
+            "key": "prop_blur_style",
+            "value": "블러 스타일"
+        },
+        {
+            "key": "prop_blur_power",
+            "value": "블러 강도"
+        },
+        {
+            "key": "prop_blur_radius",
+            "value": "블러 반경"
+        },
+        {
+            "key": "prop_blur_transparency",
+            "value": "블러 투명도"
+        },
+        {
+            "key": "prop_blur_color",
+            "value": "블러 색상"
+        },
+        {
+            "key": "prop_border_enable",
+            "value": "테두리 모듈 활성화"
+        },
+        {
+            "key": "prop_border_style",
+            "value": "테두리 스타일"
+        },
+        {
+            "key": "prop_border_color",
+            "value": "테두리 색상"
+        },
+        {
+            "key": "prop_border_power",
+            "value": "테두리 강도"
+        },
+        {
+            "key": "prop_border_soften",
+            "value": "테두리 부드럽게"
+        },
+        {
+            "key": "prop_coloring_enable",
+            "value": "색상 모듈 활성화"
+        },
+        {
+            "key": "prop_coloring_rgb_multiply",
+            "value": "RGB 곱하기"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay_transparency",
+            "value": "RGB 오버레이 투명도"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay",
+            "value": "RGB 오버레이"
+        },
+        {
+            "key": "prop_coloring_hsv_style",
+            "value": "HSV 스타일"
+        },
+        {
+            "key": "prop_coloring_hsv_hue",
+            "value": "HSV 색조"
+        },
+        {
+            "key": "prop_coloring_hsv_saturation",
+            "value": "HSV 채도"
+        },
+        {
+            "key": "prop_coloring_hsv_value",
+            "value": "HSV 밝기"
+        },
+        {
+            "key": "prop_coloring_invert",
+            "value": "반전"
+        },
+        {
+            "key": "prop_coloring_color_drain",
+            "value": "색상 빼기"
+        },
+        {
+            "key": "prop_coloring_darkness",
+            "value": "어둠"
+        },
+        {
+            "key": "prop_coloring_brightness",
+            "value": "밝기"
+        },
+        {
+            "key": "prop_coloring_emission",
+            "value": "발광"
+        },
+        {
+            "key": "prop_coloring_posterization",
+            "value": "포스터화"
+        },
+        {
+            "key": "prop_coloring_color_grading",
+            "value": "색 보정"
+        },
+        {
+            "key": "prop_coloring_color_grading_tone",
+            "value": "색 보정 톤"
+        },
+        {
+            "key": "prop_distortion_enable",
+            "value": "왜곡 모듈 활성화"
+        },
+        {
+            "key": "prop_distortion_style",
+            "value": "왜곡 스타일"
+        },
+        {
+            "key": "prop_distortion_power_x",
+            "value": "왜곡 강도 X"
+        },
+        {
+            "key": "prop_distortion_power_y",
+            "value": "왜곡 강도 Y"
+        },
+        {
+            "key": "prop_distortion_speed_x",
+            "value": "왜곡 속도 X"
+        },
+        {
+            "key": "prop_distortion_speed_y",
+            "value": "왜곡 속도 Y"
+        },
+        {
+            "key": "prop_distortion_texture",
+            "value": "왜곡 텍스처"
+        },
+        {
+            "key": "prop_distortion_texture_scale",
+            "value": "왜곡 텍스처 스케일"
+        },
+        {
+            "key": "prop_distortion_add_in_wobble",
+            "value": "흔들림 추가?"
+        },
+        {
+            "key": "prop_distortion_wobble_power",
+            "value": "흔들림 강도"
+        },
+        {
+            "key": "prop_distortion_wobble_speed",
+            "value": "흔들림 속도"
+        },
+        {
+            "key": "prop_distortion_wobble_coverage",
+            "value": "흔들림 범위"
+        },
+        {
+            "key": "prop_filter_enable",
+            "value": "필터 모듈 활성화"
+        },
+        {
+            "key": "prop_vignette_enable",
+            "value": "비네트 활성화"
+        },
+        {
+            "key": "prop_vignette_power",
+            "value": "비네트 강도"
+        },
+        {
+            "key": "prop_vignette_color",
+            "value": "비네트 색상"
+        },
+        {
+            "key": "prop_color_crush_enable",
+            "value": "컬러 크러쉬 활성화"
+        },
+        {
+            "key": "prop_color_crush_power",
+            "value": "컬러 크러쉬 강도"
+        },
+        {
+            "key": "prop_duotone_enable",
+            "value": "듀오톤 활성화"
+        },
+        {
+            "key": "prop_duotone_transparency",
+            "value": "듀오톤 투명도"
+        },
+        {
+            "key": "prop_duotone_color_one",
+            "value": "듀오톤 색상 1"
+        },
+        {
+            "key": "prop_duotone_color_two",
+            "value": "듀오톤 색상 2"
+        },
+        {
+            "key": "prop_duotone_threshold",
+            "value": "듀오톤 임계값"
+        },
+        {
+            "key": "prop_rainbow_enable",
+            "value": "레인보우 활성화"
+        },
+        {
+            "key": "prop_rainbow_saturation",
+            "value": "레인보우 채도"
+        },
+        {
+            "key": "prop_rainbow_speed",
+            "value": "레인보우 속도"
+        },
+        {
+            "key": "prop_film_enable",
+            "value": "필름 활성화"
+        },
+        {
+            "key": "prop_film_amount",
+            "value": "필름 양"
+        },
+        {
+            "key": "prop_grain_enable",
+            "value": "그레인 활성화"
+        },
+        {
+            "key": "prop_grain_amount",
+            "value": "그레인 양"
+        },
+        {
+            "key": "prop_grain_color",
+            "value": "그레인 색상"
+        },
+        {
+            "key": "prop_vhs_enable",
+            "value": "VHS 활성화"
+        },
+        {
+            "key": "prop_vhs_amount",
+            "value": "VHS 양"
+        },
+        {
+            "key": "prop_gradient_enable",
+            "value": "그라디언트 활성화"
+        },
+        {
+            "key": "prop_gradient_lhs",
+            "value": "그라디언트 왼쪽"
+        },
+        {
+            "key": "prop_gradient_rhs",
+            "value": "그라디언트 오른쪽"
+        },
+        {
+            "key": "prop_gradient_transparency",
+            "value": "그라디언트 투명도"
+        },
+        {
+            "key": "prop_outline_enable",
+            "value": "외곽선 활성화"
+        },
+        {
+            "key": "prop_outline_width",
+            "value": "외곽선 너비"
+        },
+        {
+            "key": "prop_outline_tolerance",
+            "value": "외곽선 허용치"
+        },
+        {
+            "key": "prop_outline_color",
+            "value": "외곽선 색상"
+        },
+        {
+            "key": "prop_astral_enable",
+            "value": "아스트랄 활성화"
+        },
+        {
+            "key": "prop_astral_zoom",
+            "value": "아스트랄 줌"
+        },
+        {
+            "key": "prop_astral_transparency",
+            "value": "아스트랄 투명도"
+        },
+        {
+            "key": "prop_astral_color",
+            "value": "아스트랄 색상"
+        },
+        {
+            "key": "prop_neon_enable",
+            "value": "네온 활성화"
+        },
+        {
+            "key": "prop_neon_width",
+            "value": "네온 너비"
+        },
+        {
+            "key": "prop_neon_transparency",
+            "value": "네온 투명도"
+        },
+        {
+            "key": "prop_neon_hue",
+            "value": "네온 색조"
+        },
+        {
+            "key": "prop_overlay_enable",
+            "value": "오버레이 모듈 활성화"
+        },
+        {
+            "key": "prop_overlay_texture",
+            "value": "오버레이 텍스처"
+        },
+        {
+            "key": "prop_overlay_transparency",
+            "value": "오버레이 투명도"
+        },
+        {
+            "key": "prop_overlay_size_x",
+            "value": "오버레이 크기 X"
+        },
+        {
+            "key": "prop_overlay_size_y",
+            "value": "오버레이 크기 Y"
+        },
+        {
+            "key": "prop_overlay_speed_x",
+            "value": "오버레이 속도 X"
+        },
+        {
+            "key": "prop_overlay_speed_y",
+            "value": "오버레이 속도 Y"
+        },
+        {
+            "key": "prop_overlay_offset_x",
+            "value": "오버레이 오프셋 X"
+        },
+        {
+            "key": "prop_overlay_offset_y",
+            "value": "오버레이 오프셋 Y"
+        },
+        {
+            "key": "prop_uv_manipulation_enable",
+            "value": "UV 모듈 활성화"
+        },
+        {
+            "key": "prop_transformation_slant_top_left",
+            "value": "왼쪽 위 기울이기"
+        },
+        {
+            "key": "prop_transformation_slant_top_right",
+            "value": "오른쪽 위 기울이기"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_left",
+            "value": "왼쪽 아래 기울이기"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_right",
+            "value": "오른쪽 아래 기울이기"
+        },
+        {
+            "key": "prop_transformation_flip_x",
+            "value": "X축 뒤집기"
+        },
+        {
+            "key": "prop_transformation_flip_y",
+            "value": "Y축 뒤집기"
+        },
+        {
+            "key": "prop_transformation_stretch_x",
+            "value": "X축 늘리기"
+        },
+        {
+            "key": "prop_transformation_stretch_y",
+            "value": "Y축 늘리기"
+        },
+        {
+            "key": "prop_movement_move_x",
+            "value": "X축 이동"
+        },
+        {
+            "key": "prop_movement_move_y",
+            "value": "Y축 이동"
+        },
+        {
+            "key": "prop_shake_style",
+            "value": "흔들림 스타일"
+        },
+        {
+            "key": "prop_shake_power_x",
+            "value": "X축 흔들림 강도"
+        },
+        {
+            "key": "prop_shake_power_y",
+            "value": "Y축 흔들림 강도"
+        },
+        {
+            "key": "prop_shake_speed_x",
+            "value": "X축 흔들림 속도"
+        },
+        {
+            "key": "prop_shake_speed_y",
+            "value": "Y축 흔들림 속도"
+        },
+        {
+            "key": "prop_pixelation_enable",
+            "value": "픽셀화 활성화"
+        },
+        {
+            "key": "prop_pixelation_power",
+            "value": "픽셀화 강도"
+        },
+        {
+            "key": "prop_rotation_enable",
+            "value": "회전 활성화"
+        },
+        {
+            "key": "prop_rotation_angle",
+            "value": "회전 각도"
+        },
+        {
+            "key": "prop_spherize_enable",
+            "value": "구면화 활성화"
+        },
+        {
+            "key": "prop_spherize_power",
+            "value": "구면화 강도"
+        },
+        {
+            "key": "prop_zoom_enable",
+            "value": "줌 모듈 활성화"
+        },
+        {
+            "key": "prop_zoom_power",
+            "value": "줌 강도"
+        },
+        {
+            "key": "prop_zoom_custom_range",
+            "value": "줌 사용자 지정 범위"
+        },
+        {
+            "key": "prop_zoom_range_start",
+            "value": "줌 범위 시작"
+        },
+        {
+            "key": "prop_zoom_range_end",
+            "value": "줌 범위 끝"
+        },
+        {
+            "key": "prop_fog_enable",
+            "value": "안개 모듈 활성화"
+        },
+        {
+            "key": "prop_fog_density",
+            "value": "안개 농도"
+        },
+        {
+            "key": "prop_fog_distribution",
+            "value": "안개 분포"
+        },
+        {
+            "key": "prop_fog_color",
+            "value": "안개 색상"
+        },
+        {
+            "key": "prop_fog_safe_space",
+            "value": "안개 안전 공간"
+        },
+        {
+            "key": "prop_fog_safe_space_size",
+            "value": "안개 안전 공간 크기"
+        },
+        {
+            "key": "prop_glitch_enable",
+            "value": "글리치 모듈 활성화"
+        },
+        {
+            "key": "prop_glitch_scale",
+            "value": "글리치 스케일"
+        },
+        {
+            "key": "prop_glitch_amount",
+            "value": "글리치 양"
+        },
+        {
+            "key": "prop_glitch_uvs",
+            "value": "글리치 UV"
+        },
+        {
+            "key": "prop_glitch_chromatic",
+            "value": "글리치 색수차"
+        },
+        {
+            "key": "prop_overlay_animated",
+            "value": "애니메이션 오버레이"
+        },
+        {
+            "key": "prop_overlay_frames_x",
+            "value": "오버레이 열"
+        },
+        {
+            "key": "prop_overlay_frames_y",
+            "value": "오버레이 행"
+        },
+        {
+            "key": "prop_overlay_frames",
+            "value": "오버레이 프레임"
+        },
+        {
+            "key": "prop_overlay_speed",
+            "value": "오버레이 속도"
+        },
+        {
+            "key": "prop_overlay_scrub",
+            "value": "오버레이 스크럽"
+        },
+        {
+            "key": "prop_ui_notice",
+            "value": "엄청나게 유용한 조언!"
+        },
+        {
+            "key": "prop_ui_depth",
+            "value": "이 효과는 씬에 뎁스 라이트가 필요합니다. 프리팹은 Resources/Prefabs 폴더 안의 패키지에 제공됩니다."
+        },
+        {
+            "key": "prop_audio_link_enable",
+            "value": "오디오 링크 활성화"
+        },
+        {
+            "key": "prop_audio_link_band",
+            "value": "밴드"
+        },
+        {
+            "key": "prop_audio_link_power",
+            "value": "강도"
+        },
+        {
+            "key": "prop_audio_link_min",
+            "value": "최소값"
+        },
+        {
+            "key": "prop_audio_link_max",
+            "value": "최대값"
+        },
+        {
+            "key": "prop_blur_dithering",
+            "value": "디더 블러"
+        },
+        {
+            "key": "prop_overlay_blendmode",
+            "value": "오버레이 블렌드 모드"
+        },
+        {
+            "key": "prop_overlay_vr",
+            "value": "VR 전용 변경 사항 사용"
+        },
+        {
+            "key": "prop_overlay_vr_preview",
+            "value": "VR 오버레이 미리보기"
+        },
+        {
+            "key": "prop_overlay_vr_size_x",
+            "value": "VR 오버레이 크기 X"
+        },
+        {
+            "key": "prop_overlay_vr_size_y",
+            "value": "VR 오버레이 크기 Y"
+        },
+        {
+            "key": "prop_overlay_vr_offset_x",
+            "value": "VR 오버레이 오프셋 X"
+        },
+        {
+            "key": "prop_overlay_vr_offset_y",
+            "value": "VR 오버레이 오프셋 Y"
+        },
+        {
+            "key": "tab_june_pro",
+            "value": "June Pro 미리보기"
+        },
+        {
+            "key": "june_pro_tab_blur",
+            "value": "블러"
+        },
+        {
+            "key": "june_pro_styles_blur",
+            "value": "블러는 다음과 같은 스타일을 제공합니다: 가우시안, 선택, 블룸, 보케, 프로스트, 픽셀 왜곡, 돌출, 스미어, 줌 레이디얼 및 기타 등등."
+        },
+        {
+            "key": "june_pro_tab_border",
+            "value": "테두리"
+        },
+        {
+            "key": "june_pro_styles_border",
+            "value": "테두리는 다음과 같은 스타일을 제공합니다: 세로 레터박스, 가로 레터박스, 박스, 원형, 다각형, 눈, 애니메이션, 지도."
+        },
+        {
+            "key": "june_pro_tab_chromatic",
+            "value": "색수차"
+        },
+        {
+            "key": "june_pro_styles_chromatic",
+            "value": "색수차는 다음과 같은 스타일을 제공합니다: RGB, HSV, 네거티브, 레이디얼, 레이어, 블러."
+        },
+        {
+            "key": "june_pro_tab_colour_grading",
+            "value": "색 보정"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_fine_tuning",
+            "value": "미세 조정"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_focus",
+            "value": "색상 초점"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_replacements",
+            "value": "색상 교체"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colourspace",
+            "value": "색 공간"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_lighting_adjustment",
+            "value": "조명 조정"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_sharpness",
+            "value": "선명도"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_saturation",
+            "value": "채도"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_stylize",
+            "value": "스타일화"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_channels",
+            "value": "색상 채널"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_post-processing",
+            "value": "후처리"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_posterization",
+            "value": "포스터화"
+        },
+        {
+            "key": "june_pro_tab_creativity",
+            "value": "창의성"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_alphenglow",
+            "value": "알펜글로우"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aquamarine",
+            "value": "아쿠아마린"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aurora",
+            "value": "오로라"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_bonnibel",
+            "value": "보니벨"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_butterfly",
+            "value": "나비"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_candy",
+            "value": "캔디"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_ecstasy",
+            "value": "엑스터시"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_fable",
+            "value": "우화"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_lava_lamp",
+            "value": "라바 램프"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_marceline",
+            "value": "마르셀린"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_smokescreen",
+            "value": "연막"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_turbulence",
+            "value": "난기류"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_rainbow_river",
+            "value": "무지개 강"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_portal",
+            "value": "포탈"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_tea",
+            "value": "차"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_oil_spill",
+            "value": "기름 유출"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_art",
+            "value": "아트"
+        },
+        {
+            "key": "june_pro_tab_distortion",
+            "value": "왜곡"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_simple_distortion",
+            "value": "단순 왜곡"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bezier_curve",
+            "value": "베지어 곡선"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_blackhole",
+            "value": "블랙홀"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bubbles",
+            "value": "거품"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bumpy_glass",
+            "value": "울퉁불퉁한 유리"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_exaggeration",
+            "value": "과장"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_liquify",
+            "value": "액화"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_warp",
+            "value": "워프"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_wave",
+            "value": "파도"
+        },
+        {
+            "key": "june_pro_tab_enhancements",
+            "value": "개선"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_anti-aliasing",
+            "value": "안티에일리어싱"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_denoise",
+            "value": "노이즈 제거"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_deblur",
+            "value": "디블러"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_heavy_lines",
+            "value": "굵은 선"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_soft_lines",
+            "value": "부드러운 선"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_upscale",
+            "value": "업스케일"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_contrast_sharpening",
+            "value": "대비 선명화"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_fdr",
+            "value": "FDR"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_screenspace_softshading",
+            "value": "스크린스페이스 소프트셰이딩"
+        },
+        {
+            "key": "june_pro_tab_experiments",
+            "value": "실험"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_dolly",
+            "value": "돌리"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_cloning",
+            "value": "복제"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_screen_background",
+            "value": "화면 배경"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_depth_viewer",
+            "value": "뎁스 뷰어"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_objectify",
+            "value": "객체화"
+        },
+        {
+            "key": "june_pro_tab_filters",
+            "value": "필터"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_incorrection",
+            "value": "색상 부정확"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colourblind_simulation",
+            "value": "색맹 시뮬레이션"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_corners",
+            "value": "모서리"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_crush",
+            "value": "컬러 크러쉬"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_cycline",
+            "value": "컬러 사이클라인"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_wheel",
+            "value": "색상환"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_crt",
+            "value": "CRT"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_monotone",
+            "value": "단색"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_duotone",
+            "value": "듀오톤"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tritone",
+            "value": "트라이톤"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_engraving",
+            "value": "조각"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_linocut",
+            "value": "리노컷"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_light_leak",
+            "value": "빛샘"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_film",
+            "value": "필름"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_normal_mapper",
+            "value": "노멀 매퍼"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_chrome",
+            "value": "크롬"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_rainbow",
+            "value": "레인보우"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ramp",
+            "value": "램프"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_gradient",
+            "value": "그라디언트"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_ink",
+            "value": "잉크 부족"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_bitrate",
+            "value": "낮은 비트레이트"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_grain",
+            "value": "그레인"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_glitter",
+            "value": "글리터"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_moire",
+            "value": "물결무늬"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_sepia",
+            "value": "세피아"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_solarize",
+            "value": "솔라라이즈"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_specular",
+            "value": "스페큘러"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tie_dye",
+            "value": "홀치기 염색"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_technicolour",
+            "value": "테크니컬러"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_thermal",
+            "value": "열화상"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_threshold",
+            "value": "임계값"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_night_vision",
+            "value": "야간 투시"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ultra_violet",
+            "value": "자외선"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_wall_glow",
+            "value": "벽 발광"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vignette",
+            "value": "비네트"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_dither",
+            "value": "디더"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_fauxlate",
+            "value": "포크레이트"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_lieless",
+            "value": "라이리스"
+        },
+        {
+            "key": "june_pro_tab_frames",
+            "value": "프레임"
+        },
+        {
+            "key": "june_pro_styles_frames",
+            "value": "프레임은 다음과 같은 스타일을 제공합니다: 프라이드, 트랜스, 음악, 폴라로이드, 슈퍼 에이트, 매거진, 필름덤, 네온, 코믹, 필름 스트라이프."
+        },
+        {
+            "key": "june_pro_tab_generation",
+            "value": "생성"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_lines",
+            "value": "선"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_ring_colors",
+            "value": "링 색상"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_noise_colors",
+            "value": "노이즈 색상"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_sdf_colors",
+            "value": "SDF 색상"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_colors",
+            "value": "도형 색상"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_uvs",
+            "value": "도형 UV"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_colors",
+            "value": "나선 색상"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_uvs",
+            "value": "나선 UV"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_hearts",
+            "value": "하트"
+        },
+        {
+            "key": "june_pro_tab_glitch",
+            "value": "글리치"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_simple",
+            "value": "단순"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_advanced",
+            "value": "고급"
+        },
+        {
+            "key": "june_pro_tab_motion",
+            "value": "모션"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_acid",
+            "value": "애시드"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_blur",
+            "value": "블러"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_distortion",
+            "value": "왜곡"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_freeze",
+            "value": "정지"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_rgb_freeze",
+            "value": "RGB 정지"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_glitch",
+            "value": "글리치"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_chromatic",
+            "value": "색수차"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_pixel_sort",
+            "value": "픽셀 정렬"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_trail",
+            "value": "잔상"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranquility",
+            "value": "평온"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranceless",
+            "value": "트랜스리스"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_data_mosh",
+            "value": "데이터 모쉬"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_frame_rate",
+            "value": "프레임 레이트"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fensterxd",
+            "value": "펜스터XD"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fading_projections",
+            "value": "페이딩 프로젝션"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_motear",
+            "value": "모티어"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_lake_fill",
+            "value": "레이크 필"
+        },
+        {
+            "key": "june_pro_tab_others",
+            "value": "기타"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral",
+            "value": "아스트랄"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral_rgb",
+            "value": "아스트랄 RGB"
+        },
+        {
+            "key": "june_pro_sub_tab_others_apart",
+            "value": "분리"
+        },
+        {
+            "key": "june_pro_sub_tab_others_colour_diffusion",
+            "value": "색상 확산"
+        },
+        {
+            "key": "june_pro_sub_tab_others_holepuncher",
+            "value": "홀펀처"
+        },
+        {
+            "key": "june_pro_sub_tab_others_glowstick",
+            "value": "야광봉"
+        },
+        {
+            "key": "june_pro_sub_tab_others_grid_checkerboard",
+            "value": "그리드 체커보드"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hallucinogen",
+            "value": "환각제"
+        },
+        {
+            "key": "june_pro_sub_tab_others_lenticular_halo",
+            "value": "렌티큘러 헤일로"
+        },
+        {
+            "key": "june_pro_sub_tab_others_meta_image",
+            "value": "메타 이미지"
+        },
+        {
+            "key": "june_pro_sub_tab_others_palette",
+            "value": "팔레트"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rain_line",
+            "value": "레인 라인"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rim",
+            "value": "림"
+        },
+        {
+            "key": "june_pro_sub_tab_others_scanline_overlay",
+            "value": "스캔라인 오버레이"
+        },
+        {
+            "key": "june_pro_sub_tab_others_stripes",
+            "value": "줄무늬"
+        },
+        {
+            "key": "june_pro_sub_tab_others_sunbeams",
+            "value": "햇살"
+        },
+        {
+            "key": "june_pro_sub_tab_others_water_reflection",
+            "value": "물 반사"
+        },
+        {
+            "key": "june_pro_sub_tab_others_camouflage",
+            "value": "위장"
+        },
+        {
+            "key": "june_pro_sub_tab_others_inception",
+            "value": "인셉션"
+        },
+        {
+            "key": "june_pro_sub_tab_others_object_detection",
+            "value": "객체 감지"
+        },
+        {
+            "key": "june_pro_sub_tab_others_fog",
+            "value": "안개"
+        },
+        {
+            "key": "june_pro_sub_tab_others_silhouette",
+            "value": "실루엣"
+        },
+        {
+            "key": "june_pro_sub_tab_others_prismatic_layers",
+            "value": "프리즘 레이어"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hexatile",
+            "value": "헥사타일"
+        },
+        {
+            "key": "june_pro_sub_tab_others_secrets",
+            "value": "비밀"
+        },
+        {
+            "key": "june_pro_sub_tab_others_divider",
+            "value": "분할기"
+        },
+        {
+            "key": "june_pro_tab_outline",
+            "value": "외곽선"
+        },
+        {
+            "key": "june_pro_styles_outline",
+            "value": "외곽선은 다음과 같은 스타일을 제공합니다: 색상 (얇게), 뎁스 (두껍게)."
+        },
+        {
+            "key": "june_pro_tab_overlay",
+            "value": "오버레이"
+        },
+        {
+            "key": "june_pro_styles_overlay",
+            "value": "오버레이는 다음과 같은 스타일을 제공합니다: 정지 이미지, 애니메이션 이미지, 콜라주."
+        },
+        {
+            "key": "june_pro_tab_stylize",
+            "value": "스타일화"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_compression",
+            "value": "압축"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crosshatching",
+            "value": "크로스해칭"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crystalize",
+            "value": "수정화"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_dots",
+            "value": "점"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_emboss",
+            "value": "엠보스"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_impressionism",
+            "value": "인상주의"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_mosaic",
+            "value": "모자이크"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon_rings",
+            "value": "네온 링"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_oil",
+            "value": "유화"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_monitor",
+            "value": "모니터"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon",
+            "value": "네온"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_pop_art",
+            "value": "팝 아트"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_unicode",
+            "value": "유니코드"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone",
+            "value": "하프톤"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_circles",
+            "value": "하프톤 원"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_spiral",
+            "value": "하프톤 나선"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_rgb",
+            "value": "하프톤 RGB"
+        },
+        {
+            "key": "june_pro_tab_special",
+            "value": "특수"
+        },
+        {
+            "key": "june_pro_sub_tab_special_bubbles",
+            "value": "거품"
+        },
+        {
+            "key": "june_pro_sub_tab_special_confetti",
+            "value": "콘페티"
+        },
+        {
+            "key": "june_pro_sub_tab_special_data_stream",
+            "value": "데이터 스트림"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lens_flare",
+            "value": "렌즈 플레어"
+        },
+        {
+            "key": "june_pro_sub_tab_special_hexagonal_shield",
+            "value": "육각형 방패"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lightning",
+            "value": "번개"
+        },
+        {
+            "key": "june_pro_sub_tab_special_mapping",
+            "value": "매핑"
+        },
+        {
+            "key": "june_pro_sub_tab_special_rain_drops",
+            "value": "빗방울"
+        },
+        {
+            "key": "june_pro_sub_tab_special_plexus",
+            "value": "플렉서스"
+        },
+        {
+            "key": "june_pro_sub_tab_special_shanshuo",
+            "value": "산수"
+        },
+        {
+            "key": "june_pro_sub_tab_special_star_trail",
+            "value": "별 궤적"
+        },
+        {
+            "key": "june_pro_sub_tab_special_spotlights",
+            "value": "스포트라이트"
+        },
+        {
+            "key": "june_pro_sub_tab_special_visualizer",
+            "value": "시각화 도구"
+        },
+        {
+            "key": "june_pro_sub_tab_special_warp_drive",
+            "value": "워프 드라이브"
+        },
+        {
+            "key": "june_pro_tab_transition",
+            "value": "전환"
+        },
+        {
+            "key": "june_pro_styles_transition",
+            "value": "전환은 다음과 같은 스타일을 제공합니다: 슬라이드, 스팟 인, 스팟 아웃, 박스 인, 박스 아웃, 타일 바운스, 타일 웨이브, 셔터, 레이디얼 스와이프, 레이디얼 반복, 디졸브, 재기드 스와이프, 딜레이, 헥사고날 타일, 헥사고날 스와이프, 모델로 인."
+        },
+        {
+            "key": "june_pro_tab_triplanar",
+            "value": "트라이플래너"
+        },
+        {
+            "key": "june_pro_styles_triplanar",
+            "value": "트라이플래너는 다음과 같은 스타일을 제공합니다: 정지 이미지, 애니메이션 이미지, 색상, 셀."
+        },
+        {
+            "key": "june_pro_tab_uv_manipulation",
+            "value": "UV 조작"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_bender",
+            "value": "벤더"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_movement",
+            "value": "움직임"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_clamp",
+            "value": "클램프"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_coordinates",
+            "value": "좌표"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_dither",
+            "value": "디더"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_kaleidoscope",
+            "value": "만화경"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror",
+            "value": "거울"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scroll",
+            "value": "스크롤"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shake_(and_earthquake)",
+            "value": "흔들림 (및 지진)"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_slicer",
+            "value": "슬라이서"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_melt",
+            "value": "녹기"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror_shatter",
+            "value": "거울 깨짐"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_ring_rotation",
+            "value": "링 회전"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_refraction",
+            "value": "굴절"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixelation",
+            "value": "픽셀화"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixel_shifter",
+            "value": "픽셀 시프터"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scanline",
+            "value": "스캔라인"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shuffle",
+            "value": "셔플"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_skew",
+            "value": "기울이기"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spherize",
+            "value": "구면화"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_transformation",
+            "value": "변형"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twisted_corridor",
+            "value": "뒤틀린 복도"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_recursion",
+            "value": "재귀"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twod_rotation",
+            "value": "2D 회전"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_rotation",
+            "value": "3D 회전"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_pan",
+            "value": "3D 팬"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_onlyscreens",
+            "value": "온리스크린"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spinterception",
+            "value": "스핀터셉션"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_quadrant_zoom",
+            "value": "사분면 줌"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_swivel",
+            "value": "회전"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_distaer",
+            "value": "디스테어"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_thanos",
+            "value": "타노스"
+        },
+        {
+            "key": "june_pro_tab_vertex_reconstruction",
+            "value": "정점 재구성"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_atmosphere",
+            "value": "대기"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_glitter",
+            "value": "글리터"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_shatterwave",
+            "value": "섀터웨이브"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_threed_lighting",
+            "value": "3D 조명"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe",
+            "value": "와이어프레임"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe_shatterwave",
+            "value": "와이어프레임 섀터웨이브"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_normals",
+            "value": "노멀"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tripful",
+            "value": "트립풀"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_hololens",
+            "value": "홀로렌즈"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_lidar",
+            "value": "라이다"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_corruption",
+            "value": "오염"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_world_wrap",
+            "value": "월드 랩"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_spotlight",
+            "value": "스포트라이트"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tryptamines",
+            "value": "트립타민"
+        },
+        {
+            "key": "june_pro_tab_zoom",
+            "value": "줌"
+        },
+        {
+            "key": "june_pro_styles_zoom",
+            "value": "줌은 다음과 같은 스타일을 제공합니다: 스크린, 중앙 정렬, 어안, 팔로우."
+        },
+        {
+            "key": "june_pro_preview_toggle",
+            "value": "June 정식 버전 미리보기"
+        },
+        {
+            "key": "june_pro_preview_notice",
+            "value": "June 정식 버전에 포함된 모든 효과의 미리보기를 보고 계십니다. 모든 기능이 작동하거나 모든 설정을 사용할 수 있는 것은 아니지만, June이 당신에게 유용할지 판단하는 데 도움이 되도록 포함된 모든 내용을 확인할 수 있습니다. 언제든지 June Pro 미리보기 탭에서 기능이 완전한 June Lite 버전으로 다시 전환할 수 있습니다. :)"
+        },
+        {
+            "key": "june_pro_buy_button",
+            "value": "June Pro 구매하기!"
+        },
+        {
+            "key": "june_pro_learn_button",
+            "value": "June Pro에 대해 더 알아보기!"
+        },
+        {
+            "key": "june_pro_docs_button",
+            "value": "June Pro 문서 열기!"
+        },
+        {
+            "key": "june_pro_coupon",
+            "value": "\"UPGRADE10\" 코드를 사용하여 June 구매 시 10% 할인을 받으세요! (Gumroad에서만 가능)"
+        },
+        {
+            "key": "prop_coloring_sharpness",
+            "value": "화면 선명하게"
+        },
+        {
+            "key": "tab_sub_filter_trippy",
+            "value": "트리피"
+        },
+        {
+            "key": "prop_trippy_enable",
+            "value": "트리피 활성화"
+        },
+        {
+            "key": "prop_trippy_power",
+            "value": "트리피 강도"
+        },
+        {
+            "key": "prop_trippy_spread",
+            "value": "트리피 확산"
+        },
+        {
+            "key": "prop_trippy_speed",
+            "value": "트리피 속도"
+        },
+        {
+            "key": "tab_license",
+            "value": "라이선스"
+        },
+        {
+            "key": "button_show_license",
+            "value": "Unity에서 라이선스 표시"
+        }
+    ]
+}

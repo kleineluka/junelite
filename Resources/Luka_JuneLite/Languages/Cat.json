@@ -1,0 +1,1876 @@
+{
+    "entries": [
+        {
+            "key": "enabled",
+            "value": "Enyabled~"
+        },
+        {
+            "key": "disabled",
+            "value": "Disabwed >.<"
+        },
+        {
+            "key": "config_tab_theme",
+            "value": "Tab Theme, meow!"
+        },
+        {
+            "key": "config_text_theme",
+            "value": "Texty Theme, purr~"
+        },
+        {
+            "key": "config_ui_size",
+            "value": "UI Size, nya~"
+        },
+        {
+            "key": "config_updates",
+            "value": "Check fow Updates, nya?"
+        },
+        {
+            "key": "config_language",
+            "value": "Languwage~"
+        },
+        {
+            "key": "config_toggle_updates",
+            "value": "Show Updates, meow!"
+        },
+        {
+            "key": "config_toggle_announcements",
+            "value": "Show Nyews~"
+        },
+        {
+            "key": "config_toggle_enabled",
+            "value": "Enyabled~"
+        },
+        {
+            "key": "config_toggle_disabled",
+            "value": "Disabwed >.<"
+        },
+        {
+            "key": "config_save",
+            "value": "Save Config, purr!"
+        },
+        {
+            "key": "config_reset",
+            "value": "Reset Config, mrow!"
+        },
+        {
+            "key": "config_save_success",
+            "value": "Youw configuwation was saved, nya! ^w^"
+        },
+        {
+            "key": "config_save_error",
+            "value": "Oh nyo! Sumfing went wwong saving youw configuwation, twy reimpawting the Unity package! >w<"
+        },
+        {
+            "key": "config_reset_success",
+            "value": "Youw configuwation was weset to defauwt, nya! ^w^"
+        },
+        {
+            "key": "config_reset_error",
+            "value": "Oh nyo! Sumfing went wwong wesetting youw configuwation, twy reimpawting the Unity package! >w<"
+        },
+        {
+            "key": "dialog_okay",
+            "value": "Oki, nya!"
+        },
+        {
+            "key": "update_available",
+            "value": "Update avaiwabuwl, meow!"
+        },
+        {
+            "key": "update_description",
+            "value": "Downwoad the watest vewsion fow nyew featuwes and bug fixes! <3"
+        },
+        {
+            "key": "tab_config",
+            "value": "Settingz~"
+        },
+        {
+            "key": "open_docs",
+            "value": "Need hewp? Cwick hewe to open the docs, nya~!"
+        },
+        {
+            "key": "tab_rendering",
+            "value": "Rendewing, meow!"
+        },
+        {
+            "key": "tab_audio_link",
+            "value": "Audio Wink~"
+        },
+        {
+            "key": "tab_coloring",
+            "value": "Cowouwing, purr~"
+        },
+        {
+            "key": "tab_blur",
+            "value": "Bluw~"
+        },
+        {
+            "key": "tab_distortion",
+            "value": "Distowtion, mrow~"
+        },
+        {
+            "key": "tab_border",
+            "value": "Bowdew~"
+        },
+        {
+            "key": "tab_fog",
+            "value": "Foggy~"
+        },
+        {
+            "key": "tab_glitch",
+            "value": "Gwitchy~ >.<"
+        },
+        {
+            "key": "tab_overlay",
+            "value": "Ovewway, nya!"
+        },
+        {
+            "key": "tab_uv_manipulation",
+            "value": "UV Manyipuwation~"
+        },
+        {
+            "key": "tab_filter",
+            "value": "Fiwtew, meow!"
+        },
+        {
+            "key": "tab_zoom",
+            "value": "Zoomies!"
+        },
+        {
+            "key": "tab_sub_filter_vignette",
+            "value": "Vinyette~"
+        },
+        {
+            "key": "tab_sub_filter_color_crush",
+            "value": "Cowow Cwush!"
+        },
+        {
+            "key": "tab_sub_filter_duotone",
+            "value": "Duotone, nya~"
+        },
+        {
+            "key": "tab_sub_filter_rainbow",
+            "value": "Wainbow! >w<"
+        },
+        {
+            "key": "tab_sub_filter_film",
+            "value": "Fiwm~"
+        },
+        {
+            "key": "tab_sub_filter_grain",
+            "value": "Gwainy~"
+        },
+        {
+            "key": "tab_sub_filter_vhs",
+            "value": "VHS, mrow~"
+        },
+        {
+            "key": "tab_sub_filter_gradient",
+            "value": "Gwadient, purr~"
+        },
+        {
+            "key": "tab_sub_filter_outline",
+            "value": "Outwine~"
+        },
+        {
+            "key": "tab_sub_filter_astral",
+            "value": "Astaw Pwojection, ooh~"
+        },
+        {
+            "key": "tab_sub_filter_neon",
+            "value": "Nyan~"
+        },
+        {
+            "key": "tab_sub_uv_transformation",
+            "value": "Twansfowmation~"
+        },
+        {
+            "key": "tab_sub_uv_move",
+            "value": "Move, meow!"
+        },
+        {
+            "key": "tab_sub_uv_shake",
+            "value": "Shakey Shakey~"
+        },
+        {
+            "key": "tab_sub_uv_pixelation",
+            "value": "Pixewation!"
+        },
+        {
+            "key": "tab_sub_uv_rotation",
+            "value": "Wotation~"
+        },
+        {
+            "key": "tab_sub_uv_spherize",
+            "value": "Sphewize, nya!"
+        },
+        {
+            "key": "prop_rendering_shader_power",
+            "value": "Shadew Powew, nya!"
+        },
+        {
+            "key": "prop_rendering_falloff_start",
+            "value": "Fawwoff Stawt~"
+        },
+        {
+            "key": "prop_rendering_falloff_end",
+            "value": "Fawwoff End~"
+        },
+        {
+            "key": "prop_rendering_out_of_bounds_style",
+            "value": "Out of Bounds Stywe, mrow~"
+        },
+        {
+            "key": "prop_blur_enable",
+            "value": "Enyabwe Bluw Moduwe~"
+        },
+        {
+            "key": "prop_blur_high_quality",
+            "value": "Highew Quawity Bluws, ooh~"
+        },
+        {
+            "key": "prop_blur_style",
+            "value": "Bluw Stywe~"
+        },
+        {
+            "key": "prop_blur_power",
+            "value": "Bluw Powew!"
+        },
+        {
+            "key": "prop_blur_radius",
+            "value": "Bluw Wadius~"
+        },
+        {
+            "key": "prop_blur_transparency",
+            "value": "Bluw Twanspawency, purr~"
+        },
+        {
+            "key": "prop_blur_color",
+            "value": "Bluw Cowow~"
+        },
+        {
+            "key": "prop_border_enable",
+            "value": "Enyabwe Bowdew Moduwe, nya!"
+        },
+        {
+            "key": "prop_border_style",
+            "value": "Bowdew Stywe~"
+        },
+        {
+            "key": "prop_border_color",
+            "value": "Bowdew Cowow, meow!"
+        },
+        {
+            "key": "prop_border_power",
+            "value": "Bowdew Powew!"
+        },
+        {
+            "key": "prop_border_soften",
+            "value": "Soften Bowdew~"
+        },
+        {
+            "key": "prop_coloring_enable",
+            "value": "Enyabwe Cowowing Moduwe~"
+        },
+        {
+            "key": "prop_coloring_rgb_multiply",
+            "value": "WGB Muwtipwy~"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay_transparency",
+            "value": "WGB Ovewway Twanspawency~"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay",
+            "value": "WGB Ovewway!"
+        },
+        {
+            "key": "prop_coloring_hsv_style",
+            "value": "HSV Stywe, nya~"
+        },
+        {
+            "key": "prop_coloring_hsv_hue",
+            "value": "HSV Hue, meow~"
+        },
+        {
+            "key": "prop_coloring_hsv_saturation",
+            "value": "HSV Satuwation, purr~"
+        },
+        {
+            "key": "prop_coloring_hsv_value",
+            "value": "HSV Wightnyess~"
+        },
+        {
+            "key": "prop_coloring_invert",
+            "value": "Invewt! >:3"
+        },
+        {
+            "key": "prop_coloring_color_drain",
+            "value": "Cowouw Dwain~"
+        },
+        {
+            "key": "prop_coloring_darkness",
+            "value": "Dawknyess, mrow~"
+        },
+        {
+            "key": "prop_coloring_brightness",
+            "value": "Bwightnyess! ^w^"
+        },
+        {
+            "key": "prop_coloring_emission",
+            "value": "Emissyion~"
+        },
+        {
+            "key": "prop_coloring_posterization",
+            "value": "Postewization, nya~"
+        },
+        {
+            "key": "prop_coloring_color_grading",
+            "value": "Cowouw Gwading~"
+        },
+        {
+            "key": "prop_coloring_color_grading_tone",
+            "value": "Cowouw Gwading Tonye~"
+        },
+        {
+            "key": "prop_distortion_enable",
+            "value": "Enyabwe Distowtion Moduwe, nya!"
+        },
+        {
+            "key": "prop_distortion_style",
+            "value": "Distowtion Stywe~"
+        },
+        {
+            "key": "prop_distortion_power_x",
+            "value": "Distowtion Powew X, meow!"
+        },
+        {
+            "key": "prop_distortion_power_y",
+            "value": "Distowtion Powew Y, purr!"
+        },
+        {
+            "key": "prop_distortion_speed_x",
+            "value": "Distowtion Speed X~"
+        },
+        {
+            "key": "prop_distortion_speed_y",
+            "value": "Distowtion Speed Y~"
+        },
+        {
+            "key": "prop_distortion_texture",
+            "value": "Distowtion Textuwe, ooh~"
+        },
+        {
+            "key": "prop_distortion_texture_scale",
+            "value": "Distowtion Textuwe Scawe~"
+        },
+        {
+            "key": "prop_distortion_add_in_wobble",
+            "value": "Add in WoBbLe, nya?~"
+        },
+        {
+            "key": "prop_distortion_wobble_power",
+            "value": "Wobbwy Powew~"
+        },
+        {
+            "key": "prop_distortion_wobble_speed",
+            "value": "Wobbwy Speed~"
+        },
+        {
+            "key": "prop_distortion_wobble_coverage",
+            "value": "Wobbwy Covewage~"
+        },
+        {
+            "key": "prop_filter_enable",
+            "value": "Enyabwe Fiwtew Moduwe, meow!"
+        },
+        {
+            "key": "prop_vignette_enable",
+            "value": "Enyabwe Vinyette~"
+        },
+        {
+            "key": "prop_vignette_power",
+            "value": "Vinyette Powew!"
+        },
+        {
+            "key": "prop_vignette_color",
+            "value": "Vinyette Cowow~"
+        },
+        {
+            "key": "prop_color_crush_enable",
+            "value": "Enyabwe Cowow Cwush! >:3"
+        },
+        {
+            "key": "prop_color_crush_power",
+            "value": "Cowow Cwush Powew!"
+        },
+        {
+            "key": "prop_duotone_enable",
+            "value": "Enyabwe Duotonye~"
+        },
+        {
+            "key": "prop_duotone_transparency",
+            "value": "Duotonye Twanspawency~"
+        },
+        {
+            "key": "prop_duotone_color_one",
+            "value": "Duotonye Cowow One, nya!"
+        },
+        {
+            "key": "prop_duotone_color_two",
+            "value": "Duotonye Cowow Two, meow!"
+        },
+        {
+            "key": "prop_duotone_threshold",
+            "value": "Duotonye Thweshowd~"
+        },
+        {
+            "key": "prop_rainbow_enable",
+            "value": "Enyabwe Wainbow! >w<"
+        },
+        {
+            "key": "prop_rainbow_saturation",
+            "value": "Wainbow Satuwation~"
+        },
+        {
+            "key": "prop_rainbow_speed",
+            "value": "Wainbow Speed, zoom~"
+        },
+        {
+            "key": "prop_film_enable",
+            "value": "Enyabwe Fiwm~"
+        },
+        {
+            "key": "prop_film_amount",
+            "value": "Fiwm Amount~"
+        },
+        {
+            "key": "prop_grain_enable",
+            "value": "Enyabwe Gwainy~"
+        },
+        {
+            "key": "prop_grain_amount",
+            "value": "Gwainy Amount~"
+        },
+        {
+            "key": "prop_grain_color",
+            "value": "Gwainy Cowow~"
+        },
+        {
+            "key": "prop_vhs_enable",
+            "value": "Enyabwe VHS, mrow~"
+        },
+        {
+            "key": "prop_vhs_amount",
+            "value": "VHS Amount~"
+        },
+        {
+            "key": "prop_gradient_enable",
+            "value": "Enyabwe Gwadient, purr~"
+        },
+        {
+            "key": "prop_gradient_lhs",
+            "value": "Gwadient LHS~"
+        },
+        {
+            "key": "prop_gradient_rhs",
+            "value": "Gwadient WHS~"
+        },
+        {
+            "key": "prop_gradient_transparency",
+            "value": "Gwadient Twanspawency~"
+        },
+        {
+            "key": "prop_outline_enable",
+            "value": "Enyabwe Outwine~"
+        },
+        {
+            "key": "prop_outline_width",
+            "value": "Outwine Width~"
+        },
+        {
+            "key": "prop_outline_tolerance",
+            "value": "Outwine Towewance~"
+        },
+        {
+            "key": "prop_outline_color",
+            "value": "Outwine Cowow~"
+        },
+        {
+            "key": "prop_astral_enable",
+            "value": "Enyabwe Astaw~"
+        },
+        {
+            "key": "prop_astral_zoom",
+            "value": "Astaw Zoomies!"
+        },
+        {
+            "key": "prop_astral_transparency",
+            "value": "Astaw Twanspawency~"
+        },
+        {
+            "key": "prop_astral_color",
+            "value": "Astaw Cowow~"
+        },
+        {
+            "key": "prop_neon_enable",
+            "value": "Enyabwe Nyan~"
+        },
+        {
+            "key": "prop_neon_width",
+            "value": "Nyan Width~"
+        },
+        {
+            "key": "prop_neon_transparency",
+            "value": "Nyan Twanspawency~"
+        },
+        {
+            "key": "prop_neon_hue",
+            "value": "Nyan Hue~"
+        },
+        {
+            "key": "prop_overlay_enable",
+            "value": "Enyabwe Ovewway Moduwe, nya!"
+        },
+        {
+            "key": "prop_overlay_texture",
+            "value": "Ovewway Textuwe~"
+        },
+        {
+            "key": "prop_overlay_transparency",
+            "value": "Ovewway Twanspawency~"
+        },
+        {
+            "key": "prop_overlay_size_x",
+            "value": "Ovewway Size X~"
+        },
+        {
+            "key": "prop_overlay_size_y",
+            "value": "Ovewway Size Y~"
+        },
+        {
+            "key": "prop_overlay_speed_x",
+            "value": "Ovewway Speed X~"
+        },
+        {
+            "key": "prop_overlay_speed_y",
+            "value": "Ovewway Speed Y~"
+        },
+        {
+            "key": "prop_overlay_offset_x",
+            "value": "Ovewway Offset X~"
+        },
+        {
+            "key": "prop_overlay_offset_y",
+            "value": "Ovewway Offset Y~"
+        },
+        {
+            "key": "prop_uv_manipulation_enable",
+            "value": "Enyabwe UV Moduwe, nya!"
+        },
+        {
+            "key": "prop_transformation_slant_top_left",
+            "value": "Swant Top Weft~"
+        },
+        {
+            "key": "prop_transformation_slant_top_right",
+            "value": "Swant Top Wight~"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_left",
+            "value": "Swant Bottom Weft~"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_right",
+            "value": "Swant Bottom Wight~"
+        },
+        {
+            "key": "prop_transformation_flip_x",
+            "value": "Fwip X! >:3"
+        },
+        {
+            "key": "prop_transformation_flip_y",
+            "value": "Fwip Y! >:3"
+        },
+        {
+            "key": "prop_transformation_stretch_x",
+            "value": "Stwetch X~"
+        },
+        {
+            "key": "prop_transformation_stretch_y",
+            "value": "Stwetch Y~"
+        },
+        {
+            "key": "prop_movement_move_x",
+            "value": "Move X, meow~"
+        },
+        {
+            "key": "prop_movement_move_y",
+            "value": "Move Y, purr~"
+        },
+        {
+            "key": "prop_shake_style",
+            "value": "Shakey Stywe~"
+        },
+        {
+            "key": "prop_shake_power_x",
+            "value": "Shakey X Powew!"
+        },
+        {
+            "key": "prop_shake_power_y",
+            "value": "Shakey Y Powew!"
+        },
+        {
+            "key": "prop_shake_speed_x",
+            "value": "Shakey X Speed~"
+        },
+        {
+            "key": "prop_shake_speed_y",
+            "value": "Shakey Y Speed~"
+        },
+        {
+            "key": "prop_pixelation_enable",
+            "value": "Enyabwe Pixewation~"
+        },
+        {
+            "key": "prop_pixelation_power",
+            "value": "Pixewation Powew!"
+        },
+        {
+            "key": "prop_rotation_enable",
+            "value": "Enyabwe Wotation~"
+        },
+        {
+            "key": "prop_rotation_angle",
+            "value": "Wotation Angwe~"
+        },
+        {
+            "key": "prop_spherize_enable",
+            "value": "Enyabwe Sphewize~"
+        },
+        {
+            "key": "prop_spherize_power",
+            "value": "Sphewize Powew!"
+        },
+        {
+            "key": "prop_zoom_enable",
+            "value": "Enyabwe Zoomies Moduwe!"
+        },
+        {
+            "key": "prop_zoom_power",
+            "value": "Zoomie Powew!"
+        },
+        {
+            "key": "prop_zoom_custom_range",
+            "value": "Zoomie Custom Wange~"
+        },
+        {
+            "key": "prop_zoom_range_start",
+            "value": "Zoomie Wange Stawt~"
+        },
+        {
+            "key": "prop_zoom_range_end",
+            "value": "Zoomie Wange End~"
+        },
+        {
+            "key": "prop_fog_enable",
+            "value": "Enyabwe Foggy Moduwe~"
+        },
+        {
+            "key": "prop_fog_density",
+            "value": "Foggy Density~"
+        },
+        {
+            "key": "prop_fog_distribution",
+            "value": "Foggy Distwibution~"
+        },
+        {
+            "key": "prop_fog_color",
+            "value": "Foggy Cowow~"
+        },
+        {
+            "key": "prop_fog_safe_space",
+            "value": "Foggy Safe Space~"
+        },
+        {
+            "key": "prop_fog_safe_space_size",
+            "value": "Foggy Safe Space Size~"
+        },
+        {
+            "key": "prop_glitch_enable",
+            "value": "Enyabwe Gwitchy Moduwe! >.<"
+        },
+        {
+            "key": "prop_glitch_scale",
+            "value": "Gwitchy Scawe~"
+        },
+        {
+            "key": "prop_glitch_amount",
+            "value": "Gwitchy Amount~"
+        },
+        {
+            "key": "prop_glitch_uvs",
+            "value": "Gwitchy UVs~"
+        },
+        {
+            "key": "prop_glitch_chromatic",
+            "value": "Gwitchy Chwomatic~"
+        },
+        {
+            "key": "prop_overlay_animated",
+            "value": "Anyimated Ovewway~"
+        },
+        {
+            "key": "prop_overlay_frames_x",
+            "value": "Ovewway Cowumns~"
+        },
+        {
+            "key": "prop_overlay_frames_y",
+            "value": "Ovewway Wows~"
+        },
+        {
+            "key": "prop_overlay_frames",
+            "value": "Ovewway Fwames~"
+        },
+        {
+            "key": "prop_overlay_speed",
+            "value": "Ovewway Speed~"
+        },
+        {
+            "key": "prop_overlay_scrub",
+            "value": "Ovewway Scwub~"
+        },
+        {
+            "key": "prop_ui_notice",
+            "value": "Supew-Dupew Hewpfuw Advice! ^w^"
+        },
+        {
+            "key": "prop_ui_depth",
+            "value": "This effect nyeeds a depth wight in the scene with it, nya~. A pwefab is in the package in Wesouwces/Pwefabs, meow!"
+        },
+        {
+            "key": "prop_audio_link_enable",
+            "value": "Enyabwe Audio Wink~"
+        },
+        {
+            "key": "prop_audio_link_band",
+            "value": "Band~"
+        },
+        {
+            "key": "prop_audio_link_power",
+            "value": "Powew!"
+        },
+        {
+            "key": "prop_audio_link_min",
+            "value": "Min Vawue~"
+        },
+        {
+            "key": "prop_audio_link_max",
+            "value": "Max Vawue~"
+        },
+        {
+            "key": "prop_blur_dithering",
+            "value": "Dithew Bluw~"
+        },
+        {
+            "key": "prop_overlay_blendmode",
+            "value": "Ovewway Bwendmode~"
+        },
+        {
+            "key": "prop_overlay_vr",
+            "value": "Use VW-Specific Changyes~"
+        },
+        {
+            "key": "prop_overlay_vr_preview",
+            "value": "VW Ovewway Pweview~"
+        },
+        {
+            "key": "prop_overlay_vr_size_x",
+            "value": "VW Ovewway Size X~"
+        },
+        {
+            "key": "prop_overlay_vr_size_y",
+            "value": "VW Ovewway Size Y~"
+        },
+        {
+            "key": "prop_overlay_vr_offset_x",
+            "value": "VW Ovewway Offset X~"
+        },
+        {
+            "key": "prop_overlay_vr_offset_y",
+            "value": "VW Ovewway Offset Y~"
+        },
+        {
+            "key": "tab_june_pro",
+            "value": "Pweview June Pwo, ooh!~"
+        },
+        {
+            "key": "june_pro_tab_blur",
+            "value": "Bluw~"
+        },
+        {
+            "key": "june_pro_styles_blur",
+            "value": "Bluw has these stywes, nya~: Gaussian, Sewective, Bwoom, Bokeh, Fwosted, Pixew Distowt, Extwusion, Smeaw, Zoom Wadial, and Othew Goodies."
+        },
+        {
+            "key": "june_pro_tab_border",
+            "value": "Bowdew~"
+        },
+        {
+            "key": "june_pro_styles_border",
+            "value": "Bowdew has these stywes, meow~: Vewticaw Wettewboxing, Howizontaw Wettewboxing, Box, Ciwcuwaw, Powygon, Eye, Anyime, and Map."
+        },
+        {
+            "key": "june_pro_tab_chromatic",
+            "value": "Chwomatic~"
+        },
+        {
+            "key": "june_pro_styles_chromatic",
+            "value": "Chwomatic has these stywes, purr~: WGB, HSV, Nyegativity, Wadial, Wayewed, and Bluw."
+        },
+        {
+            "key": "june_pro_tab_colour_grading",
+            "value": "Cowouw Gwading~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_fine_tuning",
+            "value": "Finye Tunying~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_focus",
+            "value": "Cowouw Focus~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_replacements",
+            "value": "Cowouw Wepwacements~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colourspace",
+            "value": "Cowouwspace~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_lighting_adjustment",
+            "value": "Wighting Adjustmyent~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_sharpness",
+            "value": "Shawpnyess~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_saturation",
+            "value": "Satuwation~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_stylize",
+            "value": "Stywize~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_channels",
+            "value": "Cowouw Channyews~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_post-processing",
+            "value": "Post-Pwocessing~"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_posterization",
+            "value": "Postewization~"
+        },
+        {
+            "key": "june_pro_tab_creativity",
+            "value": "Cweativity, nya!~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_alphenglow",
+            "value": "Awphengwow~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aquamarine",
+            "value": "Aquamawine~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aurora",
+            "value": "Auwowa~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_bonnibel",
+            "value": "Bonnyibew~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_butterfly",
+            "value": "Buttewfwy~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_candy",
+            "value": "Candy! >w<"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_ecstasy",
+            "value": "Ecstasy~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_fable",
+            "value": "Fabwe~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_lava_lamp",
+            "value": "Wava Wamp~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_marceline",
+            "value": "Mawcewine~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_smokescreen",
+            "value": "Smokescween~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_turbulence",
+            "value": "Tuwbuwence~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_rainbow_river",
+            "value": "Wainbow Wivew~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_portal",
+            "value": "Powtaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_tea",
+            "value": "Tea~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_oil_spill",
+            "value": "Oiw Spiww~"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_art",
+            "value": "Awt, meow~"
+        },
+        {
+            "key": "june_pro_tab_distortion",
+            "value": "Distowtion, mrow~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_simple_distortion",
+            "value": "Simpwe Distowtion~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bezier_curve",
+            "value": "Bezi-ew Cuwve~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_blackhole",
+            "value": "Bwackhowe~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bubbles",
+            "value": "Bubbwes! owo"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bumpy_glass",
+            "value": "Bumpy Gwass~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_exaggeration",
+            "value": "Exaggewation~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_liquify",
+            "value": "Wiquify~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_warp",
+            "value": "Wawp!~"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_wave",
+            "value": "Wavey~"
+        },
+        {
+            "key": "june_pro_tab_enhancements",
+            "value": "Enhancements, nya~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_anti-aliasing",
+            "value": "Anti-Awiasing~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_denoise",
+            "value": "Denyoise~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_deblur",
+            "value": "Debwuw~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_heavy_lines",
+            "value": "Heavy Wines~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_soft_lines",
+            "value": "Soft Wines~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_upscale",
+            "value": "Upscawe~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_contrast_sharpening",
+            "value": "Contwast Shawpening~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_fdr",
+            "value": "FDW~"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_screenspace_softshading",
+            "value": "Scweenspace Softshading~"
+        },
+        {
+            "key": "june_pro_tab_experiments",
+            "value": "Expewiments, ooh~"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_dolly",
+            "value": "Dowwy~"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_cloning",
+            "value": "Cwoning~"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_screen_background",
+            "value": "Scween Backgwound~"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_depth_viewer",
+            "value": "Depth Viewew~"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_objectify",
+            "value": "Objectify~"
+        },
+        {
+            "key": "june_pro_tab_filters",
+            "value": "Fiwtews, meow!"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_incorrection",
+            "value": "Cowouw Incewwection~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colourblind_simulation",
+            "value": "Cowouwbwind Simuwation~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_corners",
+            "value": "Cownews~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_crush",
+            "value": "Cowouw Cwush! >:3"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_cycline",
+            "value": "Cowouw CycWinye~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_wheel",
+            "value": "Cowouw Wheew~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_crt",
+            "value": "CWT~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_monotone",
+            "value": "Monyotonye~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_duotone",
+            "value": "Duotonye~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tritone",
+            "value": "Twitonye~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_engraving",
+            "value": "Engwaving~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_linocut",
+            "value": "Winyocut~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_light_leak",
+            "value": "Wight Weak~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_film",
+            "value": "Fiwm~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_normal_mapper",
+            "value": "Nyowmaw Mappew~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_chrome",
+            "value": "Chwome~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_rainbow",
+            "value": "Wainbow! >w<"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ramp",
+            "value": "Wamp~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_gradient",
+            "value": "Gwadient, purr~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_ink",
+            "value": "Wow Ink~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_bitrate",
+            "value": "Wow Bitwate~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_grain",
+            "value": "Gwainy~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_glitter",
+            "value": "Gwittew! ✨"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_moire",
+            "value": "Moiwe~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_sepia",
+            "value": "Sepia~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_solarize",
+            "value": "Sowawize~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_specular",
+            "value": "Specuwaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tie_dye",
+            "value": "Tie Dye~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_technicolour",
+            "value": "Technyicowouw~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_thermal",
+            "value": "Thewmaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_threshold",
+            "value": "Thweshowd~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_night_vision",
+            "value": "Nyight Vision~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ultra_violet",
+            "value": "Uwtwa Viowet~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_wall_glow",
+            "value": "Waww Gwow~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vhs",
+            "value": "VHS, mrow~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vignette",
+            "value": "Vinyette~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_dither",
+            "value": "Dithew~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_fauxlate",
+            "value": "Fauxwate~"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_lieless",
+            "value": "Wiewess~"
+        },
+        {
+            "key": "june_pro_tab_frames",
+            "value": "Fwames~"
+        },
+        {
+            "key": "june_pro_styles_frames",
+            "value": "Fwames has these stywes, nya~: Pwide, Twans, Music, Powawiod, Supew Eight, Magazinye, Fiwmdom, Nyan, Comic, and Fiwm Stwipes."
+        },
+        {
+            "key": "june_pro_tab_generation",
+            "value": "Genyewation~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_lines",
+            "value": "Winyes~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_ring_colors",
+            "value": "Wing Cowows~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_noise_colors",
+            "value": "Nyoise Cowows~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_sdf_colors",
+            "value": "SDF Cowows~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_colors",
+            "value": "Shapes Cowows~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_uvs",
+            "value": "Shapes UVs~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_colors",
+            "value": "Spiwaw Cowows~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_uvs",
+            "value": "Spiwaw UVs~"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_hearts",
+            "value": "Heawts! <3"
+        },
+        {
+            "key": "june_pro_tab_glitch",
+            "value": "Gwitchy~ >.<"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_simple",
+            "value": "Simpwe~"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_advanced",
+            "value": "Advanyced~"
+        },
+        {
+            "key": "june_pro_tab_motion",
+            "value": "Motion, zoom~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_acid",
+            "value": "Acid~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_blur",
+            "value": "Bluw~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_distortion",
+            "value": "Distowtion~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_freeze",
+            "value": "Fweeze~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_rgb_freeze",
+            "value": "WGB Fweeze~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_glitch",
+            "value": "Gwitchy~ >.<"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_chromatic",
+            "value": "Chwomatic~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_pixel_sort",
+            "value": "Pixew Sowt~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_trail",
+            "value": "Twaiw~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranquility",
+            "value": "Twanquiwity~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranceless",
+            "value": "Twancewess~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_data_mosh",
+            "value": "Data Mosh~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_frame_rate",
+            "value": "Fwame Wate~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fensterxd",
+            "value": "FenstewXD~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fading_projections",
+            "value": "Fading Pwojections~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_motear",
+            "value": "Moteaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_lake_fill",
+            "value": "Wake Fiww~"
+        },
+        {
+            "key": "june_pro_tab_others",
+            "value": "Othews, meow~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral",
+            "value": "Astaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral_rgb",
+            "value": "Astaw WGB~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_apart",
+            "value": "Apawt~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_colour_diffusion",
+            "value": "Cowouw Diffusyon~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_holepuncher",
+            "value": "Howepunchew~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_glowstick",
+            "value": "Gwowstick~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_grid_checkerboard",
+            "value": "Gwid Checkewboawd~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hallucinogen",
+            "value": "Hawwucinyogen~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_lenticular_halo",
+            "value": "Wenticuwaw Hawo~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_meta_image",
+            "value": "Meta Imyage~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_palette",
+            "value": "Pawette~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rain_line",
+            "value": "Wain Wine~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rim",
+            "value": "Wim~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_scanline_overlay",
+            "value": "Scanywine Ovewway~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_stripes",
+            "value": "Stwipes~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_sunbeams",
+            "value": "Sunbeams~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_water_reflection",
+            "value": "Watew Wefwection~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_camouflage",
+            "value": "Camoufwage~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_inception",
+            "value": "Inception~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_object_detection",
+            "value": "Object Detection~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_fog",
+            "value": "Foggy~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_silhouette",
+            "value": "Siwhouette~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_prismatic_layers",
+            "value": "Pwismatic Wayews~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hexatile",
+            "value": "Hexatiwe~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_secrets",
+            "value": "Secwets, ooh~"
+        },
+        {
+            "key": "june_pro_sub_tab_others_divider",
+            "value": "Dividew~"
+        },
+        {
+            "key": "june_pro_tab_outline",
+            "value": "Outwine~"
+        },
+        {
+            "key": "june_pro_styles_outline",
+            "value": "Outwine has these stywes, nya~: Cowouw (Skinny), and Depth (Thick)."
+        },
+        {
+            "key": "june_pro_tab_overlay",
+            "value": "Ovewway, nya!"
+        },
+        {
+            "key": "june_pro_styles_overlay",
+            "value": "Ovewway has these stywes, meow~: Image Stiww, Image Anyimated, and Cowwage."
+        },
+        {
+            "key": "june_pro_tab_stylize",
+            "value": "Stywize~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_compression",
+            "value": "Compwession~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crosshatching",
+            "value": "Cwosshatching~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crystalize",
+            "value": "Cwystawize~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_dots",
+            "value": "Dots~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_emboss",
+            "value": "Emboss~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_impressionism",
+            "value": "Impwessionyism~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_mosaic",
+            "value": "Mosaic~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon_rings",
+            "value": "Nyan Wings~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_oil",
+            "value": "Oiw~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_monitor",
+            "value": "Monyitow~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon",
+            "value": "Nyan~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_pop_art",
+            "value": "Pop Awt~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_unicode",
+            "value": "Unicodye~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone",
+            "value": "Haftonye~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_circles",
+            "value": "Haftonye Ciwcwes~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_spiral",
+            "value": "Haftonye Spiwaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_rgb",
+            "value": "Haftonye WGB~"
+        },
+        {
+            "key": "june_pro_tab_special",
+            "value": "Speciyaw~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_bubbles",
+            "value": "Bubbwes! owo"
+        },
+        {
+            "key": "june_pro_sub_tab_special_confetti",
+            "value": "Confetti! >w<"
+        },
+        {
+            "key": "june_pro_sub_tab_special_data_stream",
+            "value": "Data Stweam~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lens_flare",
+            "value": "Wens Fwawe~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_hexagonal_shield",
+            "value": "Hexagonaw Shiewd~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lightning",
+            "value": "Wightnying~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_mapping",
+            "value": "Mapping~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_rain_drops",
+            "value": "Wain Dwops~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_plexus",
+            "value": "Pwexus~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_shanshuo",
+            "value": "Shanshuo~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_star_trail",
+            "value": "Staw Twaiw~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_spotlights",
+            "value": "Spotwights~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_visualizer",
+            "value": "Visuawizew~"
+        },
+        {
+            "key": "june_pro_sub_tab_special_warp_drive",
+            "value": "Wawp Dwive, nyaom~"
+        },
+        {
+            "key": "june_pro_tab_transition",
+            "value": "Twansition~"
+        },
+        {
+            "key": "june_pro_styles_transition",
+            "value": "Twansition has these stywes, nya~: Swide, Spot In, Spot Out, Box In, Box Out, Tiwe Bounyce, Tiwe Wave, Shuttew, Wadiaw Swipe, Wadiaw Wepeat, Dissowve, Jagged Swipe, Dewayed, Hexagonaw Tiwes, Hexagonaw Swipe, and Modewo In."
+        },
+        {
+            "key": "june_pro_tab_triplanar",
+            "value": "Twipwanyaw~"
+        },
+        {
+            "key": "june_pro_styles_triplanar",
+            "value": "Twipwanyaw has these stywes, meow~: Stiww Image, Anyimated Image, Cowouw, and Cewws."
+        },
+        {
+            "key": "june_pro_tab_uv_manipulation",
+            "value": "UV Manyipuwation~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_bender",
+            "value": "Bendew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_movement",
+            "value": "Movemyent~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_clamp",
+            "value": "Cwamp~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_coordinates",
+            "value": "Coowdinyates~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_dither",
+            "value": "Dithew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_kaleidoscope",
+            "value": "Kaweidoscope~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror",
+            "value": "Miwwow~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scroll",
+            "value": "Scwoww~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shake_(and_earthquake)",
+            "value": "Shakey Shakey (and Eawthquake)~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_slicer",
+            "value": "Swicew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_melt",
+            "value": "Mewt~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror_shatter",
+            "value": "Miwwow Shattew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_ring_rotation",
+            "value": "Wing Wotation~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_refraction",
+            "value": "Wefwaction~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixelation",
+            "value": "Pixewation~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixel_shifter",
+            "value": "Pixew Shiftew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scanline",
+            "value": "Scanywine~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shuffle",
+            "value": "Shuffwe~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_skew",
+            "value": "Skew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spherize",
+            "value": "Sphewize~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_transformation",
+            "value": "Twansfowmation~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twisted_corridor",
+            "value": "Twisted Cowwidow~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_recursion",
+            "value": "Wecuwsion~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twod_rotation",
+            "value": "TwoD Wotation~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_rotation",
+            "value": "ThweeD Wotation~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_pan",
+            "value": "ThweeD Pan~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_onlyscreens",
+            "value": "OnwyScweens~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spinterception",
+            "value": "Spintewception~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_quadrant_zoom",
+            "value": "Quadwant Zoomies!"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_swivel",
+            "value": "Swivew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_distaer",
+            "value": "Distaew~"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_thanos",
+            "value": "Thanyos~"
+        },
+        {
+            "key": "june_pro_tab_vertex_reconstruction",
+            "value": "Vewtex Weconstwuction~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_atmosphere",
+            "value": "Atmosphewe~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_glitter",
+            "value": "Gwittew! ✨"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_shatterwave",
+            "value": "Shattewwave~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_threed_lighting",
+            "value": "ThweeD Wighting~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe",
+            "value": "Wiwewfwame~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe_shatterwave",
+            "value": "Wiwewfwame Shattewwave~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_normals",
+            "value": "Nyowmaws~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tripful",
+            "value": "Twipfuw~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_hololens",
+            "value": "Howowens~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_lidar",
+            "value": "WIDAW~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_corruption",
+            "value": "Cowwuption~ >.<"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_world_wrap",
+            "value": "Wowwd Wwap~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_spotlight",
+            "value": "Spotwight~"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tryptamines",
+            "value": "Twypyaminyes~"
+        },
+        {
+            "key": "june_pro_tab_zoom",
+            "value": "Zoomies!"
+        },
+        {
+            "key": "june_pro_styles_zoom",
+            "value": "Zoomies has these stywes, nya~: Scween, Centewing, Fisheye, and Fowwow."
+        },
+        {
+            "key": "june_pro_preview_toggle",
+            "value": "Pweview Fuww Vewsion Of June, meow!"
+        },
+        {
+            "key": "june_pro_preview_notice",
+            "value": "You'we wooking at a pweview of aww the effects in the fuww vewsion of June, nya~! They awen't functionyaw and don't have aww the settings, but you can see what's incwuded to hewp you decide if June is fow you, meow. You can switch back in the June Pwo Pweview tab any time to the fuwwy functionyaw vewsion of June Wite. :)"
+        },
+        {
+            "key": "june_pro_buy_button",
+            "value": "Buy June Pwo, nyaow!"
+        },
+        {
+            "key": "june_pro_learn_button",
+            "value": "Weawn mowe about June Pwo, meow!"
+        },
+        {
+            "key": "june_pro_docs_button",
+            "value": "Open the June Pwo docs, purr!~"
+        },
+        {
+            "key": "june_pro_coupon",
+            "value": "Use the code \"UPGRADE10\" to get 10% off youw puwchase of June, nya! (On Gumwoad Onwy)"
+        },
+        {
+            "key": "prop_coloring_sharpness",
+            "value": "Shawpen Scween~"
+        },
+        {
+            "key": "tab_sub_filter_trippy",
+            "value": "Twippy~"
+        },
+        {
+            "key": "prop_trippy_enable",
+            "value": "Enyabwe Twippy~"
+        },
+        {
+            "key": "prop_trippy_power",
+            "value": "Twippy Powew!"
+        },
+        {
+            "key": "prop_trippy_spread",
+            "value": "Twippy Spwead~"
+        },
+        {
+            "key": "prop_trippy_speed",
+            "value": "Twippy Speed~"
+        },
+        {
+            "key": "tab_license",
+            "value": "License >.<"
+        },
+        {
+            "key": "button_show_license",
+            "value": "ShOwO License in UwUnity"
+        }
+    ]
+}

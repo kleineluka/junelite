@@ -1,0 +1,10 @@
+{
+    "interface": {
+        "tab_theme": "Alternating Dark",
+        "text_theme": "Default",
+        "ui_size": "Comfy",
+        "language": "English",
+        "show_updates": true,
+        "show_announcements": true
+    }
+}

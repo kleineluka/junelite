@@ -40,9 +40,9 @@ Shader "luka/june/lite"
         [HDR] _LiteColoringRGBOverlay ("RGB Overlay", Color) = (0, 0, 0, 0)
         _LiteColoringRGBOverlayTransparency ("RGB Overlay Transparency", Range(0, 1)) = 0
         [IntRange] _LiteColoringHSVStyle ("HSV Style", Range(0, 2)) = 0
-        _LiteColoringHSVh ("HSV Hue", Range(0, 5)) = 0
-        _LiteColoringHSVs ("HSV Saturation", Range(0, 5)) = 0
-        _LiteColoringHSVv ("HSV Value", Range(0, 5)) = 0
+        _LiteColoringHSVh ("HSV Hue", Range(0, 5)) = 1
+        _LiteColoringHSVs ("HSV Saturation", Range(0, 5)) = 1
+        _LiteColoringHSVv ("HSV Value", Range(0, 5)) = 1
         _LiteColoringInvert ("Invert", Range(0, 1)) = 0
         _LiteColoringDrain ("Drain", Range(0, 1)) = 0
         _LiteColoringDarkness ("Darkness", Range(0, 1)) = 0
@@ -51,6 +51,9 @@ Shader "luka/june/lite"
         _LiteColoringPosterization ("Posterization", Range(0, 100)) = 0
         _LiteColoringColorGrading ("Color Grading", Range(0, 1)) = 0
         [PowerSlider(2.0)] _LiteColoringColorGradingTone ("Color Grading Tone", Range(0, 2)) = 0
+        [PowerSlider(2.0)] _LiteColoringSharpness ("Sharpness", Range(0, 5)) = 0
+        _LiteColoringRainbow ("Rainbow", Range(0, 1)) = 0
+        _LiteColoringRainbowSpeed ("Rainbow Speed", Range(0, 5)) = 0.5
         // blur 
         //[Space(30)]
         //[Header(BLUR)]
@@ -62,6 +65,7 @@ Shader "luka/june/lite"
         _LiteBlurRadius ("Blur Radius", Range(1, -2)) = 1
         _LiteBlurTransparency ("Blur Transparency", Range(0, 1)) = 1
         _LiteBlurColor ("Blur Color", Color) = (1, 1, 1, 1)
+        _LiteBlurDithering ("Blur Dithering", Range(0, 0.25)) = 0
         // distortion
         //[Space(30)]
         //[Header(DISTORTION)]
@@ -125,6 +129,13 @@ Shader "luka/june/lite"
         _LiteOverlayFrames ("Overlay Frames", Float) = 0
         _LiteOverlaySpeed ("Overlay Speed", Float) = 0
         _LiteOverlayScrub ("Overlay Scrub", Float) = 0
+        [IntRange] _LiteOverlayBlendMode ("Overlay Blendmode", Range(0, 1)) = 0 // 0 = normal (overlay), 1 = multiply, 2 = add, 3 = subtract
+        [IntRange] _LiteOverlayVR ("Differ in VR", Range(0, 1)) = 0 // 0 = no, 1 = yes
+        [IntRange] _LiteOverlayVRPreview ("VR Overlay Preview", Range(0, 1)) = 0 // 0 = no, 1 = yes
+        _LiteOverlayVRSizeX ("VR Overlay Size X", Range(-5, 5)) = 1
+        _LiteOverlayVRSizeY ("VR Overlay Size Y", Range(-5, 5)) = 1
+        _LiteOverlayVROffsetX ("VR Overlay Offset X", Range(-5, 5)) = 0
+        _LiteOverlayVROffsetY ("VR Overlay Offset Y", Range(-5, 5)) = 0
         // uv manipulation
         //[Space(30)]
         //[Header(UV MANIPULATION)]
@@ -166,12 +177,9 @@ Shader "luka/june/lite"
         _LiteFilterColorCrushPower ("Color Crush Power", Range(0, 10)) = 0
         [IntRange] _LiteFilterDuotone ("Duotone", Range(0, 1)) = 0
         _LiteFilterDuotoneTransparency ("Duotone Transparency", Range(0, 1)) = 0
-        [HDR] _LiteFilterDuotoneColorOne ("Duotone Color One", Color) = (0.0, 0.0, 0.0, 1.0)
-        [HDR] _LiteFilterDuotoneColorTwo ("Duotone Color Two", Color) = (0.0, 0.0, 0.0, 1.0)
+        [HDR] _LiteFilterDuotoneColorOne ("Duotone Color One", Color) = (0.7, 0.2, 0.3, 1.0)
+        [HDR] _LiteFilterDuotoneColorTwo ("Duotone Color Two", Color) = (0.2, 0.3, 0.7, 1.0)
         _LiteFilterDuotoneThreshold ("Duotone Threshold", Range(0, 1)) = 0.5
-        [IntRange] _LiteFilterRainbow ("Rainbow", Range(0, 1)) = 0
-        _LiteFilterRainbowSaturation ("Rainbow Saturation", Range(0, 2)) = 1.0
-        _LiteFilterRainbowSpeed ("Rainbow Speed", Range(0, 1)) = 0.5
         [IntRange] _LiteFilterFilm ("Film", Range(0, 1)) = 0
         _LiteFilterFilmAmount ("Film Amount", Range(0, 1)) = 0.5
         [IntRange] _LiteFilterGrain ("Grain", Range(0, 1)) = 0
@@ -195,6 +203,10 @@ Shader "luka/june/lite"
         _LiteFilterNeonWidth ("Neon Width", Range(0, 2)) = 0.5
         _LiteFilterNeonTransparency ("Neon Transparency", Range(0, 1)) = 1.0
         _LiteFilterNeonHue ("Neon Hue", Range(0, 5)) = 1.0
+        [IntRange] _LiteFilterTrippy ("Trippy", Range(0, 1)) = 0
+        _LiteFilterTrippyPower ("Trippy Power", Range(0, 1)) = 0
+        _LiteFilterTrippySpread ("Trippy Spread", Range(0, 5)) = 1
+        _LiteFilterTrippySpeed ("Trippy Speed", Range(0, 5)) = 0.5
         // zoom
         //[Space(30)]
         //[Header(ZOOM)]
@@ -205,7 +217,7 @@ Shader "luka/june/lite"
         [IntRange] _LiteZoomRangeStyle ("Zoom Range Style", Range(0, 1)) = 0
         _LiteZoomRangeStart ("Zoom Range Start", Float) = 5
         _LiteZoomRangeEnd ("Zoom Range End", Float) = 10
-        // fix for blocked avatars
+        // fix for blocked avatars (not really used anymore but oh well)
         [HideInInspector] _MainTex ("Texture", 2D) = "white" {}
         [HideInInspector] _Alpha ("Alpha", Range(0, 1)) = 0
         [HideInInspector] _Color ("Color", Color) = (1, 1, 1, 0)
@@ -233,6 +245,7 @@ Shader "luka/june/lite"
         Blend One Zero
         ZTest Always
         Cull Off 
+        ZWrite Off
 
 		//|===============================================|
 		//|				 lite pass					      |
@@ -260,9 +273,9 @@ Shader "luka/june/lite"
             #pragma shader_feature_local _ _KEYWORD_ENABLE_LITE_AUDIO_LINK
             #pragma target 5.0
             #include "UnityCG.cginc"
-            #include "Resources/Code/Includes/JLUniversal.cginc"
-            #include "Resources/Code/Includes/JLVertex.cginc"
-            #include "Resources/Code/Includes/JLPixel.cginc"
+            #include "Resources/Luka_JuneLite/Includes/JLUniversal.cginc"
+            #include "Resources/Luka_JuneLite/Includes/JLVertex.cginc"
+            #include "Resources/Luka_JuneLite/Includes/JLPixel.cginc"
             ENDCG
         }
     }
@@ -272,5 +285,5 @@ Shader "luka/june/lite"
 	//|===============================================|
 	// UNITY_SHADER_NO_UPGRADE
 	FallBack "Diffuse"
-	CustomEditor "JuneLite.JuneLiteUI"
+    CustomEditor "Luka.JuneLite.Interface"
 }

@@ -1,0 +1,1876 @@
+{
+    "entries": [
+        {
+            "key": "enabled",
+            "value": "Включено"
+        },
+        {
+            "key": "disabled",
+            "value": "Отключено"
+        },
+        {
+            "key": "config_tab_theme",
+            "value": "Тема вкладок"
+        },
+        {
+            "key": "config_text_theme",
+            "value": "Тема текста"
+        },
+        {
+            "key": "config_ui_size",
+            "value": "Размер интерфейса"
+        },
+        {
+            "key": "config_updates",
+            "value": "Проверить обновления"
+        },
+        {
+            "key": "config_language",
+            "value": "Язык"
+        },
+        {
+            "key": "config_toggle_updates",
+            "value": "Показывать обновления"
+        },
+        {
+            "key": "config_toggle_announcements",
+            "value": "Показывать новости"
+        },
+        {
+            "key": "config_toggle_enabled",
+            "value": "Включено"
+        },
+        {
+            "key": "config_toggle_disabled",
+            "value": "Отключено"
+        },
+        {
+            "key": "config_save",
+            "value": "Сохранить"
+        },
+        {
+            "key": "config_reset",
+            "value": "Сбросить"
+        },
+        {
+            "key": "config_save_success",
+            "value": "Ваши настройки успешно сохранены! ^~^"
+        },
+        {
+            "key": "config_save_error",
+            "value": "Что-то пошло не так при сохранении настроек, попробуйте переустановить пакет Unity! >.<"
+        },
+        {
+            "key": "config_reset_success",
+            "value": "Ваши настройки сброшены до стандартных! ^~^"
+        },
+        {
+            "key": "config_reset_error",
+            "value": "Что-то пошло не так при сбросе настроек, попробуйте переустановить пакет Unity! >.<"
+        },
+        {
+            "key": "dialog_okay",
+            "value": "Оки!"
+        },
+        {
+            "key": "update_available",
+            "value": "Доступно обновление!"
+        },
+        {
+            "key": "update_description",
+            "value": "Загрузите последнюю версию, чтобы получить новые функции и исправления! <3"
+        },
+        {
+            "key": "tab_config",
+            "value": "Настройки"
+        },
+        {
+            "key": "open_docs",
+            "value": "Нужна помощь? Нажмите здесь, чтобы открыть документацию!"
+        },
+        {
+            "key": "tab_rendering",
+            "value": "Рендеринг"
+        },
+        {
+            "key": "tab_audio_link",
+            "value": "Audio Link"
+        },
+        {
+            "key": "tab_coloring",
+            "value": "Раскрашивание"
+        },
+        {
+            "key": "tab_blur",
+            "value": "Размытие"
+        },
+        {
+            "key": "tab_distortion",
+            "value": "Искажение"
+        },
+        {
+            "key": "tab_border",
+            "value": "Рамка"
+        },
+        {
+            "key": "tab_fog",
+            "value": "Туман"
+        },
+        {
+            "key": "tab_glitch",
+            "value": "Глитч"
+        },
+        {
+            "key": "tab_overlay",
+            "value": "Наложение"
+        },
+        {
+            "key": "tab_uv_manipulation",
+            "value": "Манипуляции с UV"
+        },
+        {
+            "key": "tab_filter",
+            "value": "Фильтр"
+        },
+        {
+            "key": "tab_zoom",
+            "value": "Приближение"
+        },
+        {
+            "key": "tab_sub_filter_vignette",
+            "value": "Виньетка"
+        },
+        {
+            "key": "tab_sub_filter_color_crush",
+            "value": "Color Crush"
+        },
+        {
+            "key": "tab_sub_filter_duotone",
+            "value": "Дуотон"
+        },
+        {
+            "key": "tab_sub_filter_rainbow",
+            "value": "Радуга"
+        },
+        {
+            "key": "tab_sub_filter_film",
+            "value": "Пленка"
+        },
+        {
+            "key": "tab_sub_filter_grain",
+            "value": "Зернистость"
+        },
+        {
+            "key": "tab_sub_filter_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "tab_sub_filter_gradient",
+            "value": "Градиент"
+        },
+        {
+            "key": "tab_sub_filter_outline",
+            "value": "Контур"
+        },
+        {
+            "key": "tab_sub_filter_astral",
+            "value": "Астральная проекция"
+        },
+        {
+            "key": "tab_sub_filter_neon",
+            "value": "Неон"
+        },
+        {
+            "key": "tab_sub_uv_transformation",
+            "value": "Трансформация"
+        },
+        {
+            "key": "tab_sub_uv_move",
+            "value": "Перемещение"
+        },
+        {
+            "key": "tab_sub_uv_shake",
+            "value": "Тряска"
+        },
+        {
+            "key": "tab_sub_uv_pixelation",
+            "value": "Пикселизация"
+        },
+        {
+            "key": "tab_sub_uv_rotation",
+            "value": "Вращение"
+        },
+        {
+            "key": "tab_sub_uv_spherize",
+            "value": "Сферизация"
+        },
+        {
+            "key": "prop_rendering_shader_power",
+            "value": "Сила шейдера"
+        },
+        {
+            "key": "prop_rendering_falloff_start",
+            "value": "Начало затухания"
+        },
+        {
+            "key": "prop_rendering_falloff_end",
+            "value": "Конец затухания"
+        },
+        {
+            "key": "prop_rendering_out_of_bounds_style",
+            "value": "Стиль за границами"
+        },
+        {
+            "key": "prop_blur_enable",
+            "value": "Включить модуль размытия"
+        },
+        {
+            "key": "prop_blur_high_quality",
+            "value": "Более качественное размытие"
+        },
+        {
+            "key": "prop_blur_style",
+            "value": "Стиль размытия"
+        },
+        {
+            "key": "prop_blur_power",
+            "value": "Сила размытия"
+        },
+        {
+            "key": "prop_blur_radius",
+            "value": "Радиус размытия"
+        },
+        {
+            "key": "prop_blur_transparency",
+            "value": "Прозрачность размытия"
+        },
+        {
+            "key": "prop_blur_color",
+            "value": "Цвет размытия"
+        },
+        {
+            "key": "prop_border_enable",
+            "value": "Включить модуль рамки"
+        },
+        {
+            "key": "prop_border_style",
+            "value": "Стиль рамки"
+        },
+        {
+            "key": "prop_border_color",
+            "value": "Цвет рамки"
+        },
+        {
+            "key": "prop_border_power",
+            "value": "Сила рамки"
+        },
+        {
+            "key": "prop_border_soften",
+            "value": "Смягчение рамки"
+        },
+        {
+            "key": "prop_coloring_enable",
+            "value": "Включить модуль раскрашивания"
+        },
+        {
+            "key": "prop_coloring_rgb_multiply",
+            "value": "Умножение RGB"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay_transparency",
+            "value": "Прозрачность наложения RGB"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay",
+            "value": "Наложение RGB"
+        },
+        {
+            "key": "prop_coloring_hsv_style",
+            "value": "Стиль HSV"
+        },
+        {
+            "key": "prop_coloring_hsv_hue",
+            "value": "Оттенок HSV"
+        },
+        {
+            "key": "prop_coloring_hsv_saturation",
+            "value": "Насыщенность HSV"
+        },
+        {
+            "key": "prop_coloring_hsv_value",
+            "value": "Яркость HSV"
+        },
+        {
+            "key": "prop_coloring_invert",
+            "value": "Инвертировать"
+        },
+        {
+            "key": "prop_coloring_color_drain",
+            "value": "Обесцвечивание"
+        },
+        {
+            "key": "prop_coloring_darkness",
+            "value": "Темнота"
+        },
+        {
+            "key": "prop_coloring_brightness",
+            "value": "Яркость"
+        },
+        {
+            "key": "prop_coloring_emission",
+            "value": "Эмиссия"
+        },
+        {
+            "key": "prop_coloring_posterization",
+            "value": "Постеризация"
+        },
+        {
+            "key": "prop_coloring_color_grading",
+            "value": "Цветокоррекция"
+        },
+        {
+            "key": "prop_coloring_color_grading_tone",
+            "value": "Тон цветокоррекции"
+        },
+        {
+            "key": "prop_distortion_enable",
+            "value": "Включить модуль искажения"
+        },
+        {
+            "key": "prop_distortion_style",
+            "value": "Стиль искажения"
+        },
+        {
+            "key": "prop_distortion_power_x",
+            "value": "Сила искажения по X"
+        },
+        {
+            "key": "prop_distortion_power_y",
+            "value": "Сила искажения по Y"
+        },
+        {
+            "key": "prop_distortion_speed_x",
+            "value": "Скорость искажения по X"
+        },
+        {
+            "key": "prop_distortion_speed_y",
+            "value": "Скорость искажения по Y"
+        },
+        {
+            "key": "prop_distortion_texture",
+            "value": "Текстура искажения"
+        },
+        {
+            "key": "prop_distortion_texture_scale",
+            "value": "Масштаб текстуры искажения"
+        },
+        {
+            "key": "prop_distortion_add_in_wobble",
+            "value": "Добавить качание?"
+        },
+        {
+            "key": "prop_distortion_wobble_power",
+            "value": "Сила качания"
+        },
+        {
+            "key": "prop_distortion_wobble_speed",
+            "value": "Скорость качания"
+        },
+        {
+            "key": "prop_distortion_wobble_coverage",
+            "value": "Охват качания"
+        },
+        {
+            "key": "prop_filter_enable",
+            "value": "Включить модуль фильтра"
+        },
+        {
+            "key": "prop_vignette_enable",
+            "value": "Включить виньетку"
+        },
+        {
+            "key": "prop_vignette_power",
+            "value": "Сила виньетки"
+        },
+        {
+            "key": "prop_vignette_color",
+            "value": "Цвет виньетки"
+        },
+        {
+            "key": "prop_color_crush_enable",
+            "value": "Включить Color Crush"
+        },
+        {
+            "key": "prop_color_crush_power",
+            "value": "Сила Color Crush"
+        },
+        {
+            "key": "prop_duotone_enable",
+            "value": "Включить дуотон"
+        },
+        {
+            "key": "prop_duotone_transparency",
+            "value": "Прозрачность дуотона"
+        },
+        {
+            "key": "prop_duotone_color_one",
+            "value": "Первый цвет дуотона"
+        },
+        {
+            "key": "prop_duotone_color_two",
+            "value": "Второй цвет дуотона"
+        },
+        {
+            "key": "prop_duotone_threshold",
+            "value": "Порог дуотона"
+        },
+        {
+            "key": "prop_rainbow_enable",
+            "value": "Включить радугу"
+        },
+        {
+            "key": "prop_rainbow_saturation",
+            "value": "Насыщенность радуги"
+        },
+        {
+            "key": "prop_rainbow_speed",
+            "value": "Скорость радуги"
+        },
+        {
+            "key": "prop_film_enable",
+            "value": "Включить пленку"
+        },
+        {
+            "key": "prop_film_amount",
+            "value": "Эффект пленки"
+        },
+        {
+            "key": "prop_grain_enable",
+            "value": "Включить зернистость"
+        },
+        {
+            "key": "prop_grain_amount",
+            "value": "Эффект зернистости"
+        },
+        {
+            "key": "prop_grain_color",
+            "value": "Цвет зернистости"
+        },
+        {
+            "key": "prop_vhs_enable",
+            "value": "Включить VHS"
+        },
+        {
+            "key": "prop_vhs_amount",
+            "value": "Эффект VHS"
+        },
+        {
+            "key": "prop_gradient_enable",
+            "value": "Включить градиент"
+        },
+        {
+            "key": "prop_gradient_lhs",
+            "value": "Градиент слева"
+        },
+        {
+            "key": "prop_gradient_rhs",
+            "value": "Градиент справа"
+        },
+        {
+            "key": "prop_gradient_transparency",
+            "value": "Прозрачность градиента"
+        },
+        {
+            "key": "prop_outline_enable",
+            "value": "Включить контур"
+        },
+        {
+            "key": "prop_outline_width",
+            "value": "Ширина контура"
+        },
+        {
+            "key": "prop_outline_tolerance",
+            "value": "Допуск контура"
+        },
+        {
+            "key": "prop_outline_color",
+            "value": "Цвет контура"
+        },
+        {
+            "key": "prop_astral_enable",
+            "value": "Включить астрал"
+        },
+        {
+            "key": "prop_astral_zoom",
+            "value": "Приближение астрала"
+        },
+        {
+            "key": "prop_astral_transparency",
+            "value": "Прозрачность астрала"
+        },
+        {
+            "key": "prop_astral_color",
+            "value": "Цвет астрала"
+        },
+        {
+            "key": "prop_neon_enable",
+            "value": "Включить неон"
+        },
+        {
+            "key": "prop_neon_width",
+            "value": "Ширина неона"
+        },
+        {
+            "key": "prop_neon_transparency",
+            "value": "Прозрачность неона"
+        },
+        {
+            "key": "prop_neon_hue",
+            "value": "Оттенок неона"
+        },
+        {
+            "key": "prop_overlay_enable",
+            "value": "Включить модуль наложения"
+        },
+        {
+            "key": "prop_overlay_texture",
+            "value": "Текстура наложения"
+        },
+        {
+            "key": "prop_overlay_transparency",
+            "value": "Прозрачность наложения"
+        },
+        {
+            "key": "prop_overlay_size_x",
+            "value": "Размер наложения по X"
+        },
+        {
+            "key": "prop_overlay_size_y",
+            "value": "Размер наложения по Y"
+        },
+        {
+            "key": "prop_overlay_speed_x",
+            "value": "Скорость наложения по X"
+        },
+        {
+            "key": "prop_overlay_speed_y",
+            "value": "Скорость наложения по Y"
+        },
+        {
+            "key": "prop_overlay_offset_x",
+            "value": "Смещение наложения по X"
+        },
+        {
+            "key": "prop_overlay_offset_y",
+            "value": "Смещение наложения по Y"
+        },
+        {
+            "key": "prop_uv_manipulation_enable",
+            "value": "Включить модуль UV"
+        },
+        {
+            "key": "prop_transformation_slant_top_left",
+            "value": "Наклон влево сверху"
+        },
+        {
+            "key": "prop_transformation_slant_top_right",
+            "value": "Наклон вправо сверху"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_left",
+            "value": "Наклон влево снизу"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_right",
+            "value": "Наклон вправо снизу"
+        },
+        {
+            "key": "prop_transformation_flip_x",
+            "value": "Отразить по X"
+        },
+        {
+            "key": "prop_transformation_flip_y",
+            "value": "Отразить по Y"
+        },
+        {
+            "key": "prop_transformation_stretch_x",
+            "value": "Растянуть по X"
+        },
+        {
+            "key": "prop_transformation_stretch_y",
+            "value": "Растянуть по Y"
+        },
+        {
+            "key": "prop_movement_move_x",
+            "value": "Перемещение по X"
+        },
+        {
+            "key": "prop_movement_move_y",
+            "value": "Перемещение по Y"
+        },
+        {
+            "key": "prop_shake_style",
+            "value": "Стиль тряски"
+        },
+        {
+            "key": "prop_shake_power_x",
+            "value": "Сила тряски по X"
+        },
+        {
+            "key": "prop_shake_power_y",
+            "value": "Сила тряски по Y"
+        },
+        {
+            "key": "prop_shake_speed_x",
+            "value": "Скорость тряски по X"
+        },
+        {
+            "key": "prop_shake_speed_y",
+            "value": "Скорость тряски по Y"
+        },
+        {
+            "key": "prop_pixelation_enable",
+            "value": "Включить пикселизацию"
+        },
+        {
+            "key": "prop_pixelation_power",
+            "value": "Сила пикселизации"
+        },
+        {
+            "key": "prop_rotation_enable",
+            "value": "Включить вращение"
+        },
+        {
+            "key": "prop_rotation_angle",
+            "value": "Угол вращения"
+        },
+        {
+            "key": "prop_spherize_enable",
+            "value": "Включить сферизацию"
+        },
+        {
+            "key": "prop_spherize_power",
+            "value": "Сила сферизации"
+        },
+        {
+            "key": "prop_zoom_enable",
+            "value": "Включить модуль приближения"
+        },
+        {
+            "key": "prop_zoom_power",
+            "value": "Сила приближения"
+        },
+        {
+            "key": "prop_zoom_custom_range",
+            "value": "Пользовательский диапазон приближения"
+        },
+        {
+            "key": "prop_zoom_range_start",
+            "value": "Начало диапазона приближения"
+        },
+        {
+            "key": "prop_zoom_range_end",
+            "value": "Конец диапазона приближения"
+        },
+        {
+            "key": "prop_fog_enable",
+            "value": "Включить модуль тумана"
+        },
+        {
+            "key": "prop_fog_density",
+            "value": "Плотность тумана"
+        },
+        {
+            "key": "prop_fog_distribution",
+            "value": "Распределение тумана"
+        },
+        {
+            "key": "prop_fog_color",
+            "value": "Цвет тумана"
+        },
+        {
+            "key": "prop_fog_safe_space",
+            "value": "Безопасная зона в тумане"
+        },
+        {
+            "key": "prop_fog_safe_space_size",
+            "value": "Размер безопасной зоны в тумане"
+        },
+        {
+            "key": "prop_glitch_enable",
+            "value": "Включить модуль глитча"
+        },
+        {
+            "key": "prop_glitch_scale",
+            "value": "Масштаб глитча"
+        },
+        {
+            "key": "prop_glitch_amount",
+            "value": "Эффект глитча"
+        },
+        {
+            "key": "prop_glitch_uvs",
+            "value": "Глитч UV"
+        },
+        {
+            "key": "prop_glitch_chromatic",
+            "value": "Хроматический глитч"
+        },
+        {
+            "key": "prop_overlay_animated",
+            "value": "Анимированное наложение"
+        },
+        {
+            "key": "prop_overlay_frames_x",
+            "value": "Столбцы наложения"
+        },
+        {
+            "key": "prop_overlay_frames_y",
+            "value": "Строки наложения"
+        },
+        {
+            "key": "prop_overlay_frames",
+            "value": "Кадры наложения"
+        },
+        {
+            "key": "prop_overlay_speed",
+            "value": "Скорость наложения"
+        },
+        {
+            "key": "prop_overlay_scrub",
+            "value": "Прокрутка наложения"
+        },
+        {
+            "key": "prop_ui_notice",
+            "value": "Супер-пупер полезный совет!"
+        },
+        {
+            "key": "prop_ui_depth",
+            "value": "Для этого эффекта требуется источник света глубины на сцене. Префаб находится в пакете в Resources/Prefabs."
+        },
+        {
+            "key": "prop_audio_link_enable",
+            "value": "Включить Audio Link"
+        },
+        {
+            "key": "prop_audio_link_band",
+            "value": "Диапазон"
+        },
+        {
+            "key": "prop_audio_link_power",
+            "value": "Сила"
+        },
+        {
+            "key": "prop_audio_link_min",
+            "value": "Мин. значение"
+        },
+        {
+            "key": "prop_audio_link_max",
+            "value": "Макс. значение"
+        },
+        {
+            "key": "prop_blur_dithering",
+            "value": "Дизеринг размытия"
+        },
+        {
+            "key": "prop_overlay_blendmode",
+            "value": "Режим смешивания наложения"
+        },
+        {
+            "key": "prop_overlay_vr",
+            "value": "Использовать изменения для VR"
+        },
+        {
+            "key": "prop_overlay_vr_preview",
+            "value": "Предпросмотр наложения в VR"
+        },
+        {
+            "key": "prop_overlay_vr_size_x",
+            "value": "Размер наложения в VR по X"
+        },
+        {
+            "key": "prop_overlay_vr_size_y",
+            "value": "Размер наложения в VR по Y"
+        },
+        {
+            "key": "prop_overlay_vr_offset_x",
+            "value": "Смещение наложения в VR по X"
+        },
+        {
+            "key": "prop_overlay_vr_offset_y",
+            "value": "Смещение наложения в VR по Y"
+        },
+        {
+            "key": "tab_june_pro",
+            "value": "Предпросмотр June Pro"
+        },
+        {
+            "key": "june_pro_tab_blur",
+            "value": "Размытие"
+        },
+        {
+            "key": "june_pro_styles_blur",
+            "value": "В размытии доступны следующие стили: Гауссово, Выборочное, Свечение, Боке, Матовое, Пиксельное искажение, Экструзия, Размазывание, Радиальное приближение и другие вкусности."
+        },
+        {
+            "key": "june_pro_tab_border",
+            "value": "Рамка"
+        },
+        {
+            "key": "june_pro_styles_border",
+            "value": "В рамке доступны следующие стили: Вертикальные полосы, Горизонтальные полосы, Коробка, Круглая, Многоугольная, Глаз, Аниме и Карта."
+        },
+        {
+            "key": "june_pro_tab_chromatic",
+            "value": "Хроматика"
+        },
+        {
+            "key": "june_pro_styles_chromatic",
+            "value": "В хроматике доступны следующие стили: RGB, HSV, Негатив, Радиальный, Слоистый и Размытие."
+        },
+        {
+            "key": "june_pro_tab_colour_grading",
+            "value": "Цветокоррекция"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_fine_tuning",
+            "value": "Тонкая настройка"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_focus",
+            "value": "Фокус на цвете"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_replacements",
+            "value": "Замена цветов"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colourspace",
+            "value": "Цветовое пространство"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_lighting_adjustment",
+            "value": "Настройка освещения"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_sharpness",
+            "value": "Резкость"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_saturation",
+            "value": "Насыщенность"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_stylize",
+            "value": "Стилизация"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_channels",
+            "value": "Цветовые каналы"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_post-processing",
+            "value": "Постобработка"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_posterization",
+            "value": "Постеризация"
+        },
+        {
+            "key": "june_pro_tab_creativity",
+            "value": "Творчество"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_alphenglow",
+            "value": "Альпийское сияние"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aquamarine",
+            "value": "Аквамарин"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aurora",
+            "value": "Аврора"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_bonnibel",
+            "value": "Боннибель"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_butterfly",
+            "value": "Бабочка"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_candy",
+            "value": "Конфета"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_ecstasy",
+            "value": "Экстаз"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_fable",
+            "value": "Сказка"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_lava_lamp",
+            "value": "Лава-лампа"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_marceline",
+            "value": "Марселин"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_smokescreen",
+            "value": "Дымовая завеса"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_turbulence",
+            "value": "Турбулентность"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_rainbow_river",
+            "value": "Радужная река"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_portal",
+            "value": "Портал"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_tea",
+            "value": "Чай"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_oil_spill",
+            "value": "Нефтяное пятно"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_art",
+            "value": "Искусство"
+        },
+        {
+            "key": "june_pro_tab_distortion",
+            "value": "Искажение"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_simple_distortion",
+            "value": "Простое искажение"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bezier_curve",
+            "value": "Кривая Безье"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_blackhole",
+            "value": "Черная дыра"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bubbles",
+            "value": "Пузыри"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bumpy_glass",
+            "value": "Ребристое стекло"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_exaggeration",
+            "value": "Преувеличение"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_liquify",
+            "value": "Пластика"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_warp",
+            "value": "Деформация"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_wave",
+            "value": "Волна"
+        },
+        {
+            "key": "june_pro_tab_enhancements",
+            "value": "Улучшения"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_anti-aliasing",
+            "value": "Сглаживание"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_denoise",
+            "value": "Шумоподавление"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_deblur",
+            "value": "Устранение размытия"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_heavy_lines",
+            "value": "Жирные линии"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_soft_lines",
+            "value": "Мягкие линии"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_upscale",
+            "value": "Увеличение разрешения"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_contrast_sharpening",
+            "value": "Контрастная резкость"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_fdr",
+            "value": "FDR"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_screenspace_softshading",
+            "value": "Мягкое затенение в экранном пространстве"
+        },
+        {
+            "key": "june_pro_tab_experiments",
+            "value": "Эксперименты"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_dolly",
+            "value": "Долли"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_cloning",
+            "value": "Клонирование"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_screen_background",
+            "value": "Фон экрана"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_depth_viewer",
+            "value": "Просмотр глубины"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_objectify",
+            "value": "Объектификация"
+        },
+        {
+            "key": "june_pro_tab_filters",
+            "value": "Фильтры"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_incorrection",
+            "value": "Неправильная цветопередача"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colourblind_simulation",
+            "value": "Симуляция дальтонизма"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_corners",
+            "value": "Углы"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_crush",
+            "value": "Colour Crush"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_cycline",
+            "value": "Colour CycLine"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_wheel",
+            "value": "Цветовой круг"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_crt",
+            "value": "ЭЛТ"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_monotone",
+            "value": "Монотон"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_duotone",
+            "value": "Дуотон"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tritone",
+            "value": "Тритон"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_engraving",
+            "value": "Гравюра"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_linocut",
+            "value": "Линогравюра"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_light_leak",
+            "value": "Засветка"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_film",
+            "value": "Пленка"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_normal_mapper",
+            "value": "Карта нормалей"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_chrome",
+            "value": "Хром"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_rainbow",
+            "value": "Радуга"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ramp",
+            "value": "Рампа"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_gradient",
+            "value": "Градиент"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_ink",
+            "value": "Мало чернил"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_bitrate",
+            "value": "Низкий битрейт"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_grain",
+            "value": "Зернистость"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_glitter",
+            "value": "Блестки"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_moire",
+            "value": "Муар"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_sepia",
+            "value": "Сепия"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_solarize",
+            "value": "Соляризация"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_specular",
+            "value": "Блик"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tie_dye",
+            "value": "Тай-дай"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_technicolour",
+            "value": "Техниколор"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_thermal",
+            "value": "Тепловизор"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_threshold",
+            "value": "Порог"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_night_vision",
+            "value": "Ночное видение"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ultra_violet",
+            "value": "Ультрафиолет"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_wall_glow",
+            "value": "Свечение стен"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vignette",
+            "value": "Виньетка"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_dither",
+            "value": "Дизеринг"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_fauxlate",
+            "value": "Fauxlate"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_lieless",
+            "value": "Lieless"
+        },
+        {
+            "key": "june_pro_tab_frames",
+            "value": "Рамки"
+        },
+        {
+            "key": "june_pro_styles_frames",
+            "value": "В рамках доступны следующие стили: Прайд, Транс, Музыка, Полароид, Супер 8, Журнал, Кино, Неон, Комикс и Пленочные полосы."
+        },
+        {
+            "key": "june_pro_tab_generation",
+            "value": "Генерация"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_lines",
+            "value": "Линии"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_ring_colors",
+            "value": "Цвета колец"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_noise_colors",
+            "value": "Цвета шума"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_sdf_colors",
+            "value": "Цвета SDF"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_colors",
+            "value": "Цвета фигур"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_uvs",
+            "value": "UV фигур"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_colors",
+            "value": "Цвета спирали"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_uvs",
+            "value": "UV спирали"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_hearts",
+            "value": "Сердца"
+        },
+        {
+            "key": "june_pro_tab_glitch",
+            "value": "Глитч"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_simple",
+            "value": "Простой"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_advanced",
+            "value": "Продвинутый"
+        },
+        {
+            "key": "june_pro_tab_motion",
+            "value": "Движение"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_acid",
+            "value": "Кислота"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_blur",
+            "value": "Размытие"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_distortion",
+            "value": "Искажение"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_freeze",
+            "value": "Заморозка"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_rgb_freeze",
+            "value": "Заморозка RGB"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_glitch",
+            "value": "Глитч"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_chromatic",
+            "value": "Хроматика"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_pixel_sort",
+            "value": "Сортировка пикселей"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_trail",
+            "value": "След"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranquility",
+            "value": "Спокойствие"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranceless",
+            "value": "Tranceless"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_data_mosh",
+            "value": "Data Mosh"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_frame_rate",
+            "value": "Частота кадров"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fensterxd",
+            "value": "FensterXD"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fading_projections",
+            "value": "Затухающие проекции"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_motear",
+            "value": "Motear"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_lake_fill",
+            "value": "Заполнение озера"
+        },
+        {
+            "key": "june_pro_tab_others",
+            "value": "Прочее"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral",
+            "value": "Астрал"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral_rgb",
+            "value": "Астрал RGB"
+        },
+        {
+            "key": "june_pro_sub_tab_others_apart",
+            "value": "Apart"
+        },
+        {
+            "key": "june_pro_sub_tab_others_colour_diffusion",
+            "value": "Диффузия цвета"
+        },
+        {
+            "key": "june_pro_sub_tab_others_holepuncher",
+            "value": "Дырокол"
+        },
+        {
+            "key": "june_pro_sub_tab_others_glowstick",
+            "value": "Светящаяся палочка"
+        },
+        {
+            "key": "june_pro_sub_tab_others_grid_checkerboard",
+            "value": "Шахматная сетка"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hallucinogen",
+            "value": "Галлюциноген"
+        },
+        {
+            "key": "june_pro_sub_tab_others_lenticular_halo",
+            "value": "Линзовидное гало"
+        },
+        {
+            "key": "june_pro_sub_tab_others_meta_image",
+            "value": "Мета-изображение"
+        },
+        {
+            "key": "june_pro_sub_tab_others_palette",
+            "value": "Палитра"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rain_line",
+            "value": "Линия дождя"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rim",
+            "value": "Обод"
+        },
+        {
+            "key": "june_pro_sub_tab_others_scanline_overlay",
+            "value": "Наложение скан-линий"
+        },
+        {
+            "key": "june_pro_sub_tab_others_stripes",
+            "value": "Полосы"
+        },
+        {
+            "key": "june_pro_sub_tab_others_sunbeams",
+            "value": "Солнечные лучи"
+        },
+        {
+            "key": "june_pro_sub_tab_others_water_reflection",
+            "value": "Отражение в воде"
+        },
+        {
+            "key": "june_pro_sub_tab_others_camouflage",
+            "value": "Камуфляж"
+        },
+        {
+            "key": "june_pro_sub_tab_others_inception",
+            "value": "Начало"
+        },
+        {
+            "key": "june_pro_sub_tab_others_object_detection",
+            "value": "Обнаружение объектов"
+        },
+        {
+            "key": "june_pro_sub_tab_others_fog",
+            "value": "Туман"
+        },
+        {
+            "key": "june_pro_sub_tab_others_silhouette",
+            "value": "Силуэт"
+        },
+        {
+            "key": "june_pro_sub_tab_others_prismatic_layers",
+            "value": "Призматические слои"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hexatile",
+            "value": "Гексаплитка"
+        },
+        {
+            "key": "june_pro_sub_tab_others_secrets",
+            "value": "Секреты"
+        },
+        {
+            "key": "june_pro_sub_tab_others_divider",
+            "value": "Разделитель"
+        },
+        {
+            "key": "june_pro_tab_outline",
+            "value": "Контур"
+        },
+        {
+            "key": "june_pro_styles_outline",
+            "value": "В контуре доступны следующие стили: Цветной (тонкий) и Глубинный (толстый)."
+        },
+        {
+            "key": "june_pro_tab_overlay",
+            "value": "Наложение"
+        },
+        {
+            "key": "june_pro_styles_overlay",
+            "value": "В наложении доступны следующие стили: Статичное изображение, Анимированное изображение и Коллаж."
+        },
+        {
+            "key": "june_pro_tab_stylize",
+            "value": "Стилизация"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_compression",
+            "value": "Сжатие"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crosshatching",
+            "value": "Штриховка"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crystalize",
+            "value": "Кристаллизация"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_dots",
+            "value": "Точки"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_emboss",
+            "value": "Тиснение"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_impressionism",
+            "value": "Импрессионизм"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_mosaic",
+            "value": "Мозаика"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon_rings",
+            "value": "Неоновые кольца"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_oil",
+            "value": "Масло"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_monitor",
+            "value": "Монитор"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon",
+            "value": "Неон"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_pop_art",
+            "value": "Поп-арт"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_unicode",
+            "value": "Юникод"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone",
+            "value": "Полутон"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_circles",
+            "value": "Полутоновые круги"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_spiral",
+            "value": "Полутоновая спираль"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_rgb",
+            "value": "Полутоновый RGB"
+        },
+        {
+            "key": "june_pro_tab_special",
+            "value": "Специальные"
+        },
+        {
+            "key": "june_pro_sub_tab_special_bubbles",
+            "value": "Пузыри"
+        },
+        {
+            "key": "june_pro_sub_tab_special_confetti",
+            "value": "Конфетти"
+        },
+        {
+            "key": "june_pro_sub_tab_special_data_stream",
+            "value": "Поток данных"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lens_flare",
+            "value": "Блик объектива"
+        },
+        {
+            "key": "june_pro_sub_tab_special_hexagonal_shield",
+            "value": "Гексагональный щит"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lightning",
+            "value": "Молния"
+        },
+        {
+            "key": "june_pro_sub_tab_special_mapping",
+            "value": "Маппинг"
+        },
+        {
+            "key": "june_pro_sub_tab_special_rain_drops",
+            "value": "Капли дождя"
+        },
+        {
+            "key": "june_pro_sub_tab_special_plexus",
+            "value": "Сплетение"
+        },
+        {
+            "key": "june_pro_sub_tab_special_shanshuo",
+            "value": "Shanshuo"
+        },
+        {
+            "key": "june_pro_sub_tab_special_star_trail",
+            "value": "Звездный след"
+        },
+        {
+            "key": "june_pro_sub_tab_special_spotlights",
+            "value": "Прожекторы"
+        },
+        {
+            "key": "june_pro_sub_tab_special_visualizer",
+            "value": "Визуализатор"
+        },
+        {
+            "key": "june_pro_sub_tab_special_warp_drive",
+            "value": "Варп-двигатель"
+        },
+        {
+            "key": "june_pro_tab_transition",
+            "value": "Переход"
+        },
+        {
+            "key": "june_pro_styles_transition",
+            "value": "В переходе доступны следующие стили: Слайд, Появление в точке, Исчезновение в точке, Появление в коробке, Исчезновение в коробке, Плиточный отскок, Плиточная волна, Затвор, Радиальное смахивание, Радиальное повторение, Растворение, Рваное смахивание, Задержанный, Гексагональные плитки, Гексагональное смахивание и Modelo In."
+        },
+        {
+            "key": "june_pro_tab_triplanar",
+            "value": "Трипланарный"
+        },
+        {
+            "key": "june_pro_styles_triplanar",
+            "value": "В трипланарном доступны следующие стили: Статичное изображение, Анимированное изображение, Цвет и Ячейки."
+        },
+        {
+            "key": "june_pro_tab_uv_manipulation",
+            "value": "Манипуляции с UV"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_bender",
+            "value": "Бендер"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_movement",
+            "value": "Перемещение"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_clamp",
+            "value": "Зажим"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_coordinates",
+            "value": "Координаты"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_dither",
+            "value": "Дизеринг"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_kaleidoscope",
+            "value": "Калейдоскоп"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror",
+            "value": "Зеркало"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scroll",
+            "value": "Прокрутка"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shake_(and_earthquake)",
+            "value": "Тряска (и землетрясение)"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_slicer",
+            "value": "Слайсер"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_melt",
+            "value": "Плавление"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror_shatter",
+            "value": "Осколки зеркала"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_ring_rotation",
+            "value": "Вращение кольца"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_refraction",
+            "value": "Преломление"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixelation",
+            "value": "Пикселизация"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixel_shifter",
+            "value": "Сдвиг пикселей"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scanline",
+            "value": "Скан-линия"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shuffle",
+            "value": "Перемешивание"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_skew",
+            "value": "Наклон"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spherize",
+            "value": "Сферизация"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_transformation",
+            "value": "Трансформация"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twisted_corridor",
+            "value": "Искривленный коридор"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_recursion",
+            "value": "Рекурсия"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twod_rotation",
+            "value": "2D-вращение"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_rotation",
+            "value": "3D-вращение"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_pan",
+            "value": "3D-панорамирование"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_onlyscreens",
+            "value": "OnlyScreens"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spinterception",
+            "value": "Spinterception"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_quadrant_zoom",
+            "value": "Приближение квадранта"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_swivel",
+            "value": "Поворот"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_distaer",
+            "value": "Distaer"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_thanos",
+            "value": "Танос"
+        },
+        {
+            "key": "june_pro_tab_vertex_reconstruction",
+            "value": "Реконструкция вершин"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_atmosphere",
+            "value": "Атмосфера"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_glitter",
+            "value": "Блестки"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_shatterwave",
+            "value": "Волна осколков"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_threed_lighting",
+            "value": "3D-освещение"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe",
+            "value": "Каркас"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe_shatterwave",
+            "value": "Каркасная волна осколков"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_normals",
+            "value": "Нормали"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tripful",
+            "value": "Tripful"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_hololens",
+            "value": "Hololens"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_lidar",
+            "value": "LIDAR"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_corruption",
+            "value": "Искажение"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_world_wrap",
+            "value": "Обтекание мира"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_spotlight",
+            "value": "Прожектор"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tryptamines",
+            "value": "Триптамины"
+        },
+        {
+            "key": "june_pro_tab_zoom",
+            "value": "Приближение"
+        },
+        {
+            "key": "june_pro_styles_zoom",
+            "value": "В приближении доступны следующие стили: Экран, Центрирование, Рыбий глаз и Следование."
+        },
+        {
+            "key": "june_pro_preview_toggle",
+            "value": "Предпросмотр полной версии June"
+        },
+        {
+            "key": "june_pro_preview_notice",
+            "value": "Вы просматриваете предварительную версию всех эффектов, доступных в полной версии June. Они нефункциональны и не имеют всех доступных настроек, но вы можете увидеть, что все включено, чтобы помочь вам решить, будет ли June полезен для вас. Вы можете в любое время переключиться обратно на полнофункциональную версию June Lite на вкладке предварительного просмотра June Pro. :)"
+        },
+        {
+            "key": "june_pro_buy_button",
+            "value": "Купить June Pro!"
+        },
+        {
+            "key": "june_pro_learn_button",
+            "value": "Узнать больше о June Pro!"
+        },
+        {
+            "key": "june_pro_docs_button",
+            "value": "Открыть документацию June Pro!"
+        },
+        {
+            "key": "june_pro_coupon",
+            "value": "Используйте код \"UPGRADE10\", чтобы получить скидку 10% на покупку June! (Только на Gumroad)"
+        },
+        {
+            "key": "prop_coloring_sharpness",
+            "value": "Резкость экрана"
+        },
+        {
+            "key": "tab_sub_filter_trippy",
+            "value": "Трип"
+        },
+        {
+            "key": "prop_trippy_enable",
+            "value": "Включить трип"
+        },
+        {
+            "key": "prop_trippy_power",
+            "value": "Сила трипа"
+        },
+        {
+            "key": "prop_trippy_spread",
+            "value": "Распространение трипа"
+        },
+        {
+            "key": "prop_trippy_speed",
+            "value": "Скорость трипа"
+        },
+        {
+            "key": "tab_license",
+            "value": "Лицензия"
+        },
+        {
+            "key": "button_show_license",
+            "value": "Показать лицензию в Unity"
+        }
+    ]
+}

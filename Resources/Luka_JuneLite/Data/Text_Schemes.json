@@ -1,0 +1,218 @@
+{
+    "schemelist": [
+        {
+            "name": "Default",
+            "colors": []
+        },
+        {
+            "name": "Dark",
+            "colors": [
+                "#e6e6e6"
+            ]
+        },
+        {
+            "name": "Light",
+            "colors": [
+                "#2c2f33"
+            ]
+        },
+        {
+            "name": "Rainbow",
+            "colors": [
+                "#e70141",
+                "#ff7f00",
+                "#d9e20e",
+                "#21bc5d",
+                "#216bbc",
+                "#6d21bc",
+                "#8b00ff"
+            ]
+        },
+        {
+            "name": "Pastel Rainbow",
+            "colors": [
+                "#FFADAD",
+                "#FFD6A5",
+                "#FDFFB6",
+                "#CAFFBF",
+                "#9BF6FF",
+                "#A0C4FF",
+                "#BDB2FF",
+                "#FFC6FF"
+            ]
+        },
+        {
+            "name": "Sunset",
+            "colors": [
+                "#ff4500",
+                "#ff8c00",
+                "#ffd700",
+                "#ff8c00",
+                "#ff4500"
+            ]
+        },
+        {
+            "name": "Fairy",
+            "colors": [
+                "#CDB4DB",
+                "#FFC8DD",
+                "#FFAFCC",
+                "#BDE0FE",
+                "#A2D2FF"
+            ]
+        },
+        {
+            "name": "Ocean",
+            "colors": [
+                "#05668d",
+                "#028090",
+                "#00a896",
+                "#02c39a",
+                "#f0f3bd"
+            ]
+        },
+        {
+            "name": "Fire",
+            "colors": [
+                "#4f000b",
+                "#720026",
+                "#ce4257",
+                "#ff7f51",
+                "#ff9b54"
+            ]
+        },
+        {
+            "name": "Earth",
+            "colors": [
+                "#dad7cd",
+                "#a3b18a",
+                "#588157",
+                "#3a5a40",
+                "#344e41"
+            ]
+        },
+        {
+            "name": "Neopolitan",
+            "colors": [
+                "#d8e2dc",
+                "#ffe5d9",
+                "#ffcad4",
+                "#f4acb7",
+                "#9d8189"
+            ]
+        },
+        {
+            "name": "Metallic",
+            "colors": [
+                "#22223b",
+                "#4a4e69",
+                "#9a8c98",
+                "#c9ada7",
+                "#f2e9e4"
+            ]
+        },
+        {
+            "name": "Cherry",
+            "colors": [
+                "#ffe5ec",
+                "#ffc2d1",
+                "#ffb3c6",
+                "#ff8fab",
+                "#fb6f92"
+            ]
+        },
+        {
+            "name": "Halloween",
+            "colors": [
+                "#ff7900",
+                "#ff9e00",
+                "#3a0ca3",
+                "#7209b7",
+                "#9d4edd"
+            ]
+        },
+        {
+            "name": "Icy",
+            "colors": [
+                "#EEB5EB",
+                "#C26DBC",
+                "#C8F4F9",
+                "#3CACAE"
+            ]
+        },
+        {
+            "name": "Dreams",
+            "colors": [
+                "#D3B1C2",
+                "#C197D2",
+                "#211522",
+                "#613659"
+            ]
+        },
+        {
+            "name": "Skater",
+            "colors": [
+                "#E56997",
+                "#BD97CB",
+                "#FBC740",
+                "#66D2D6"
+            ]
+        },
+        {
+            "name": "Diner",
+            "colors": [
+                "#54d4cb",
+                "#e6757f",
+                "#fbf9f1",
+                "#f3df9c",
+                "#565152"
+            ]
+        },
+        {
+            "name": "Vintage",
+            "colors": [
+                "#fefcf4",
+                "#a48876",
+                "#a64059",
+                "#e9d17d",
+                "#919b6d"
+            ]
+        },
+        {
+            "name": "Trixie",
+            "colors": [
+                "#74b5e7",
+                "#9cd0f3",
+                "#bde0f9",
+                "#efc4e7",
+                "#9b7cae"
+            ]
+        },
+        {
+            "name": "Adagio",
+            "colors": [
+                "#fdf597",
+                "#f6a978",
+                "#fad8b4",
+                "#b387c8",
+                "#eb6b84"
+            ]
+        },
+        {
+            "name": "Graves",
+            "colors": [
+                "#98D183",
+                "#DE88C0"
+            ]
+        },
+        {
+            "name": "Anarchy",
+            "colors": [
+                "#FFF174",
+                "#FF9AAC",
+                "#31326A",
+                "#BD61E6"
+            ]
+        }
+    ]
+}

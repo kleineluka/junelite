@@ -1,0 +1,1876 @@
+{
+    "entries": [
+        {
+            "key": "enabled",
+            "value": "有効"
+        },
+        {
+            "key": "disabled",
+            "value": "無効"
+        },
+        {
+            "key": "config_tab_theme",
+            "value": "タブのテーマ"
+        },
+        {
+            "key": "config_text_theme",
+            "value": "テキストのテーマ"
+        },
+        {
+            "key": "config_ui_size",
+            "value": "UIのサイズ"
+        },
+        {
+            "key": "config_updates",
+            "value": "アップデートを確認"
+        },
+        {
+            "key": "config_language",
+            "value": "言語"
+        },
+        {
+            "key": "config_toggle_updates",
+            "value": "アップデートを表示"
+        },
+        {
+            "key": "config_toggle_announcements",
+            "value": "ニュースを表示"
+        },
+        {
+            "key": "config_toggle_enabled",
+            "value": "有効"
+        },
+        {
+            "key": "config_toggle_disabled",
+            "value": "無効"
+        },
+        {
+            "key": "config_save",
+            "value": "設定を保存"
+        },
+        {
+            "key": "config_reset",
+            "value": "設定をリセット"
+        },
+        {
+            "key": "config_save_success",
+            "value": "設定が正常に保存されました！^~^"
+        },
+        {
+            "key": "config_save_error",
+            "value": "設定の保存中に問題が発生しました。Unityパッケージを再インポートしてみてください！ >.<"
+        },
+        {
+            "key": "config_reset_success",
+            "value": "設定がデフォルト値にリセットされました！^~^"
+        },
+        {
+            "key": "config_reset_error",
+            "value": "設定のリセット中に問題が発生しました。Unityパッケージを再インポートしてみてください！ >.<"
+        },
+        {
+            "key": "dialog_okay",
+            "value": "オッケー！"
+        },
+        {
+            "key": "update_available",
+            "value": "アップデートがあります！"
+        },
+        {
+            "key": "update_description",
+            "value": "新機能やバグ修正が含まれた最新バージョンをダウンロードしてください！<3"
+        },
+        {
+            "key": "tab_config",
+            "value": "設定"
+        },
+        {
+            "key": "open_docs",
+            "value": "ヘルプが必要ですか？ここをクリックしてドキュメントを開いてください！"
+        },
+        {
+            "key": "tab_rendering",
+            "value": "レンダリング"
+        },
+        {
+            "key": "tab_audio_link",
+            "value": "オーディオリンク"
+        },
+        {
+            "key": "tab_coloring",
+            "value": "色付け"
+        },
+        {
+            "key": "tab_blur",
+            "value": "ブラー"
+        },
+        {
+            "key": "tab_distortion",
+            "value": "ディストーション"
+        },
+        {
+            "key": "tab_border",
+            "value": "ボーダー"
+        },
+        {
+            "key": "tab_fog",
+            "value": "フォグ"
+        },
+        {
+            "key": "tab_glitch",
+            "value": "グリッチ"
+        },
+        {
+            "key": "tab_overlay",
+            "value": "オーバーレイ"
+        },
+        {
+            "key": "tab_uv_manipulation",
+            "value": "UV操作"
+        },
+        {
+            "key": "tab_filter",
+            "value": "フィルター"
+        },
+        {
+            "key": "tab_zoom",
+            "value": "ズーム"
+        },
+        {
+            "key": "tab_sub_filter_vignette",
+            "value": "ビネット"
+        },
+        {
+            "key": "tab_sub_filter_color_crush",
+            "value": "カラークラッシュ"
+        },
+        {
+            "key": "tab_sub_filter_duotone",
+            "value": "デュオトーン"
+        },
+        {
+            "key": "tab_sub_filter_rainbow",
+            "value": "レインボー"
+        },
+        {
+            "key": "tab_sub_filter_film",
+            "value": "フィルム"
+        },
+        {
+            "key": "tab_sub_filter_grain",
+            "value": "グレイン"
+        },
+        {
+            "key": "tab_sub_filter_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "tab_sub_filter_gradient",
+            "value": "グラデーション"
+        },
+        {
+            "key": "tab_sub_filter_outline",
+            "value": "アウトライン"
+        },
+        {
+            "key": "tab_sub_filter_astral",
+            "value": "アストラルプロジェクション"
+        },
+        {
+            "key": "tab_sub_filter_neon",
+            "value": "ネオン"
+        },
+        {
+            "key": "tab_sub_uv_transformation",
+            "value": "変形"
+        },
+        {
+            "key": "tab_sub_uv_move",
+            "value": "移動"
+        },
+        {
+            "key": "tab_sub_uv_shake",
+            "value": "シェイク"
+        },
+        {
+            "key": "tab_sub_uv_pixelation",
+            "value": "ピクセレーション"
+        },
+        {
+            "key": "tab_sub_uv_rotation",
+            "value": "回転"
+        },
+        {
+            "key": "tab_sub_uv_spherize",
+            "value": "球形化"
+        },
+        {
+            "key": "prop_rendering_shader_power",
+            "value": "シェーダーパワー"
+        },
+        {
+            "key": "prop_rendering_falloff_start",
+            "value": "フォールオフ開始"
+        },
+        {
+            "key": "prop_rendering_falloff_end",
+            "value": "フォールオフ終了"
+        },
+        {
+            "key": "prop_rendering_out_of_bounds_style",
+            "value": "範囲外のスタイル"
+        },
+        {
+            "key": "prop_blur_enable",
+            "value": "ブラーモジュールを有効化"
+        },
+        {
+            "key": "prop_blur_high_quality",
+            "value": "高品質ブラー"
+        },
+        {
+            "key": "prop_blur_style",
+            "value": "ブラースタイル"
+        },
+        {
+            "key": "prop_blur_power",
+            "value": "ブラー強度"
+        },
+        {
+            "key": "prop_blur_radius",
+            "value": "ブラー半径"
+        },
+        {
+            "key": "prop_blur_transparency",
+            "value": "ブラー透明度"
+        },
+        {
+            "key": "prop_blur_color",
+            "value": "ブラーカラー"
+        },
+        {
+            "key": "prop_border_enable",
+            "value": "ボーダーモジュールを有効化"
+        },
+        {
+            "key": "prop_border_style",
+            "value": "ボーダースタイル"
+        },
+        {
+            "key": "prop_border_color",
+            "value": "ボーダーカラー"
+        },
+        {
+            "key": "prop_border_power",
+            "value": "ボーダー強度"
+        },
+        {
+            "key": "prop_border_soften",
+            "value": "ボーダーを和らげる"
+        },
+        {
+            "key": "prop_coloring_enable",
+            "value": "色付けモジュールを有効化"
+        },
+        {
+            "key": "prop_coloring_rgb_multiply",
+            "value": "RGB乗算"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay_transparency",
+            "value": "RGBオーバーレイ透明度"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay",
+            "value": "RGBオーバーレイ"
+        },
+        {
+            "key": "prop_coloring_hsv_style",
+            "value": "HSVスタイル"
+        },
+        {
+            "key": "prop_coloring_hsv_hue",
+            "value": "HSV色相"
+        },
+        {
+            "key": "prop_coloring_hsv_saturation",
+            "value": "HSV彩度"
+        },
+        {
+            "key": "prop_coloring_hsv_value",
+            "value": "HSV明度"
+        },
+        {
+            "key": "prop_coloring_invert",
+            "value": "反転"
+        },
+        {
+            "key": "prop_coloring_color_drain",
+            "value": "カラードレイン"
+        },
+        {
+            "key": "prop_coloring_darkness",
+            "value": "暗さ"
+        },
+        {
+            "key": "prop_coloring_brightness",
+            "value": "明るさ"
+        },
+        {
+            "key": "prop_coloring_emission",
+            "value": "エミッション"
+        },
+        {
+            "key": "prop_coloring_posterization",
+            "value": "ポスタリゼーション"
+        },
+        {
+            "key": "prop_coloring_color_grading",
+            "value": "カラーグレーディング"
+        },
+        {
+            "key": "prop_coloring_color_grading_tone",
+            "value": "カラーグレーディングトーン"
+        },
+        {
+            "key": "prop_distortion_enable",
+            "value": "ディストーションモジュールを有効化"
+        },
+        {
+            "key": "prop_distortion_style",
+            "value": "ディストーションスタイル"
+        },
+        {
+            "key": "prop_distortion_power_x",
+            "value": "ディストーション強度X"
+        },
+        {
+            "key": "prop_distortion_power_y",
+            "value": "ディストーション強度Y"
+        },
+        {
+            "key": "prop_distortion_speed_x",
+            "value": "ディストーション速度X"
+        },
+        {
+            "key": "prop_distortion_speed_y",
+            "value": "ディストーション速度Y"
+        },
+        {
+            "key": "prop_distortion_texture",
+            "value": "ディストーションテクスチャ"
+        },
+        {
+            "key": "prop_distortion_texture_scale",
+            "value": "ディストーションテクスチャスケール"
+        },
+        {
+            "key": "prop_distortion_add_in_wobble",
+            "value": "ぐらつきを追加しますか？"
+        },
+        {
+            "key": "prop_distortion_wobble_power",
+            "value": "ぐらつき強度"
+        },
+        {
+            "key": "prop_distortion_wobble_speed",
+            "value": "ぐらつき速度"
+        },
+        {
+            "key": "prop_distortion_wobble_coverage",
+            "value": "ぐらつき範囲"
+        },
+        {
+            "key": "prop_filter_enable",
+            "value": "フィルターモジュールを有効化"
+        },
+        {
+            "key": "prop_vignette_enable",
+            "value": "ビネットを有効化"
+        },
+        {
+            "key": "prop_vignette_power",
+            "value": "ビネット強度"
+        },
+        {
+            "key": "prop_vignette_color",
+            "value": "ビネットカラー"
+        },
+        {
+            "key": "prop_color_crush_enable",
+            "value": "カラークラッシュを有効化"
+        },
+        {
+            "key": "prop_color_crush_power",
+            "value": "カラークラッシュ強度"
+        },
+        {
+            "key": "prop_duotone_enable",
+            "value": "デュオトーンを有効化"
+        },
+        {
+            "key": "prop_duotone_transparency",
+            "value": "デュオトーン透明度"
+        },
+        {
+            "key": "prop_duotone_color_one",
+            "value": "デュオトーンカラー1"
+        },
+        {
+            "key": "prop_duotone_color_two",
+            "value": "デュオトーンカラー2"
+        },
+        {
+            "key": "prop_duotone_threshold",
+            "value": "デュオトーンしきい値"
+        },
+        {
+            "key": "prop_rainbow_enable",
+            "value": "レインボーを有効化"
+        },
+        {
+            "key": "prop_rainbow_saturation",
+            "value": "レインボー彩度"
+        },
+        {
+            "key": "prop_rainbow_speed",
+            "value": "レインボー速度"
+        },
+        {
+            "key": "prop_film_enable",
+            "value": "フィルムを有効化"
+        },
+        {
+            "key": "prop_film_amount",
+            "value": "フィルム量"
+        },
+        {
+            "key": "prop_grain_enable",
+            "value": "グレインを有効化"
+        },
+        {
+            "key": "prop_grain_amount",
+            "value": "グレイン量"
+        },
+        {
+            "key": "prop_grain_color",
+            "value": "グレインカラー"
+        },
+        {
+            "key": "prop_vhs_enable",
+            "value": "VHSを有効化"
+        },
+        {
+            "key": "prop_vhs_amount",
+            "value": "VHS量"
+        },
+        {
+            "key": "prop_gradient_enable",
+            "value": "グラデーションを有効化"
+        },
+        {
+            "key": "prop_gradient_lhs",
+            "value": "グラデーションLHS"
+        },
+        {
+            "key": "prop_gradient_rhs",
+            "value": "グラデーションRHS"
+        },
+        {
+            "key": "prop_gradient_transparency",
+            "value": "グラデーション透明度"
+        },
+        {
+            "key": "prop_outline_enable",
+            "value": "アウトラインを有効化"
+        },
+        {
+            "key": "prop_outline_width",
+            "value": "アウトライン幅"
+        },
+        {
+            "key": "prop_outline_tolerance",
+            "value": "アウトライン許容度"
+        },
+        {
+            "key": "prop_outline_color",
+            "value": "アウトラインカラー"
+        },
+        {
+            "key": "prop_astral_enable",
+            "value": "アストラルを有効化"
+        },
+        {
+            "key": "prop_astral_zoom",
+            "value": "アストラルズーム"
+        },
+        {
+            "key": "prop_astral_transparency",
+            "value": "アストラル透明度"
+        },
+        {
+            "key": "prop_astral_color",
+            "value": "アストラルカラー"
+        },
+        {
+            "key": "prop_neon_enable",
+            "value": "ネオンを有効化"
+        },
+        {
+            "key": "prop_neon_width",
+            "value": "ネオン幅"
+        },
+        {
+            "key": "prop_neon_transparency",
+            "value": "ネオン透明度"
+        },
+        {
+            "key": "prop_neon_hue",
+            "value": "ネオン色相"
+        },
+        {
+            "key": "prop_overlay_enable",
+            "value": "オーバーレイモジュールを有効化"
+        },
+        {
+            "key": "prop_overlay_texture",
+            "value": "オーバーレイテクスチャ"
+        },
+        {
+            "key": "prop_overlay_transparency",
+            "value": "オーバーレイ透明度"
+        },
+        {
+            "key": "prop_overlay_size_x",
+            "value": "オーバーレイサイズX"
+        },
+        {
+            "key": "prop_overlay_size_y",
+            "value": "オーバーレイサイズY"
+        },
+        {
+            "key": "prop_overlay_speed_x",
+            "value": "オーバーレイ速度X"
+        },
+        {
+            "key": "prop_overlay_speed_y",
+            "value": "オーバーレイ速度Y"
+        },
+        {
+            "key": "prop_overlay_offset_x",
+            "value": "オーバーレイオフセットX"
+        },
+        {
+            "key": "prop_overlay_offset_y",
+            "value": "オーバーレイオフセットY"
+        },
+        {
+            "key": "prop_uv_manipulation_enable",
+            "value": "UVモジュールを有効化"
+        },
+        {
+            "key": "prop_transformation_slant_top_left",
+            "value": "左上を傾斜"
+        },
+        {
+            "key": "prop_transformation_slant_top_right",
+            "value": "右上を傾斜"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_left",
+            "value": "左下を傾斜"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_right",
+            "value": "右下を傾斜"
+        },
+        {
+            "key": "prop_transformation_flip_x",
+            "value": "Xを反転"
+        },
+        {
+            "key": "prop_transformation_flip_y",
+            "value": "Yを反転"
+        },
+        {
+            "key": "prop_transformation_stretch_x",
+            "value": "Xをストレッチ"
+        },
+        {
+            "key": "prop_transformation_stretch_y",
+            "value": "Yをストレッチ"
+        },
+        {
+            "key": "prop_movement_move_x",
+            "value": "Xを移動"
+        },
+        {
+            "key": "prop_movement_move_y",
+            "value": "Yを移動"
+        },
+        {
+            "key": "prop_shake_style",
+            "value": "シェイクスタイル"
+        },
+        {
+            "key": "prop_shake_power_x",
+            "value": "シェイクX強度"
+        },
+        {
+            "key": "prop_shake_power_y",
+            "value": "シェイクY強度"
+        },
+        {
+            "key": "prop_shake_speed_x",
+            "value": "シェイクX速度"
+        },
+        {
+            "key": "prop_shake_speed_y",
+            "value": "シェイクY速度"
+        },
+        {
+            "key": "prop_pixelation_enable",
+            "value": "ピクセレーションを有効化"
+        },
+        {
+            "key": "prop_pixelation_power",
+            "value": "ピクセレーション強度"
+        },
+        {
+            "key": "prop_rotation_enable",
+            "value": "回転を有効化"
+        },
+        {
+            "key": "prop_rotation_angle",
+            "value": "回転角度"
+        },
+        {
+            "key": "prop_spherize_enable",
+            "value": "球形化を有効化"
+        },
+        {
+            "key": "prop_spherize_power",
+            "value": "球形化強度"
+        },
+        {
+            "key": "prop_zoom_enable",
+            "value": "ズームモジュールを有効化"
+        },
+        {
+            "key": "prop_zoom_power",
+            "value": "ズーム強度"
+        },
+        {
+            "key": "prop_zoom_custom_range",
+            "value": "ズームカスタム範囲"
+        },
+        {
+            "key": "prop_zoom_range_start",
+            "value": "ズーム範囲開始"
+        },
+        {
+            "key": "prop_zoom_range_end",
+            "value": "ズーム範囲終了"
+        },
+        {
+            "key": "prop_fog_enable",
+            "value": "フォグモジュールを有効化"
+        },
+        {
+            "key": "prop_fog_density",
+            "value": "フォグ密度"
+        },
+        {
+            "key": "prop_fog_distribution",
+            "value": "フォグ分布"
+        },
+        {
+            "key": "prop_fog_color",
+            "value": "フォグカラー"
+        },
+        {
+            "key": "prop_fog_safe_space",
+            "value": "フォグセーフスペース"
+        },
+        {
+            "key": "prop_fog_safe_space_size",
+            "value": "フォグセーフスペースサイズ"
+        },
+        {
+            "key": "prop_glitch_enable",
+            "value": "グリッチモジュールを有効化"
+        },
+        {
+            "key": "prop_glitch_scale",
+            "value": "グリッチスケール"
+        },
+        {
+            "key": "prop_glitch_amount",
+            "value": "グリッチ量"
+        },
+        {
+            "key": "prop_glitch_uvs",
+            "value": "グリッチUV"
+        },
+        {
+            "key": "prop_glitch_chromatic",
+            "value": "グリッチクロマチック"
+        },
+        {
+            "key": "prop_overlay_animated",
+            "value": "アニメーションオーバーレイ"
+        },
+        {
+            "key": "prop_overlay_frames_x",
+            "value": "オーバーレイ列"
+        },
+        {
+            "key": "prop_overlay_frames_y",
+            "value": "オーバーレイ行"
+        },
+        {
+            "key": "prop_overlay_frames",
+            "value": "オーバーレイフレーム"
+        },
+        {
+            "key": "prop_overlay_speed",
+            "value": "オーバーレイ速度"
+        },
+        {
+            "key": "prop_overlay_scrub",
+            "value": "オーバーレイスクラブ"
+        },
+        {
+            "key": "prop_ui_notice",
+            "value": "超役に立つアドバイス！"
+        },
+        {
+            "key": "prop_ui_depth",
+            "value": "このエフェクトには、シーン内にデプスライトが必要です。プレハブはパッケージ内のResources/Prefabsにあります。"
+        },
+        {
+            "key": "prop_audio_link_enable",
+            "value": "オーディオリンクを有効化"
+        },
+        {
+            "key": "prop_audio_link_band",
+            "value": "バンド"
+        },
+        {
+            "key": "prop_audio_link_power",
+            "value": "パワー"
+        },
+        {
+            "key": "prop_audio_link_min",
+            "value": "最小値"
+        },
+        {
+            "key": "prop_audio_link_max",
+            "value": "最大値"
+        },
+        {
+            "key": "prop_blur_dithering",
+            "value": "ディザーブラー"
+        },
+        {
+            "key": "prop_overlay_blendmode",
+            "value": "オーバーレイブレンドモード"
+        },
+        {
+            "key": "prop_overlay_vr",
+            "value": "VR固有の変更を使用"
+        },
+        {
+            "key": "prop_overlay_vr_preview",
+            "value": "VRオーバーレイプレビュー"
+        },
+        {
+            "key": "prop_overlay_vr_size_x",
+            "value": "VRオーバーレイサイズX"
+        },
+        {
+            "key": "prop_overlay_vr_size_y",
+            "value": "VRオーバーレイサイズY"
+        },
+        {
+            "key": "prop_overlay_vr_offset_x",
+            "value": "VRオーバーレイオフセットX"
+        },
+        {
+            "key": "prop_overlay_vr_offset_y",
+            "value": "VRオーバーレイオフセットY"
+        },
+        {
+            "key": "tab_june_pro",
+            "value": "June Proをプレビュー"
+        },
+        {
+            "key": "june_pro_tab_blur",
+            "value": "ブラー"
+        },
+        {
+            "key": "june_pro_styles_blur",
+            "value": "ブラーには、ガウス、セレクティブ、ブルーム、ボケ、フロスト、ピクセルディストーション、押し出し、スメア、ズームラジアルなどのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_border",
+            "value": "ボーダー"
+        },
+        {
+            "key": "june_pro_styles_border",
+            "value": "ボーダーには、垂直レターボックス、水平レターボックス、ボックス、円形、ポリゴン、目、アニメ、マップのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_chromatic",
+            "value": "クロマチック"
+        },
+        {
+            "key": "june_pro_styles_chromatic",
+            "value": "クロマチックには、RGB、HSV、ネガティブ、ラジアル、レイヤード、ブラーのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_colour_grading",
+            "value": "カラーグレーディング"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_fine_tuning",
+            "value": "微調整"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_focus",
+            "value": "カラーフォーカス"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_replacements",
+            "value": "カラー置換"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colourspace",
+            "value": "色空間"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_lighting_adjustment",
+            "value": "ライティング調整"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_sharpness",
+            "value": "シャープネス"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_saturation",
+            "value": "彩度"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_stylize",
+            "value": "様式化"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_channels",
+            "value": "カラーチャンネル"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_post-processing",
+            "value": "ポストプロセシング"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_posterization",
+            "value": "ポスタリゼーション"
+        },
+        {
+            "key": "june_pro_tab_creativity",
+            "value": "創造性"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_alphenglow",
+            "value": "アルペングロー"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aquamarine",
+            "value": "アクアマリン"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aurora",
+            "value": "オーロラ"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_bonnibel",
+            "value": "ボニベル"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_butterfly",
+            "value": "バタフライ"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_candy",
+            "value": "キャンディ"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_ecstasy",
+            "value": "エクスタシー"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_fable",
+            "value": "フェイブル"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_lava_lamp",
+            "value": "ラバランプ"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_marceline",
+            "value": "マーセリン"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_smokescreen",
+            "value": "スモークスクリーン"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_turbulence",
+            "value": "タービュランス"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_rainbow_river",
+            "value": "レインボーリバー"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_portal",
+            "value": "ポータル"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_tea",
+            "value": "ティー"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_oil_spill",
+            "value": "オイルスリック"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_art",
+            "value": "アート"
+        },
+        {
+            "key": "june_pro_tab_distortion",
+            "value": "ディストーション"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_simple_distortion",
+            "value": "シンプルディストーション"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bezier_curve",
+            "value": "ベジェ曲線"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_blackhole",
+            "value": "ブラックホール"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bubbles",
+            "value": "バブル"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bumpy_glass",
+            "value": "バンプガラス"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_exaggeration",
+            "value": "誇張"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_liquify",
+            "value": "液状化"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_warp",
+            "value": "ワープ"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_wave",
+            "value": "ウェーブ"
+        },
+        {
+            "key": "june_pro_tab_enhancements",
+            "value": "エンハンスメント"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_anti-aliasing",
+            "value": "アンチエイリアシング"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_denoise",
+            "value": "デノイズ"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_deblur",
+            "value": "デブラー"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_heavy_lines",
+            "value": "ヘビーライン"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_soft_lines",
+            "value": "ソフトライン"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_upscale",
+            "value": "アップスケール"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_contrast_sharpening",
+            "value": "コントラストシャープニング"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_fdr",
+            "value": "FDR"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_screenspace_softshading",
+            "value": "スクリーンスペースソフトシェーディング"
+        },
+        {
+            "key": "june_pro_tab_experiments",
+            "value": "実験"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_dolly",
+            "value": "ドリー"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_cloning",
+            "value": "クローニング"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_screen_background",
+            "value": "スクリーンバックグラウンド"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_depth_viewer",
+            "value": "デプスビューア"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_objectify",
+            "value": "オブジェクト化"
+        },
+        {
+            "key": "june_pro_tab_filters",
+            "value": "フィルター"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_incorrection",
+            "value": "カラー不補正"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colourblind_simulation",
+            "value": "色覚異常シミュレーション"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_corners",
+            "value": "コーナー"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_crush",
+            "value": "カラークラッシュ"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_cycline",
+            "value": "カラーサイクルライン"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_wheel",
+            "value": "カラーホイール"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_crt",
+            "value": "CRT"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_monotone",
+            "value": "モノトーン"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_duotone",
+            "value": "デュオトーン"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tritone",
+            "value": "トリトーン"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_engraving",
+            "value": "彫刻"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_linocut",
+            "value": "リノカット"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_light_leak",
+            "value": "ライトリーク"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_film",
+            "value": "フィルム"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_normal_mapper",
+            "value": "ノーマルマッパー"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_chrome",
+            "value": "クローム"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_rainbow",
+            "value": "レインボー"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ramp",
+            "value": "ランプ"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_gradient",
+            "value": "グラデーション"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_ink",
+            "value": "ローインク"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_bitrate",
+            "value": "ロービットレート"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_grain",
+            "value": "グレイン"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_glitter",
+            "value": "グリッター"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_moire",
+            "value": "モアレ"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_sepia",
+            "value": "セピア"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_solarize",
+            "value": "ソラリゼーション"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_specular",
+            "value": "スペキュラ"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tie_dye",
+            "value": "タイダイ"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_technicolour",
+            "value": "テクニカラー"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_thermal",
+            "value": "サーマル"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_threshold",
+            "value": "しきい値"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_night_vision",
+            "value": "ナイトビジョン"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ultra_violet",
+            "value": "ウルトラバイオレット"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_wall_glow",
+            "value": "ウォールグロー"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vignette",
+            "value": "ビネット"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_dither",
+            "value": "ディザー"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_fauxlate",
+            "value": "フォークレート"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_lieless",
+            "value": "ライレス"
+        },
+        {
+            "key": "june_pro_tab_frames",
+            "value": "フレーム"
+        },
+        {
+            "key": "june_pro_styles_frames",
+            "value": "フレームには、プライド、トランス、ミュージック、ポラロイド、スーパーエイト、マガジン、フィルムダム、ネオン、コミック、フィルムストライプのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_generation",
+            "value": "生成"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_lines",
+            "value": "ライン"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_ring_colors",
+            "value": "リングカラー"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_noise_colors",
+            "value": "ノイズカラー"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_sdf_colors",
+            "value": "SDFカラー"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_colors",
+            "value": "シェイプカラー"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_uvs",
+            "value": "シェイプUV"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_colors",
+            "value": "スパイラルカラー"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_uvs",
+            "value": "スパイラルUV"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_hearts",
+            "value": "ハート"
+        },
+        {
+            "key": "june_pro_tab_glitch",
+            "value": "グリッチ"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_simple",
+            "value": "シンプル"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_advanced",
+            "value": "アドバンスト"
+        },
+        {
+            "key": "june_pro_tab_motion",
+            "value": "モーション"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_acid",
+            "value": "アシッド"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_blur",
+            "value": "ブラー"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_distortion",
+            "value": "ディストーション"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_freeze",
+            "value": "フリーズ"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_rgb_freeze",
+            "value": "RGBフリーズ"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_glitch",
+            "value": "グリッチ"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_chromatic",
+            "value": "クロマチック"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_pixel_sort",
+            "value": "ピクセルソート"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_trail",
+            "value": "トレイル"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranquility",
+            "value": "トランキリティ"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranceless",
+            "value": "トランスレス"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_data_mosh",
+            "value": "データモッシュ"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_frame_rate",
+            "value": "フレームレート"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fensterxd",
+            "value": "FensterXD"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fading_projections",
+            "value": "フェーディングプロジェクション"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_motear",
+            "value": "モテア"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_lake_fill",
+            "value": "レイクフィル"
+        },
+        {
+            "key": "june_pro_tab_others",
+            "value": "その他"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral",
+            "value": "アストラル"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral_rgb",
+            "value": "アストラルRGB"
+        },
+        {
+            "key": "june_pro_sub_tab_others_apart",
+            "value": "アパート"
+        },
+        {
+            "key": "june_pro_sub_tab_others_colour_diffusion",
+            "value": "カラーディフュージョン"
+        },
+        {
+            "key": "june_pro_sub_tab_others_holepuncher",
+            "value": "ホールパンチャー"
+        },
+        {
+            "key": "june_pro_sub_tab_others_glowstick",
+            "value": "グロースティック"
+        },
+        {
+            "key": "june_pro_sub_tab_others_grid_checkerboard",
+            "value": "グリッドチェッカーボード"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hallucinogen",
+            "value": "幻覚剤"
+        },
+        {
+            "key": "june_pro_sub_tab_others_lenticular_halo",
+            "value": "レンチキュラーハロー"
+        },
+        {
+            "key": "june_pro_sub_tab_others_meta_image",
+            "value": "メタイマージュ"
+        },
+        {
+            "key": "june_pro_sub_tab_others_palette",
+            "value": "パレット"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rain_line",
+            "value": "レインライン"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rim",
+            "value": "リム"
+        },
+        {
+            "key": "june_pro_sub_tab_others_scanline_overlay",
+            "value": "スキャンラインオーバーレイ"
+        },
+        {
+            "key": "june_pro_sub_tab_others_stripes",
+            "value": "ストライプ"
+        },
+        {
+            "key": "june_pro_sub_tab_others_sunbeams",
+            "value": "サンビーム"
+        },
+        {
+            "key": "june_pro_sub_tab_others_water_reflection",
+            "value": "水面反射"
+        },
+        {
+            "key": "june_pro_sub_tab_others_camouflage",
+            "value": "カモフラージュ"
+        },
+        {
+            "key": "june_pro_sub_tab_others_inception",
+            "value": "インセプション"
+        },
+        {
+            "key": "june_pro_sub_tab_others_object_detection",
+            "value": "オブジェクト検出"
+        },
+        {
+            "key": "june_pro_sub_tab_others_fog",
+            "value": "フォグ"
+        },
+        {
+            "key": "june_pro_sub_tab_others_silhouette",
+            "value": "シルエット"
+        },
+        {
+            "key": "june_pro_sub_tab_others_prismatic_layers",
+            "value": "プリズマティックレイヤー"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hexatile",
+            "value": "ヘキサタイル"
+        },
+        {
+            "key": "june_pro_sub_tab_others_secrets",
+            "value": "シークレット"
+        },
+        {
+            "key": "june_pro_sub_tab_others_divider",
+            "value": "ディバイダー"
+        },
+        {
+            "key": "june_pro_tab_outline",
+            "value": "アウトライン"
+        },
+        {
+            "key": "june_pro_styles_outline",
+            "value": "アウトラインには、カラー（スキニー）とデプス（シック）のスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_overlay",
+            "value": "オーバーレイ"
+        },
+        {
+            "key": "june_pro_styles_overlay",
+            "value": "オーバーレイには、静止画、アニメーション画像、コラージュのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_stylize",
+            "value": "様式化"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_compression",
+            "value": "圧縮"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crosshatching",
+            "value": "クロスハッチング"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crystalize",
+            "value": "クリスタライズ"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_dots",
+            "value": "ドット"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_emboss",
+            "value": "エンボス"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_impressionism",
+            "value": "印象派"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_mosaic",
+            "value": "モザイク"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon_rings",
+            "value": "ネオンリング"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_oil",
+            "value": "オイル"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_monitor",
+            "value": "モニター"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon",
+            "value": "ネオン"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_pop_art",
+            "value": "ポップアート"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_unicode",
+            "value": "ユニコード"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone",
+            "value": "ハーフトーン"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_circles",
+            "value": "ハーフトーンサークル"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_spiral",
+            "value": "ハーフトーンスパイラル"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_rgb",
+            "value": "ハーフトーンRGB"
+        },
+        {
+            "key": "june_pro_tab_special",
+            "value": "スペシャル"
+        },
+        {
+            "key": "june_pro_sub_tab_special_bubbles",
+            "value": "バブル"
+        },
+        {
+            "key": "june_pro_sub_tab_special_confetti",
+            "value": "コンフェッティ"
+        },
+        {
+            "key": "june_pro_sub_tab_special_data_stream",
+            "value": "データストリーム"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lens_flare",
+            "value": "レンズフレア"
+        },
+        {
+            "key": "june_pro_sub_tab_special_hexagonal_shield",
+            "value": "ヘキサゴナルシールド"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lightning",
+            "value": "ライトニング"
+        },
+        {
+            "key": "june_pro_sub_tab_special_mapping",
+            "value": "マッピング"
+        },
+        {
+            "key": "june_pro_sub_tab_special_rain_drops",
+            "value": "レインドロップ"
+        },
+        {
+            "key": "june_pro_sub_tab_special_plexus",
+            "value": "プレクサス"
+        },
+        {
+            "key": "june_pro_sub_tab_special_shanshuo",
+            "value": "シャンシュオ"
+        },
+        {
+            "key": "june_pro_sub_tab_special_star_trail",
+            "value": "スタートレイル"
+        },
+        {
+            "key": "june_pro_sub_tab_special_spotlights",
+            "value": "スポットライト"
+        },
+        {
+            "key": "june_pro_sub_tab_special_visualizer",
+            "value": "ビジュアライザー"
+        },
+        {
+            "key": "june_pro_sub_tab_special_warp_drive",
+            "value": "ワープドライブ"
+        },
+        {
+            "key": "june_pro_tab_transition",
+            "value": "トランジション"
+        },
+        {
+            "key": "june_pro_styles_transition",
+            "value": "トランジションには、スライド、スポットイン、スポットアウト、ボックスイン、ボックスアウト、タイルバウンス、タイルウェーブ、シャッター、ラジアルスワイプ、ラジアルリピート、ディゾルブ、ジャギースワイプ、ディレイド、ヘキサゴナルタイル、ヘキサゴナルスワイプ、モデロインのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_triplanar",
+            "value": "トリプラナー"
+        },
+        {
+            "key": "june_pro_styles_triplanar",
+            "value": "トリプラナーには、静止画、アニメーション画像、カラー、セルのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_tab_uv_manipulation",
+            "value": "UV操作"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_bender",
+            "value": "ベンダー"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_movement",
+            "value": "ムーブメント"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_clamp",
+            "value": "クランプ"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_coordinates",
+            "value": "座標"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_dither",
+            "value": "ディザー"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_kaleidoscope",
+            "value": "カレイドスコープ"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror",
+            "value": "ミラー"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scroll",
+            "value": "スクロール"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shake_(and_earthquake)",
+            "value": "シェイク（およびアースクエイク）"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_slicer",
+            "value": "スライサー"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_melt",
+            "value": "メルト"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror_shatter",
+            "value": "ミラーシャッター"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_ring_rotation",
+            "value": "リングローテーション"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_refraction",
+            "value": "リフラクション"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixelation",
+            "value": "ピクセレーション"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixel_shifter",
+            "value": "ピクセルシフター"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scanline",
+            "value": "スキャンライン"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shuffle",
+            "value": "シャッフル"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_skew",
+            "value": "スキュー"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spherize",
+            "value": "球形化"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_transformation",
+            "value": "変形"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twisted_corridor",
+            "value": "ツイステッドコリドー"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_recursion",
+            "value": "再帰"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twod_rotation",
+            "value": "2D回転"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_rotation",
+            "value": "3D回転"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_pan",
+            "value": "3Dパン"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_onlyscreens",
+            "value": "OnlyScreens"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spinterception",
+            "value": "スピンターセプション"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_quadrant_zoom",
+            "value": "四分円ズーム"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_swivel",
+            "value": "スイベル"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_distaer",
+            "value": "ディスター"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_thanos",
+            "value": "サノス"
+        },
+        {
+            "key": "june_pro_tab_vertex_reconstruction",
+            "value": "頂点再構築"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_atmosphere",
+            "value": "大気"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_glitter",
+            "value": "グリッター"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_shatterwave",
+            "value": "シャッターウェーブ"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_threed_lighting",
+            "value": "3Dライティング"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe",
+            "value": "ワイヤーフレーム"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe_shatterwave",
+            "value": "ワイヤーフレームシャッターウェーブ"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_normals",
+            "value": "ノーマル"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tripful",
+            "value": "トリップフル"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_hololens",
+            "value": "ホロレンズ"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_lidar",
+            "value": "LIDAR"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_corruption",
+            "value": "コラプション"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_world_wrap",
+            "value": "ワールドラップ"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_spotlight",
+            "value": "スポットライト"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tryptamines",
+            "value": "トリプタミン"
+        },
+        {
+            "key": "june_pro_tab_zoom",
+            "value": "ズーム"
+        },
+        {
+            "key": "june_pro_styles_zoom",
+            "value": "ズームには、スクリーン、センタリング、魚眼、フォローのスタイルがあります。"
+        },
+        {
+            "key": "june_pro_preview_toggle",
+            "value": "Juneのフルバージョンをプレビュー"
+        },
+        {
+            "key": "june_pro_preview_notice",
+            "value": "現在、Juneのフルバージョンで利用可能なすべてのエフェクトのプレビューをご覧になっています。これらは機能せず、すべての設定が利用できるわけではありませんが、Juneがあなたにとって有益かどうかを判断するのに役立つように、含まれているすべてのものを確認できます。いつでもJune ProプレビュータブでJune Liteの完全に機能するバージョンに戻すことができます。:)"
+        },
+        {
+            "key": "june_pro_buy_button",
+            "value": "June Proを購入！"
+        },
+        {
+            "key": "june_pro_learn_button",
+            "value": "June Proについてもっと知る！"
+        },
+        {
+            "key": "june_pro_docs_button",
+            "value": "June Proのドキュメントを開く！"
+        },
+        {
+            "key": "june_pro_coupon",
+            "value": "コード「UPGRADE10」を使用して、Juneの購入が10%オフになります！（Gumroadのみ）"
+        },
+        {
+            "key": "prop_coloring_sharpness",
+            "value": "画面をシャープにする"
+        },
+        {
+            "key": "tab_sub_filter_trippy",
+            "value": "トリッピー"
+        },
+        {
+            "key": "prop_trippy_enable",
+            "value": "トリッピーを有効化"
+        },
+        {
+            "key": "prop_trippy_power",
+            "value": "トリッピー強度"
+        },
+        {
+            "key": "prop_trippy_spread",
+            "value": "トリッピースプレッド"
+        },
+        {
+            "key": "prop_trippy_speed",
+            "value": "トリッピースピード"
+        },
+        {
+            "key": "tab_license",
+            "value": "ライセンス"
+        },
+        {
+            "key": "button_show_license",
+            "value": "Unityでライセンスを表示"
+        }
+    ]
+}

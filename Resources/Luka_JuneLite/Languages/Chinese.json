@@ -1,0 +1,1876 @@
+{
+    "entries": [
+        {
+            "key": "enabled",
+            "value": "已启用"
+        },
+        {
+            "key": "disabled",
+            "value": "已禁用"
+        },
+        {
+            "key": "config_tab_theme",
+            "value": "选项卡主题"
+        },
+        {
+            "key": "config_text_theme",
+            "value": "文本主题"
+        },
+        {
+            "key": "config_ui_size",
+            "value": "UI 大小"
+        },
+        {
+            "key": "config_updates",
+            "value": "检查更新"
+        },
+        {
+            "key": "config_language",
+            "value": "语言"
+        },
+        {
+            "key": "config_toggle_updates",
+            "value": "显示更新"
+        },
+        {
+            "key": "config_toggle_announcements",
+            "value": "显示新闻"
+        },
+        {
+            "key": "config_toggle_enabled",
+            "value": "已启用"
+        },
+        {
+            "key": "config_toggle_disabled",
+            "value": "已禁用"
+        },
+        {
+            "key": "config_save",
+            "value": "保存配置"
+        },
+        {
+            "key": "config_reset",
+            "value": "重置配置"
+        },
+        {
+            "key": "config_save_success",
+            "value": "您的配置已成功保存！^~^"
+        },
+        {
+            "key": "config_save_error",
+            "value": "保存配置时出错，请尝试重新导入 Unity 包！>.<"
+        },
+        {
+            "key": "config_reset_success",
+            "value": "您的配置已重置为默认值！^~^"
+        },
+        {
+            "key": "config_reset_error",
+            "value": "重置配置时出错，请尝试重新导入 Unity 包！>.<"
+        },
+        {
+            "key": "dialog_okay",
+            "value": "好哒！"
+        },
+        {
+            "key": "update_available",
+            "value": "有可用更新！"
+        },
+        {
+            "key": "update_description",
+            "value": "下载最新版本以获取新功能和错误修复！<3"
+        },
+        {
+            "key": "tab_config",
+            "value": "设置"
+        },
+        {
+            "key": "open_docs",
+            "value": "需要帮助吗？点击此处打开文档！"
+        },
+        {
+            "key": "tab_rendering",
+            "value": "渲染"
+        },
+        {
+            "key": "tab_audio_link",
+            "value": "音频链接"
+        },
+        {
+            "key": "tab_coloring",
+            "value": "着色"
+        },
+        {
+            "key": "tab_blur",
+            "value": "模糊"
+        },
+        {
+            "key": "tab_distortion",
+            "value": "扭曲"
+        },
+        {
+            "key": "tab_border",
+            "value": "边框"
+        },
+        {
+            "key": "tab_fog",
+            "value": "雾效"
+        },
+        {
+            "key": "tab_glitch",
+            "value": "故障效果"
+        },
+        {
+            "key": "tab_overlay",
+            "value": "叠加"
+        },
+        {
+            "key": "tab_uv_manipulation",
+            "value": "UV 操作"
+        },
+        {
+            "key": "tab_filter",
+            "value": "滤镜"
+        },
+        {
+            "key": "tab_zoom",
+            "value": "缩放"
+        },
+        {
+            "key": "tab_sub_filter_vignette",
+            "value": "晕影"
+        },
+        {
+            "key": "tab_sub_filter_color_crush",
+            "value": "色彩压碎"
+        },
+        {
+            "key": "tab_sub_filter_duotone",
+            "value": "双色调"
+        },
+        {
+            "key": "tab_sub_filter_rainbow",
+            "value": "彩虹"
+        },
+        {
+            "key": "tab_sub_filter_film",
+            "value": "胶片"
+        },
+        {
+            "key": "tab_sub_filter_grain",
+            "value": "颗粒"
+        },
+        {
+            "key": "tab_sub_filter_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "tab_sub_filter_gradient",
+            "value": "渐变"
+        },
+        {
+            "key": "tab_sub_filter_outline",
+            "value": "轮廓"
+        },
+        {
+            "key": "tab_sub_filter_astral",
+            "value": "灵魂出窍"
+        },
+        {
+            "key": "tab_sub_filter_neon",
+            "value": "霓虹"
+        },
+        {
+            "key": "tab_sub_uv_transformation",
+            "value": "变换"
+        },
+        {
+            "key": "tab_sub_uv_move",
+            "value": "移动"
+        },
+        {
+            "key": "tab_sub_uv_shake",
+            "value": "抖动"
+        },
+        {
+            "key": "tab_sub_uv_pixelation",
+            "value": "像素化"
+        },
+        {
+            "key": "tab_sub_uv_rotation",
+            "value": "旋转"
+        },
+        {
+            "key": "tab_sub_uv_spherize",
+            "value": "球面化"
+        },
+        {
+            "key": "prop_rendering_shader_power",
+            "value": "着色器强度"
+        },
+        {
+            "key": "prop_rendering_falloff_start",
+            "value": "衰减开始"
+        },
+        {
+            "key": "prop_rendering_falloff_end",
+            "value": "衰减结束"
+        },
+        {
+            "key": "prop_rendering_out_of_bounds_style",
+            "value": "越界样式"
+        },
+        {
+            "key": "prop_blur_enable",
+            "value": "启用模糊模块"
+        },
+        {
+            "key": "prop_blur_high_quality",
+            "value": "更高质量的模糊"
+        },
+        {
+            "key": "prop_blur_style",
+            "value": "模糊样式"
+        },
+        {
+            "key": "prop_blur_power",
+            "value": "模糊强度"
+        },
+        {
+            "key": "prop_blur_radius",
+            "value": "模糊半径"
+        },
+        {
+            "key": "prop_blur_transparency",
+            "value": "模糊透明度"
+        },
+        {
+            "key": "prop_blur_color",
+            "value": "模糊颜色"
+        },
+        {
+            "key": "prop_border_enable",
+            "value": "启用边框模块"
+        },
+        {
+            "key": "prop_border_style",
+            "value": "边框样式"
+        },
+        {
+            "key": "prop_border_color",
+            "value": "边框颜色"
+        },
+        {
+            "key": "prop_border_power",
+            "value": "边框强度"
+        },
+        {
+            "key": "prop_border_soften",
+            "value": "边框柔化"
+        },
+        {
+            "key": "prop_coloring_enable",
+            "value": "启到着色模块"
+        },
+        {
+            "key": "prop_coloring_rgb_multiply",
+            "value": "RGB 乘法"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay_transparency",
+            "value": "RGB 叠加透明度"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay",
+            "value": "RGB 叠加"
+        },
+        {
+            "key": "prop_coloring_hsv_style",
+            "value": "HSV 样式"
+        },
+        {
+            "key": "prop_coloring_hsv_hue",
+            "value": "HSV 色相"
+        },
+        {
+            "key": "prop_coloring_hsv_saturation",
+            "value": "HSV 饱和度"
+        },
+        {
+            "key": "prop_coloring_hsv_value",
+            "value": "HSV 亮度"
+        },
+        {
+            "key": "prop_coloring_invert",
+            "value": "反相"
+        },
+        {
+            "key": "prop_coloring_color_drain",
+            "value": "色彩流失"
+        },
+        {
+            "key": "prop_coloring_darkness",
+            "value": "暗度"
+        },
+        {
+            "key": "prop_coloring_brightness",
+            "value": "亮度"
+        },
+        {
+            "key": "prop_coloring_emission",
+            "value": "自发光"
+        },
+        {
+            "key": "prop_coloring_posterization",
+            "value": "色调分离"
+        },
+        {
+            "key": "prop_coloring_color_grading",
+            "value": "色彩分级"
+        },
+        {
+            "key": "prop_coloring_color_grading_tone",
+            "value": "色彩分级色调"
+        },
+        {
+            "key": "prop_distortion_enable",
+            "value": "启用扭曲模块"
+        },
+        {
+            "key": "prop_distortion_style",
+            "value": "扭曲样式"
+        },
+        {
+            "key": "prop_distortion_power_x",
+            "value": "扭曲强度 X"
+        },
+        {
+            "key": "prop_distortion_power_y",
+            "value": "扭曲强度 Y"
+        },
+        {
+            "key": "prop_distortion_speed_x",
+            "value": "扭曲速度 X"
+        },
+        {
+            "key": "prop_distortion_speed_y",
+            "value": "扭曲速度 Y"
+        },
+        {
+            "key": "prop_distortion_texture",
+            "value": "扭曲纹理"
+        },
+        {
+            "key": "prop_distortion_texture_scale",
+            "value": "扭曲纹理缩放"
+        },
+        {
+            "key": "prop_distortion_add_in_wobble",
+            "value": "加入晃动效果？"
+        },
+        {
+            "key": "prop_distortion_wobble_power",
+            "value": "晃动强度"
+        },
+        {
+            "key": "prop_distortion_wobble_speed",
+            "value": "晃动速度"
+        },
+        {
+            "key": "prop_distortion_wobble_coverage",
+            "value": "晃动范围"
+        },
+        {
+            "key": "prop_filter_enable",
+            "value": "启用滤镜模块"
+        },
+        {
+            "key": "prop_vignette_enable",
+            "value": "启用晕影"
+        },
+        {
+            "key": "prop_vignette_power",
+            "value": "晕影强度"
+        },
+        {
+            "key": "prop_vignette_color",
+            "value": "晕影颜色"
+        },
+        {
+            "key": "prop_color_crush_enable",
+            "value": "启用色彩压碎"
+        },
+        {
+            "key": "prop_color_crush_power",
+            "value": "色彩压碎强度"
+        },
+        {
+            "key": "prop_duotone_enable",
+            "value": "启用双色调"
+        },
+        {
+            "key": "prop_duotone_transparency",
+            "value": "双色调透明度"
+        },
+        {
+            "key": "prop_duotone_color_one",
+            "value": "双色调颜色一"
+        },
+        {
+            "key": "prop_duotone_color_two",
+            "value": "双色调颜色二"
+        },
+        {
+            "key": "prop_duotone_threshold",
+            "value": "双色调阈值"
+        },
+        {
+            "key": "prop_rainbow_enable",
+            "value": "启用彩虹"
+        },
+        {
+            "key": "prop_rainbow_saturation",
+            "value": "彩虹饱和度"
+        },
+        {
+            "key": "prop_rainbow_speed",
+            "value": "彩虹速度"
+        },
+        {
+            "key": "prop_film_enable",
+            "value": "启用胶片"
+        },
+        {
+            "key": "prop_film_amount",
+            "value": "胶片量"
+        },
+        {
+            "key": "prop_grain_enable",
+            "value": "启用颗粒"
+        },
+        {
+            "key": "prop_grain_amount",
+            "value": "颗粒量"
+        },
+        {
+            "key": "prop_grain_color",
+            "value": "颗粒颜色"
+        },
+        {
+            "key": "prop_vhs_enable",
+            "value": "启用 VHS"
+        },
+        {
+            "key": "prop_vhs_amount",
+            "value": "VHS 量"
+        },
+        {
+            "key": "prop_gradient_enable",
+            "value": "启用渐变"
+        },
+        {
+            "key": "prop_gradient_lhs",
+            "value": "渐变左侧"
+        },
+        {
+            "key": "prop_gradient_rhs",
+            "value": "渐变右侧"
+        },
+        {
+            "key": "prop_gradient_transparency",
+            "value": "渐变透明度"
+        },
+        {
+            "key": "prop_outline_enable",
+            "value": "启用轮廓"
+        },
+        {
+            "key": "prop_outline_width",
+            "value": "轮廓宽度"
+        },
+        {
+            "key": "prop_outline_tolerance",
+            "value": "轮廓容差"
+        },
+        {
+            "key": "prop_outline_color",
+            "value": "轮廓颜色"
+        },
+        {
+            "key": "prop_astral_enable",
+            "value": "启用灵魂"
+        },
+        {
+            "key": "prop_astral_zoom",
+            "value": "灵魂缩放"
+        },
+        {
+            "key": "prop_astral_transparency",
+            "value": "灵魂透明度"
+        },
+        {
+            "key": "prop_astral_color",
+            "value": "灵魂颜色"
+        },
+        {
+            "key": "prop_neon_enable",
+            "value": "启用霓虹"
+        },
+        {
+            "key": "prop_neon_width",
+            "value": "霓虹宽度"
+        },
+        {
+            "key": "prop_neon_transparency",
+            "value": "霓虹透明度"
+        },
+        {
+            "key": "prop_neon_hue",
+            "value": "霓虹色相"
+        },
+        {
+            "key": "prop_overlay_enable",
+            "value": "启用叠加模块"
+        },
+        {
+            "key": "prop_overlay_texture",
+            "value": "叠加纹理"
+        },
+        {
+            "key": "prop_overlay_transparency",
+            "value": "叠加透明度"
+        },
+        {
+            "key": "prop_overlay_size_x",
+            "value": "叠加大小 X"
+        },
+        {
+            "key": "prop_overlay_size_y",
+            "value": "叠加大小 Y"
+        },
+        {
+            "key": "prop_overlay_speed_x",
+            "value": "叠加速度 X"
+        },
+        {
+            "key": "prop_overlay_speed_y",
+            "value": "叠加速度 Y"
+        },
+        {
+            "key": "prop_overlay_offset_x",
+            "value": "叠加偏移 X"
+        },
+        {
+            "key": "prop_overlay_offset_y",
+            "value": "叠加偏移 Y"
+        },
+        {
+            "key": "prop_uv_manipulation_enable",
+            "value": "启用 UV 模块"
+        },
+        {
+            "key": "prop_transformation_slant_top_left",
+            "value": "左上倾斜"
+        },
+        {
+            "key": "prop_transformation_slant_top_right",
+            "value": "右上倾斜"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_left",
+            "value": "左下倾斜"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_right",
+            "value": "右下倾斜"
+        },
+        {
+            "key": "prop_transformation_flip_x",
+            "value": "翻转 X"
+        },
+        {
+            "key": "prop_transformation_flip_y",
+            "value": "翻转 Y"
+        },
+        {
+            "key": "prop_transformation_stretch_x",
+            "value": "拉伸 X"
+        },
+        {
+            "key": "prop_transformation_stretch_y",
+            "value": "拉伸 Y"
+        },
+        {
+            "key": "prop_movement_move_x",
+            "value": "移动 X"
+        },
+        {
+            "key": "prop_movement_move_y",
+            "value": "移动 Y"
+        },
+        {
+            "key": "prop_shake_style",
+            "value": "抖动样式"
+        },
+        {
+            "key": "prop_shake_power_x",
+            "value": "抖动强度 X"
+        },
+        {
+            "key": "prop_shake_power_y",
+            "value": "抖动强度 Y"
+        },
+        {
+            "key": "prop_shake_speed_x",
+            "value": "抖动速度 X"
+        },
+        {
+            "key": "prop_shake_speed_y",
+            "value": "抖动速度 Y"
+        },
+        {
+            "key": "prop_pixelation_enable",
+            "value": "启用像素化"
+        },
+        {
+            "key": "prop_pixelation_power",
+            "value": "像素化强度"
+        },
+        {
+            "key": "prop_rotation_enable",
+            "value": "启用旋转"
+        },
+        {
+            "key": "prop_rotation_angle",
+            "value": "旋转角度"
+        },
+        {
+            "key": "prop_spherize_enable",
+            "value": "启用球面化"
+        },
+        {
+            "key": "prop_spherize_power",
+            "value": "球面化强度"
+        },
+        {
+            "key": "prop_zoom_enable",
+            "value": "启用缩放模块"
+        },
+        {
+            "key": "prop_zoom_power",
+            "value": "缩放强度"
+        },
+        {
+            "key": "prop_zoom_custom_range",
+            "value": "缩放自定义范围"
+        },
+        {
+            "key": "prop_zoom_range_start",
+            "value": "缩放范围开始"
+        },
+        {
+            "key": "prop_zoom_range_end",
+            "value": "缩放范围结束"
+        },
+        {
+            "key": "prop_fog_enable",
+            "value": "启用雾效模块"
+        },
+        {
+            "key": "prop_fog_density",
+            "value": "雾密度"
+        },
+        {
+            "key": "prop_fog_distribution",
+            "value": "雾分布"
+        },
+        {
+            "key": "prop_fog_color",
+            "value": "雾颜色"
+        },
+        {
+            "key": "prop_fog_safe_space",
+            "value": "雾安全空间"
+        },
+        {
+            "key": "prop_fog_safe_space_size",
+            "value": "雾安全空间大小"
+        },
+        {
+            "key": "prop_glitch_enable",
+            "value": "启用故障模块"
+        },
+        {
+            "key": "prop_glitch_scale",
+            "value": "故障缩放"
+        },
+        {
+            "key": "prop_glitch_amount",
+            "value": "故障量"
+        },
+        {
+            "key": "prop_glitch_uvs",
+            "value": "故障 UV"
+        },
+        {
+            "key": "prop_glitch_chromatic",
+            "value": "故障色差"
+        },
+        {
+            "key": "prop_overlay_animated",
+            "value": "动画叠加"
+        },
+        {
+            "key": "prop_overlay_frames_x",
+            "value": "叠加列数"
+        },
+        {
+            "key": "prop_overlay_frames_y",
+            "value": "叠加行数"
+        },
+        {
+            "key": "prop_overlay_frames",
+            "value": "叠加帧数"
+        },
+        {
+            "key": "prop_overlay_speed",
+            "value": "叠加速度"
+        },
+        {
+            "key": "prop_overlay_scrub",
+            "value": "叠加拖动"
+        },
+        {
+            "key": "prop_ui_notice",
+            "value": "超级有用的建议！"
+        },
+        {
+            "key": "prop_ui_depth",
+            "value": "此效果需要在场景中同时使用深度光。包中的 Resources/Prefabs 文件夹内提供了预制件。"
+        },
+        {
+            "key": "prop_audio_link_enable",
+            "value": "启用音频链接"
+        },
+        {
+            "key": "prop_audio_link_band",
+            "value": "频段"
+        },
+        {
+            "key": "prop_audio_link_power",
+            "value": "强度"
+        },
+        {
+            "key": "prop_audio_link_min",
+            "value": "最小值"
+        },
+        {
+            "key": "prop_audio_link_max",
+            "value": "最大值"
+        },
+        {
+            "key": "prop_blur_dithering",
+            "value": "抖动模糊"
+        },
+        {
+            "key": "prop_overlay_blendmode",
+            "value": "叠加混合模式"
+        },
+        {
+            "key": "prop_overlay_vr",
+            "value": "使用 VR 特定更改"
+        },
+        {
+            "key": "prop_overlay_vr_preview",
+            "value": "VR 叠加预览"
+        },
+        {
+            "key": "prop_overlay_vr_size_x",
+            "value": "VR 叠加大小 X"
+        },
+        {
+            "key": "prop_overlay_vr_size_y",
+            "value": "VR 叠加大小 Y"
+        },
+        {
+            "key": "prop_overlay_vr_offset_x",
+            "value": "VR 叠加偏移 X"
+        },
+        {
+            "key": "prop_overlay_vr_offset_y",
+            "value": "VR 叠加偏移 Y"
+        },
+        {
+            "key": "tab_june_pro",
+            "value": "预览 June Pro"
+        },
+        {
+            "key": "june_pro_tab_blur",
+            "value": "模糊"
+        },
+        {
+            "key": "june_pro_styles_blur",
+            "value": "模糊提供以下样式：高斯、选择性、泛光、焦外、磨砂、像素扭曲、挤出、涂抹、径向缩放及其他好东西。"
+        },
+        {
+            "key": "june_pro_tab_border",
+            "value": "边框"
+        },
+        {
+            "key": "june_pro_styles_border",
+            "value": "边框提供以下样式：垂直宽屏、水平宽屏、方形、圆形、多边形、眼睛、动漫和地图。"
+        },
+        {
+            "key": "june_pro_tab_chromatic",
+            "value": "色差"
+        },
+        {
+            "key": "june_pro_styles_chromatic",
+            "value": "色差提供以下样式：RGB、HSV、负片、径向、分层和模糊。"
+        },
+        {
+            "key": "june_pro_tab_colour_grading",
+            "value": "色彩分级"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_fine_tuning",
+            "value": "微调"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_focus",
+            "value": "色彩聚焦"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_replacements",
+            "value": "色彩替换"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colourspace",
+            "value": "色彩空间"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_lighting_adjustment",
+            "value": "光照调整"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_sharpness",
+            "value": "锐度"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_saturation",
+            "value": "饱和度"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_stylize",
+            "value": "风格化"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_channels",
+            "value": "色彩通道"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_post-processing",
+            "value": "后处理"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_posterization",
+            "value": "色调分离"
+        },
+        {
+            "key": "june_pro_tab_creativity",
+            "value": "创意"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_alphenglow",
+            "value": "阿尔卑斯光"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aquamarine",
+            "value": "海蓝宝石"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aurora",
+            "value": "极光"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_bonnibel",
+            "value": "邦尼贝尔"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_butterfly",
+            "value": "蝴蝶"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_candy",
+            "value": "糖果"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_ecstasy",
+            "value": "狂喜"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_fable",
+            "value": "寓言"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_lava_lamp",
+            "value": "熔岩灯"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_marceline",
+            "value": "玛瑟琳"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_smokescreen",
+            "value": "烟幕"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_turbulence",
+            "value": "湍流"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_rainbow_river",
+            "value": "彩虹河"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_portal",
+            "value": "传送门"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_tea",
+            "value": "茶"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_oil_spill",
+            "value": "浮油"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_art",
+            "value": "艺术"
+        },
+        {
+            "key": "june_pro_tab_distortion",
+            "value": "扭曲"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_simple_distortion",
+            "value": "简单扭曲"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bezier_curve",
+            "value": "贝塞尔曲线"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_blackhole",
+            "value": "黑洞"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bubbles",
+            "value": "气泡"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bumpy_glass",
+            "value": "凹凸玻璃"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_exaggeration",
+            "value": "夸张"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_liquify",
+            "value": "液化"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_warp",
+            "value": "弯曲"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_wave",
+            "value": "波浪"
+        },
+        {
+            "key": "june_pro_tab_enhancements",
+            "value": "增强"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_anti-aliasing",
+            "value": "抗锯齿"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_denoise",
+            "value": "降噪"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_deblur",
+            "value": "去模糊"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_heavy_lines",
+            "value": "粗线条"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_soft_lines",
+            "value": "柔和线条"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_upscale",
+            "value": "升采样"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_contrast_sharpening",
+            "value": "对比度锐化"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_fdr",
+            "value": "FDR"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_screenspace_softshading",
+            "value": "屏幕空间软着色"
+        },
+        {
+            "key": "june_pro_tab_experiments",
+            "value": "实验"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_dolly",
+            "value": "推拉"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_cloning",
+            "value": "克隆"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_screen_background",
+            "value": "屏幕背景"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_depth_viewer",
+            "value": "深度查看器"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_objectify",
+            "value": "对象化"
+        },
+        {
+            "key": "june_pro_tab_filters",
+            "value": "滤镜"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_incorrection",
+            "value": "色彩不校正"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colourblind_simulation",
+            "value": "色盲模拟"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_corners",
+            "value": "角落"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_crush",
+            "value": "色彩压碎"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_cycline",
+            "value": "色彩循环线"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_wheel",
+            "value": "色轮"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_crt",
+            "value": "CRT"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_monotone",
+            "value": "单色调"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_duotone",
+            "value": "双色调"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tritone",
+            "value": "三色调"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_engraving",
+            "value": "雕刻"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_linocut",
+            "value": "油毡浮雕"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_light_leak",
+            "value": "漏光"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_film",
+            "value": "胶片"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_normal_mapper",
+            "value": "法线贴图"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_chrome",
+            "value": "铬"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_rainbow",
+            "value": "彩虹"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ramp",
+            "value": "渐变映射"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_gradient",
+            "value": "渐变"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_ink",
+            "value": "低油墨"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_bitrate",
+            "value": "低比特率"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_grain",
+            "value": "颗粒"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_glitter",
+            "value": "闪光"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_moire",
+            "value": "莫尔纹"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_sepia",
+            "value": "深褐色"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_solarize",
+            "value": "曝光过度"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_specular",
+            "value": "高光"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tie_dye",
+            "value": "扎染"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_technicolour",
+            "value": "特艺彩色"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_thermal",
+            "value": "热成像"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_threshold",
+            "value": "阈值"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_night_vision",
+            "value": "夜视"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ultra_violet",
+            "value": "紫外线"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_wall_glow",
+            "value": "墙壁发光"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vignette",
+            "value": "晕影"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_dither",
+            "value": "抖动"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_fauxlate",
+            "value": "仿制"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_lieless",
+            "value": "无谎"
+        },
+        {
+            "key": "june_pro_tab_frames",
+            "value": "相框"
+        },
+        {
+            "key": "june_pro_styles_frames",
+            "value": "相框提供以下样式：骄傲、跨性别、音乐、宝丽来、超八、杂志、电影、霓虹、漫画和胶片条纹。"
+        },
+        {
+            "key": "june_pro_tab_generation",
+            "value": "生成"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_lines",
+            "value": "线条"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_ring_colors",
+            "value": "环形颜色"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_noise_colors",
+            "value": "噪声颜色"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_sdf_colors",
+            "value": "SDF 颜色"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_colors",
+            "value": "形状颜色"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_uvs",
+            "value": "形状 UV"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_colors",
+            "value": "螺旋颜色"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_uvs",
+            "value": "螺旋 UV"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_hearts",
+            "value": "心形"
+        },
+        {
+            "key": "june_pro_tab_glitch",
+            "value": "故障效果"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_simple",
+            "value": "简单"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_advanced",
+            "value": "高级"
+        },
+        {
+            "key": "june_pro_tab_motion",
+            "value": "动态"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_acid",
+            "value": "迷幻"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_blur",
+            "value": "模糊"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_distortion",
+            "value": "扭曲"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_freeze",
+            "value": "冻结"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_rgb_freeze",
+            "value": "RGB 冻结"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_glitch",
+            "value": "故障效果"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_chromatic",
+            "value": "色差"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_pixel_sort",
+            "value": "像素排序"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_trail",
+            "value": "拖尾"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranquility",
+            "value": "宁静"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranceless",
+            "value": "无恍惚"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_data_mosh",
+            "value": "数据混合"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_frame_rate",
+            "value": "帧率"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fensterxd",
+            "value": "FensterXD"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fading_projections",
+            "value": "渐隐投影"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_motear",
+            "value": "动态撕裂"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_lake_fill",
+            "value": "湖泊填充"
+        },
+        {
+            "key": "june_pro_tab_others",
+            "value": "其他"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral",
+            "value": "灵魂"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral_rgb",
+            "value": "灵魂 RGB"
+        },
+        {
+            "key": "june_pro_sub_tab_others_apart",
+            "value": "分离"
+        },
+        {
+            "key": "june_pro_sub_tab_others_colour_diffusion",
+            "value": "色彩扩散"
+        },
+        {
+            "key": "june_pro_sub_tab_others_holepuncher",
+            "value": "打孔机"
+        },
+        {
+            "key": "june_pro_sub_tab_others_glowstick",
+            "value": "荧光棒"
+        },
+        {
+            "key": "june_pro_sub_tab_others_grid_checkerboard",
+            "value": "网格棋盘"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hallucinogen",
+            "value": "致幻剂"
+        },
+        {
+            "key": "june_pro_sub_tab_others_lenticular_halo",
+            "value": "透镜光环"
+        },
+        {
+            "key": "june_pro_sub_tab_others_meta_image",
+            "value": "元图像"
+        },
+        {
+            "key": "june_pro_sub_tab_others_palette",
+            "value": "调色板"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rain_line",
+            "value": "雨线"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rim",
+            "value": "边缘光"
+        },
+        {
+            "key": "june_pro_sub_tab_others_scanline_overlay",
+            "value": "扫描线叠加"
+        },
+        {
+            "key": "june_pro_sub_tab_others_stripes",
+            "value": "条纹"
+        },
+        {
+            "key": "june_pro_sub_tab_others_sunbeams",
+            "value": "太阳光束"
+        },
+        {
+            "key": "june_pro_sub_tab_others_water_reflection",
+            "value": "水面倒影"
+        },
+        {
+            "key": "june_pro_sub_tab_others_camouflage",
+            "value": "伪装"
+        },
+        {
+            "key": "june_pro_sub_tab_others_inception",
+            "value": "盗梦空间"
+        },
+        {
+            "key": "june_pro_sub_tab_others_object_detection",
+            "value": "物体检测"
+        },
+        {
+            "key": "june_pro_sub_tab_others_fog",
+            "value": "雾效"
+        },
+        {
+            "key": "june_pro_sub_tab_others_silhouette",
+            "value": "剪影"
+        },
+        {
+            "key": "june_pro_sub_tab_others_prismatic_layers",
+            "value": "棱镜层"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hexatile",
+            "value": "六边形瓦片"
+        },
+        {
+            "key": "june_pro_sub_tab_others_secrets",
+            "value": "秘密"
+        },
+        {
+            "key": "june_pro_sub_tab_others_divider",
+            "value": "分隔线"
+        },
+        {
+            "key": "june_pro_tab_outline",
+            "value": "轮廓"
+        },
+        {
+            "key": "june_pro_styles_outline",
+            "value": "轮廓提供以下样式：颜色（细）和深度（粗）。"
+        },
+        {
+            "key": "june_pro_tab_overlay",
+            "value": "叠加"
+        },
+        {
+            "key": "june_pro_styles_overlay",
+            "value": "叠加提供以下样式：静态图像、动画图像和拼贴画。"
+        },
+        {
+            "key": "june_pro_tab_stylize",
+            "value": "风格化"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_compression",
+            "value": "压缩"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crosshatching",
+            "value": "交叉影线"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crystalize",
+            "value": "结晶"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_dots",
+            "value": "圆点"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_emboss",
+            "value": "浮雕"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_impressionism",
+            "value": "印象派"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_mosaic",
+            "value": "马赛克"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon_rings",
+            "value": "霓虹环"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_oil",
+            "value": "油画"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_monitor",
+            "value": "显示器"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon",
+            "value": "霓虹"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_pop_art",
+            "value": "波普艺术"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_unicode",
+            "value": "Unicode"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone",
+            "value": "半色调"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_circles",
+            "value": "半色调圆形"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_spiral",
+            "value": "半色调螺旋"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_rgb",
+            "value": "半色调 RGB"
+        },
+        {
+            "key": "june_pro_tab_special",
+            "value": "特殊"
+        },
+        {
+            "key": "june_pro_sub_tab_special_bubbles",
+            "value": "气泡"
+        },
+        {
+            "key": "june_pro_sub_tab_special_confetti",
+            "value": "五彩纸屑"
+        },
+        {
+            "key": "june_pro_sub_tab_special_data_stream",
+            "value": "数据流"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lens_flare",
+            "value": "镜头光晕"
+        },
+        {
+            "key": "june_pro_sub_tab_special_hexagonal_shield",
+            "value": "六边形护盾"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lightning",
+            "value": "闪电"
+        },
+        {
+            "key": "june_pro_sub_tab_special_mapping",
+            "value": "映射"
+        },
+        {
+            "key": "june_pro_sub_tab_special_rain_drops",
+            "value": "雨滴"
+        },
+        {
+            "key": "june_pro_sub_tab_special_plexus",
+            "value": "网状"
+        },
+        {
+            "key": "june_pro_sub_tab_special_shanshuo",
+            "value": "闪烁"
+        },
+        {
+            "key": "june_pro_sub_tab_special_star_trail",
+            "value": "星轨"
+        },
+        {
+            "key": "june_pro_sub_tab_special_spotlights",
+            "value": "聚光灯"
+        },
+        {
+            "key": "june_pro_sub_tab_special_visualizer",
+            "value": "可视化工具"
+        },
+        {
+            "key": "june_pro_sub_tab_special_warp_drive",
+            "value": "曲速引擎"
+        },
+        {
+            "key": "june_pro_tab_transition",
+            "value": "过渡"
+        },
+        {
+            "key": "june_pro_styles_transition",
+            "value": "过渡提供以下样式：滑动、点入、点出、盒入、盒出、瓦片弹跳、瓦片波浪、快门、径向擦除、径向重复、溶解、锯齿擦除、延迟、六边形瓦片、六边形擦除和 Modelo 入场。"
+        },
+        {
+            "key": "june_pro_tab_triplanar",
+            "value": "三平面"
+        },
+        {
+            "key": "june_pro_styles_triplanar",
+            "value": "三平面提供以下样式：静态图像、动画图像、颜色和单元格。"
+        },
+        {
+            "key": "june_pro_tab_uv_manipulation",
+            "value": "UV 操作"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_bender",
+            "value": "弯曲器"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_movement",
+            "value": "移动"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_clamp",
+            "value": "钳制"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_coordinates",
+            "value": "坐标"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_dither",
+            "value": "抖动"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_kaleidoscope",
+            "value": "万花筒"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror",
+            "value": "镜像"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scroll",
+            "value": "滚动"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shake_(and_earthquake)",
+            "value": "抖动（和地震）"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_slicer",
+            "value": "切片器"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_melt",
+            "value": "融化"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror_shatter",
+            "value": "镜像破碎"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_ring_rotation",
+            "value": "环形旋转"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_refraction",
+            "value": "折射"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixelation",
+            "value": "像素化"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixel_shifter",
+            "value": "像素移位器"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scanline",
+            "value": "扫描线"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shuffle",
+            "value": "洗牌"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_skew",
+            "value": "倾斜"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spherize",
+            "value": "球面化"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_transformation",
+            "value": "变换"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twisted_corridor",
+            "value": "扭曲走廊"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_recursion",
+            "value": "递归"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twod_rotation",
+            "value": "二维旋转"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_rotation",
+            "value": "三维旋转"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_pan",
+            "value": "三维平移"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_onlyscreens",
+            "value": "仅屏幕"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spinterception",
+            "value": "旋转拦截"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_quadrant_zoom",
+            "value": "象限缩放"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_swivel",
+            "value": "旋转"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_distaer",
+            "value": "距离效果"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_thanos",
+            "value": "灭霸"
+        },
+        {
+            "key": "june_pro_tab_vertex_reconstruction",
+            "value": "顶点重建"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_atmosphere",
+            "value": "大气"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_glitter",
+            "value": "闪光"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_shatterwave",
+            "value": "破碎波"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_threed_lighting",
+            "value": "三维光照"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe",
+            "value": "线框"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe_shatterwave",
+            "value": "线框破碎波"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_normals",
+            "value": "法线"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tripful",
+            "value": "迷幻之旅"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_hololens",
+            "value": "全息透镜"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_lidar",
+            "value": "激光雷达"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_corruption",
+            "value": "腐化"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_world_wrap",
+            "value": "世界包裹"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_spotlight",
+            "value": "聚光灯"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tryptamines",
+            "value": "色胺"
+        },
+        {
+            "key": "june_pro_tab_zoom",
+            "value": "缩放"
+        },
+        {
+            "key": "june_pro_styles_zoom",
+            "value": "缩放提供以下样式：屏幕、居中、鱼眼和跟随。"
+        },
+        {
+            "key": "june_pro_preview_toggle",
+            "value": "预览 June 完整版"
+        },
+        {
+            "key": "june_pro_preview_notice",
+            "value": "您正在预览 June 完整版中的所有可用效果。这些效果目前无法使用，也未显示所有可用设置，但您可以借此了解所有包含的内容，以帮助您决定 June 是否对您有益。您可以随时在“June Pro 预览”选项卡中切换回功能齐全的 June Lite 版本。:)"
+        },
+        {
+            "key": "june_pro_buy_button",
+            "value": "购买 June Pro！"
+        },
+        {
+            "key": "june_pro_learn_button",
+            "value": "了解更多关于 June Pro！"
+        },
+        {
+            "key": "june_pro_docs_button",
+            "value": "打开 June Pro 文档！"
+        },
+        {
+            "key": "june_pro_coupon",
+            "value": "使用优惠码 “UPGRADE10” 购买 June 可享九折优惠！（仅限 Gumroad）"
+        },
+        {
+            "key": "prop_coloring_sharpness",
+            "value": "锐化屏幕"
+        },
+        {
+            "key": "tab_sub_filter_trippy",
+            "value": "迷幻"
+        },
+        {
+            "key": "prop_trippy_enable",
+            "value": "启用迷幻"
+        },
+        {
+            "key": "prop_trippy_power",
+            "value": "迷幻强度"
+        },
+        {
+            "key": "prop_trippy_spread",
+            "value": "迷幻扩散"
+        },
+        {
+            "key": "prop_trippy_speed",
+            "value": "迷幻速度"
+        },
+        {
+            "key": "tab_license",
+            "value": "许可证"
+        },
+        {
+            "key": "button_show_license",
+            "value": "在 Unity 中显示许可证"
+        }
+    ]
+}

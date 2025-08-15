@@ -1,0 +1,10 @@
+{
+    "interface": {
+        "tab_theme": "Default",
+        "text_theme": "Default",
+        "ui_size": "Comfy",
+        "language": "English",
+        "show_updates": true,
+        "show_announcements": true
+    }
+}

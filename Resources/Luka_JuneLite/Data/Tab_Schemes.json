@@ -1,0 +1,69 @@
+{
+    "schemelist": [
+        {
+            "name": "Default",
+            "colors": [
+                "default"
+            ]
+        },
+        {
+            "name": "Dark Mode",
+            "colors": [
+                "#222222"
+            ]
+        },
+        {
+            "name": "Alternating Dark",
+            "colors": [
+                "#222222",
+                "#101010"
+            ]
+        },
+        {
+            "name": "Light Mode",
+            "colors": [
+                "#ECECEC"
+            ]
+        },
+        {
+            "name": "Alternating Light",
+            "colors": [
+                "#ECECEC",
+                "#cccccc"
+            ]
+        },
+        {
+            "name": "Pastel Neopolitan",
+            "colors": [
+                "#d8e2dc",
+                "#f4acb7",
+                "#9d8189"
+            ]
+        },
+        {
+            "name": "Rich Neopolitan",
+            "colors": [
+                "#6e7a75",
+                "#823f4d",
+                "#3a1f25"
+            ]
+        },
+        {
+            "name": "Rainbow",
+            "colors": [
+                "#8593B7",
+                "#955D8F",
+                "#AB6985",
+                "#DD6B7C",
+                "#E09375",
+                "#F0D094",
+                "#BFDC95",
+                "#77C59D",
+                "#689480",
+                "#7D979B",
+                "#4B4B66",
+                "#28233F"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1876 @@
+{
+    "entries": [
+        {
+            "key": "enabled",
+            "value": "Activé"
+        },
+        {
+            "key": "disabled",
+            "value": "Désactivé"
+        },
+        {
+            "key": "config_tab_theme",
+            "value": "Thème de l'onglet"
+        },
+        {
+            "key": "config_text_theme",
+            "value": "Thème du texte"
+        },
+        {
+            "key": "config_ui_size",
+            "value": "Taille de l'interface utilisateur"
+        },
+        {
+            "key": "config_updates",
+            "value": "Vérifier les mises à jour"
+        },
+        {
+            "key": "config_language",
+            "value": "Langue"
+        },
+        {
+            "key": "config_toggle_updates",
+            "value": "Afficher les mises à jour"
+        },
+        {
+            "key": "config_toggle_announcements",
+            "value": "Afficher les nouvelles"
+        },
+        {
+            "key": "config_toggle_enabled",
+            "value": "Activé"
+        },
+        {
+            "key": "config_toggle_disabled",
+            "value": "Désactivé"
+        },
+        {
+            "key": "config_save",
+            "value": "Enregistrer la configuration"
+        },
+        {
+            "key": "config_reset",
+            "value": "Réinitialiser la configuration"
+        },
+        {
+            "key": "config_save_success",
+            "value": "Votre configuration a été enregistrée avec succès ! ^~^"
+        },
+        {
+            "key": "config_save_error",
+            "value": "Une erreur s'est produite lors de la sauvegarde de votre configuration, essayez de réimporter le package Unity ! >.<"
+        },
+        {
+            "key": "config_reset_success",
+            "value": "Votre configuration a été réinitialisée aux valeurs par défaut ! ^~^"
+        },
+        {
+            "key": "config_reset_error",
+            "value": "Une erreur s'est produite lors de la réinitialisation de votre configuration, essayez de réimporter le package Unity ! >.<"
+        },
+        {
+            "key": "dialog_okay",
+            "value": "Oki !"
+        },
+        {
+            "key": "update_available",
+            "value": "Mise à jour disponible !"
+        },
+        {
+            "key": "update_description",
+            "value": "Téléchargez la dernière version pour de nouvelles fonctionnalités et des corrections de bugs ! <3"
+        },
+        {
+            "key": "tab_config",
+            "value": "Paramètres"
+        },
+        {
+            "key": "open_docs",
+            "value": "Besoin d'aide ? Cliquez ici pour ouvrir la documentation !"
+        },
+        {
+            "key": "tab_rendering",
+            "value": "Rendu"
+        },
+        {
+            "key": "tab_audio_link",
+            "value": "Lien audio"
+        },
+        {
+            "key": "tab_coloring",
+            "value": "Coloration"
+        },
+        {
+            "key": "tab_blur",
+            "value": "Flou"
+        },
+        {
+            "key": "tab_distortion",
+            "value": "Distorsion"
+        },
+        {
+            "key": "tab_border",
+            "value": "Bordure"
+        },
+        {
+            "key": "tab_fog",
+            "value": "Brouillard"
+        },
+        {
+            "key": "tab_glitch",
+            "value": "Glitch"
+        },
+        {
+            "key": "tab_overlay",
+            "value": "Superposition"
+        },
+        {
+            "key": "tab_uv_manipulation",
+            "value": "Manipulation UV"
+        },
+        {
+            "key": "tab_filter",
+            "value": "Filtre"
+        },
+        {
+            "key": "tab_zoom",
+            "value": "Zoom"
+        },
+        {
+            "key": "tab_sub_filter_vignette",
+            "value": "Vignette"
+        },
+        {
+            "key": "tab_sub_filter_color_crush",
+            "value": "Color Crush"
+        },
+        {
+            "key": "tab_sub_filter_duotone",
+            "value": "Duotone"
+        },
+        {
+            "key": "tab_sub_filter_rainbow",
+            "value": "Arc-en-ciel"
+        },
+        {
+            "key": "tab_sub_filter_film",
+            "value": "Film"
+        },
+        {
+            "key": "tab_sub_filter_grain",
+            "value": "Grain"
+        },
+        {
+            "key": "tab_sub_filter_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "tab_sub_filter_gradient",
+            "value": "Dégradé"
+        },
+        {
+            "key": "tab_sub_filter_outline",
+            "value": "Contour"
+        },
+        {
+            "key": "tab_sub_filter_astral",
+            "value": "Projection Astrale"
+        },
+        {
+            "key": "tab_sub_filter_neon",
+            "value": "Néon"
+        },
+        {
+            "key": "tab_sub_uv_transformation",
+            "value": "Transformation"
+        },
+        {
+            "key": "tab_sub_uv_move",
+            "value": "Déplacer"
+        },
+        {
+            "key": "tab_sub_uv_shake",
+            "value": "Secouer"
+        },
+        {
+            "key": "tab_sub_uv_pixelation",
+            "value": "Pixellisation"
+        },
+        {
+            "key": "tab_sub_uv_rotation",
+            "value": "Rotation"
+        },
+        {
+            "key": "tab_sub_uv_spherize",
+            "value": "Sphérisation"
+        },
+        {
+            "key": "prop_rendering_shader_power",
+            "value": "Puissance du shader"
+        },
+        {
+            "key": "prop_rendering_falloff_start",
+            "value": "Début de l'atténuation"
+        },
+        {
+            "key": "prop_rendering_falloff_end",
+            "value": "Fin de l'atténuation"
+        },
+        {
+            "key": "prop_rendering_out_of_bounds_style",
+            "value": "Style hors limites"
+        },
+        {
+            "key": "prop_blur_enable",
+            "value": "Activer le module de flou"
+        },
+        {
+            "key": "prop_blur_high_quality",
+            "value": "Flous de meilleure qualité"
+        },
+        {
+            "key": "prop_blur_style",
+            "value": "Style de flou"
+        },
+        {
+            "key": "prop_blur_power",
+            "value": "Puissance du flou"
+        },
+        {
+            "key": "prop_blur_radius",
+            "value": "Rayon de flou"
+        },
+        {
+            "key": "prop_blur_transparency",
+            "value": "Transparence du flou"
+        },
+        {
+            "key": "prop_blur_color",
+            "value": "Couleur du flou"
+        },
+        {
+            "key": "prop_border_enable",
+            "value": "Activer le module de bordure"
+        },
+        {
+            "key": "prop_border_style",
+            "value": "Style de bordure"
+        },
+        {
+            "key": "prop_border_color",
+            "value": "Couleur de la bordure"
+        },
+        {
+            "key": "prop_border_power",
+            "value": "Puissance de la bordure"
+        },
+        {
+            "key": "prop_border_soften",
+            "value": "Adoucir la bordure"
+        },
+        {
+            "key": "prop_coloring_enable",
+            "value": "Activer le module de coloration"
+        },
+        {
+            "key": "prop_coloring_rgb_multiply",
+            "value": "Multiplier RVB"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay_transparency",
+            "value": "Transparence de la superposition RVB"
+        },
+        {
+            "key": "prop_coloring_rgb_overlay",
+            "value": "Superposition RVB"
+        },
+        {
+            "key": "prop_coloring_hsv_style",
+            "value": "Style TSV"
+        },
+        {
+            "key": "prop_coloring_hsv_hue",
+            "value": "Teinte TSV"
+        },
+        {
+            "key": "prop_coloring_hsv_saturation",
+            "value": "Saturation TSV"
+        },
+        {
+            "key": "prop_coloring_hsv_value",
+            "value": "Luminosité TSV"
+        },
+        {
+            "key": "prop_coloring_invert",
+            "value": "Inverser"
+        },
+        {
+            "key": "prop_coloring_color_drain",
+            "value": "Drainage de couleur"
+        },
+        {
+            "key": "prop_coloring_darkness",
+            "value": "Obscurité"
+        },
+        {
+            "key": "prop_coloring_brightness",
+            "value": "Luminosité"
+        },
+        {
+            "key": "prop_coloring_emission",
+            "value": "Émission"
+        },
+        {
+            "key": "prop_coloring_posterization",
+            "value": "Postérisation"
+        },
+        {
+            "key": "prop_coloring_color_grading",
+            "value": "Étalonnage des couleurs"
+        },
+        {
+            "key": "prop_coloring_color_grading_tone",
+            "value": "Tonalité de l'étalonnage des couleurs"
+        },
+        {
+            "key": "prop_distortion_enable",
+            "value": "Activer le module de distorsion"
+        },
+        {
+            "key": "prop_distortion_style",
+            "value": "Style de distorsion"
+        },
+        {
+            "key": "prop_distortion_power_x",
+            "value": "Puissance de distorsion X"
+        },
+        {
+            "key": "prop_distortion_power_y",
+            "value": "Puissance de distorsion Y"
+        },
+        {
+            "key": "prop_distortion_speed_x",
+            "value": "Vitesse de distorsion X"
+        },
+        {
+            "key": "prop_distortion_speed_y",
+            "value": "Vitesse de distorsion Y"
+        },
+        {
+            "key": "prop_distortion_texture",
+            "value": "Texture de distorsion"
+        },
+        {
+            "key": "prop_distortion_texture_scale",
+            "value": "Échelle de la texture de distorsion"
+        },
+        {
+            "key": "prop_distortion_add_in_wobble",
+            "value": "Ajouter du WoBbLe ?"
+        },
+        {
+            "key": "prop_distortion_wobble_power",
+            "value": "Puissance de l'oscillation"
+        },
+        {
+            "key": "prop_distortion_wobble_speed",
+            "value": "Vitesse de l'oscillation"
+        },
+        {
+            "key": "prop_distortion_wobble_coverage",
+            "value": "Couverture de l'oscillation"
+        },
+        {
+            "key": "prop_filter_enable",
+            "value": "Activer le module de filtre"
+        },
+        {
+            "key": "prop_vignette_enable",
+            "value": "Activer la vignette"
+        },
+        {
+            "key": "prop_vignette_power",
+            "value": "Puissance de la vignette"
+        },
+        {
+            "key": "prop_vignette_color",
+            "value": "Couleur de la vignette"
+        },
+        {
+            "key": "prop_color_crush_enable",
+            "value": "Activer Color Crush"
+        },
+        {
+            "key": "prop_color_crush_power",
+            "value": "Puissance de Color Crush"
+        },
+        {
+            "key": "prop_duotone_enable",
+            "value": "Activer Duotone"
+        },
+        {
+            "key": "prop_duotone_transparency",
+            "value": "Transparence Duotone"
+        },
+        {
+            "key": "prop_duotone_color_one",
+            "value": "Couleur un Duotone"
+        },
+        {
+            "key": "prop_duotone_color_two",
+            "value": "Couleur deux Duotone"
+        },
+        {
+            "key": "prop_duotone_threshold",
+            "value": "Seuil Duotone"
+        },
+        {
+            "key": "prop_rainbow_enable",
+            "value": "Activer l'arc-en-ciel"
+        },
+        {
+            "key": "prop_rainbow_saturation",
+            "value": "Saturation de l'arc-en-ciel"
+        },
+        {
+            "key": "prop_rainbow_speed",
+            "value": "Vitesse de l'arc-en-ciel"
+        },
+        {
+            "key": "prop_film_enable",
+            "value": "Activer le film"
+        },
+        {
+            "key": "prop_film_amount",
+            "value": "Quantité de film"
+        },
+        {
+            "key": "prop_grain_enable",
+            "value": "Activer le grain"
+        },
+        {
+            "key": "prop_grain_amount",
+            "value": "Quantité de grain"
+        },
+        {
+            "key": "prop_grain_color",
+            "value": "Couleur du grain"
+        },
+        {
+            "key": "prop_vhs_enable",
+            "value": "Activer VHS"
+        },
+        {
+            "key": "prop_vhs_amount",
+            "value": "Quantité VHS"
+        },
+        {
+            "key": "prop_gradient_enable",
+            "value": "Activer le dégradé"
+        },
+        {
+            "key": "prop_gradient_lhs",
+            "value": "Dégradé côté gauche"
+        },
+        {
+            "key": "prop_gradient_rhs",
+            "value": "Dégradé côté droit"
+        },
+        {
+            "key": "prop_gradient_transparency",
+            "value": "Transparence du dégradé"
+        },
+        {
+            "key": "prop_outline_enable",
+            "value": "Activer le contour"
+        },
+        {
+            "key": "prop_outline_width",
+            "value": "Largeur du contour"
+        },
+        {
+            "key": "prop_outline_tolerance",
+            "value": "Tolérance du contour"
+        },
+        {
+            "key": "prop_outline_color",
+            "value": "Couleur du contour"
+        },
+        {
+            "key": "prop_astral_enable",
+            "value": "Activer Astral"
+        },
+        {
+            "key": "prop_astral_zoom",
+            "value": "Zoom Astral"
+        },
+        {
+            "key": "prop_astral_transparency",
+            "value": "Transparence Astrale"
+        },
+        {
+            "key": "prop_astral_color",
+            "value": "Couleur Astrale"
+        },
+        {
+            "key": "prop_neon_enable",
+            "value": "Activer le néon"
+        },
+        {
+            "key": "prop_neon_width",
+            "value": "Largeur du néon"
+        },
+        {
+            "key": "prop_neon_transparency",
+            "value": "Transparence du néon"
+        },
+        {
+            "key": "prop_neon_hue",
+            "value": "Teinte du néon"
+        },
+        {
+            "key": "prop_overlay_enable",
+            "value": "Activer le module de superposition"
+        },
+        {
+            "key": "prop_overlay_texture",
+            "value": "Texture de superposition"
+        },
+        {
+            "key": "prop_overlay_transparency",
+            "value": "Transparence de la superposition"
+        },
+        {
+            "key": "prop_overlay_size_x",
+            "value": "Taille de la superposition X"
+        },
+        {
+            "key": "prop_overlay_size_y",
+            "value": "Taille de la superposition Y"
+        },
+        {
+            "key": "prop_overlay_speed_x",
+            "value": "Vitesse de la superposition X"
+        },
+        {
+            "key": "prop_overlay_speed_y",
+            "value": "Vitesse de la superposition Y"
+        },
+        {
+            "key": "prop_overlay_offset_x",
+            "value": "Décalage de la superposition X"
+        },
+        {
+            "key": "prop_overlay_offset_y",
+            "value": "Décalage de la superposition Y"
+        },
+        {
+            "key": "prop_uv_manipulation_enable",
+            "value": "Activer le module UV"
+        },
+        {
+            "key": "prop_transformation_slant_top_left",
+            "value": "Inclinaison en haut à gauche"
+        },
+        {
+            "key": "prop_transformation_slant_top_right",
+            "value": "Inclinaison en haut à droite"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_left",
+            "value": "Inclinaison en bas à gauche"
+        },
+        {
+            "key": "prop_transformation_slant_bottom_right",
+            "value": "Inclinaison en bas à droite"
+        },
+        {
+            "key": "prop_transformation_flip_x",
+            "value": "Retourner X"
+        },
+        {
+            "key": "prop_transformation_flip_y",
+            "value": "Retourner Y"
+        },
+        {
+            "key": "prop_transformation_stretch_x",
+            "value": "Étirement X"
+        },
+        {
+            "key": "prop_transformation_stretch_y",
+            "value": "Étirement Y"
+        },
+        {
+            "key": "prop_movement_move_x",
+            "value": "Déplacer X"
+        },
+        {
+            "key": "prop_movement_move_y",
+            "value": "Déplacer Y"
+        },
+        {
+            "key": "prop_shake_style",
+            "value": "Style de secousse"
+        },
+        {
+            "key": "prop_shake_power_x",
+            "value": "Puissance de secousse X"
+        },
+        {
+            "key": "prop_shake_power_y",
+            "value": "Puissance de secousse Y"
+        },
+        {
+            "key": "prop_shake_speed_x",
+            "value": "Vitesse de secousse X"
+        },
+        {
+            "key": "prop_shake_speed_y",
+            "value": "Vitesse de secousse Y"
+        },
+        {
+            "key": "prop_pixelation_enable",
+            "value": "Activer la pixellisation"
+        },
+        {
+            "key": "prop_pixelation_power",
+            "value": "Puissance de pixellisation"
+        },
+        {
+            "key": "prop_rotation_enable",
+            "value": "Activer la rotation"
+        },
+        {
+            "key": "prop_rotation_angle",
+            "value": "Angle de rotation"
+        },
+        {
+            "key": "prop_spherize_enable",
+            "value": "Activer la sphérisation"
+        },
+        {
+            "key": "prop_spherize_power",
+            "value": "Puissance de sphérisation"
+        },
+        {
+            "key": "prop_zoom_enable",
+            "value": "Activer le module de zoom"
+        },
+        {
+            "key": "prop_zoom_power",
+            "value": "Puissance du zoom"
+        },
+        {
+            "key": "prop_zoom_custom_range",
+            "value": "Plage de zoom personnalisée"
+        },
+        {
+            "key": "prop_zoom_range_start",
+            "value": "Début de la plage de zoom"
+        },
+        {
+            "key": "prop_zoom_range_end",
+            "value": "Fin de la plage de zoom"
+        },
+        {
+            "key": "prop_fog_enable",
+            "value": "Activer le module de brouillard"
+        },
+        {
+            "key": "prop_fog_density",
+            "value": "Densité du brouillard"
+        },
+        {
+            "key": "prop_fog_distribution",
+            "value": "Distribution du brouillard"
+        },
+        {
+            "key": "prop_fog_color",
+            "value": "Couleur du brouillard"
+        },
+        {
+            "key": "prop_fog_safe_space",
+            "value": "Espace de sécurité du brouillard"
+        },
+        {
+            "key": "prop_fog_safe_space_size",
+            "value": "Taille de l'espace de sécurité du brouillard"
+        },
+        {
+            "key": "prop_glitch_enable",
+            "value": "Activer le module de glitch"
+        },
+        {
+            "key": "prop_glitch_scale",
+            "value": "Échelle du glitch"
+        },
+        {
+            "key": "prop_glitch_amount",
+            "value": "Quantité de glitch"
+        },
+        {
+            "key": "prop_glitch_uvs",
+            "value": "Glitch UVs"
+        },
+        {
+            "key": "prop_glitch_chromatic",
+            "value": "Glitch chromatique"
+        },
+        {
+            "key": "prop_overlay_animated",
+            "value": "Superposition animée"
+        },
+        {
+            "key": "prop_overlay_frames_x",
+            "value": "Colonnes de superposition"
+        },
+        {
+            "key": "prop_overlay_frames_y",
+            "value": "Lignes de superposition"
+        },
+        {
+            "key": "prop_overlay_frames",
+            "value": "Images de superposition"
+        },
+        {
+            "key": "prop_overlay_speed",
+            "value": "Vitesse de superposition"
+        },
+        {
+            "key": "prop_overlay_scrub",
+            "value": "Frotter la superposition"
+        },
+        {
+            "key": "prop_ui_notice",
+            "value": "Conseil super-utile !"
+        },
+        {
+            "key": "prop_ui_depth",
+            "value": "Cet effet nécessite une lumière de profondeur dans la scène. Un préfabriqué est fourni dans le package dans Resources/Prefabs."
+        },
+        {
+            "key": "prop_audio_link_enable",
+            "value": "Activer le lien audio"
+        },
+        {
+            "key": "prop_audio_link_band",
+            "value": "Bande"
+        },
+        {
+            "key": "prop_audio_link_power",
+            "value": "Puissance"
+        },
+        {
+            "key": "prop_audio_link_min",
+            "value": "Valeur minimale"
+        },
+        {
+            "key": "prop_audio_link_max",
+            "value": "Valeur maximale"
+        },
+        {
+            "key": "prop_blur_dithering",
+            "value": "Flou de tramage"
+        },
+        {
+            "key": "prop_overlay_blendmode",
+            "value": "Mode de fusion de la superposition"
+        },
+        {
+            "key": "prop_overlay_vr",
+            "value": "Utiliser les modifications spécifiques à la VR"
+        },
+        {
+            "key": "prop_overlay_vr_preview",
+            "value": "Aperçu de la superposition VR"
+        },
+        {
+            "key": "prop_overlay_vr_size_x",
+            "value": "Taille de la superposition VR X"
+        },
+        {
+            "key": "prop_overlay_vr_size_y",
+            "value": "Taille de la superposition VR Y"
+        },
+        {
+            "key": "prop_overlay_vr_offset_x",
+            "value": "Décalage de la superposition VR X"
+        },
+        {
+            "key": "prop_overlay_vr_offset_y",
+            "value": "Décalage de la superposition VR Y"
+        },
+        {
+            "key": "tab_june_pro",
+            "value": "Aperçu de June Pro"
+        },
+        {
+            "key": "june_pro_tab_blur",
+            "value": "Flou"
+        },
+        {
+            "key": "june_pro_styles_blur",
+            "value": "Le flou a les styles suivants disponibles : Gaussien, Sélectif, Bloom, Bokeh, Givré, Distorsion de pixels, Extrusion, Frottis, Zoom radial et autres goodies."
+        },
+        {
+            "key": "june_pro_tab_border",
+            "value": "Bordure"
+        },
+        {
+            "key": "june_pro_styles_border",
+            "value": "La bordure a les styles suivants disponibles : Letterbox vertical, Letterbox horizontal, Boîte, Circulaire, Polygone, Œil, Anime et Carte."
+        },
+        {
+            "key": "june_pro_tab_chromatic",
+            "value": "Chromatique"
+        },
+        {
+            "key": "june_pro_styles_chromatic",
+            "value": "Chromatique a les styles suivants disponibles : RVB, TSV, Négativité, Radial, Superposé et Flou."
+        },
+        {
+            "key": "june_pro_tab_colour_grading",
+            "value": "Étalonnage des couleurs"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_fine_tuning",
+            "value": "Réglage fin"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_focus",
+            "value": "Focus sur la couleur"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_replacements",
+            "value": "Remplacements de couleur"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colourspace",
+            "value": "Espace colorimétrique"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_lighting_adjustment",
+            "value": "Ajustement de l'éclairage"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_sharpness",
+            "value": "Netteté"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_saturation",
+            "value": "Saturation"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_stylize",
+            "value": "Styliser"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_colour_channels",
+            "value": "Canaux de couleur"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_post-processing",
+            "value": "Post-traitement"
+        },
+        {
+            "key": "june_pro_sub_tab_colour_grading_posterization",
+            "value": "Postérisation"
+        },
+        {
+            "key": "june_pro_tab_creativity",
+            "value": "Créativité"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_alphenglow",
+            "value": "Alphenglow"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aquamarine",
+            "value": "Aigue-marine"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_aurora",
+            "value": "Aurore"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_bonnibel",
+            "value": "Bonnibel"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_butterfly",
+            "value": "Papillon"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_candy",
+            "value": "Bonbon"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_ecstasy",
+            "value": "Extase"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_fable",
+            "value": "Fable"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_lava_lamp",
+            "value": "Lampe à lave"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_marceline",
+            "value": "Marceline"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_smokescreen",
+            "value": "Écran de fumée"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_turbulence",
+            "value": "Turbulence"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_rainbow_river",
+            "value": "Rivière arc-en-ciel"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_portal",
+            "value": "Portail"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_tea",
+            "value": "Thé"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_oil_spill",
+            "value": "Marée noire"
+        },
+        {
+            "key": "june_pro_sub_tab_creativity_art",
+            "value": "Art"
+        },
+        {
+            "key": "june_pro_tab_distortion",
+            "value": "Distorsion"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_simple_distortion",
+            "value": "Distorsion simple"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bezier_curve",
+            "value": "Courbe de Bézier"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_blackhole",
+            "value": "Trou noir"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bubbles",
+            "value": "Bulles"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_bumpy_glass",
+            "value": "Verre bosselé"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_exaggeration",
+            "value": "Exagération"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_liquify",
+            "value": "Liquéfaction"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_warp",
+            "value": "Déformation"
+        },
+        {
+            "key": "june_pro_sub_tab_distortion_wave",
+            "value": "Vague"
+        },
+        {
+            "key": "june_pro_tab_enhancements",
+            "value": "Améliorations"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_anti-aliasing",
+            "value": "Anticrénelage"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_denoise",
+            "value": "Réduction du bruit"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_deblur",
+            "value": "Défloutage"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_heavy_lines",
+            "value": "Lignes épaisses"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_soft_lines",
+            "value": "Lignes douces"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_upscale",
+            "value": "Mise à l'échelle supérieure"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_contrast_sharpening",
+            "value": "Netteté du contraste"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_fdr",
+            "value": "FDR"
+        },
+        {
+            "key": "june_pro_sub_tab_enhancements_screenspace_softshading",
+            "value": "Ombrage doux de l'espace écran"
+        },
+        {
+            "key": "june_pro_tab_experiments",
+            "value": "Expériences"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_dolly",
+            "value": "Dolly"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_cloning",
+            "value": "Clonage"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_screen_background",
+            "value": "Arrière-plan de l'écran"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_depth_viewer",
+            "value": "Visualiseur de profondeur"
+        },
+        {
+            "key": "june_pro_sub_tab_experiments_objectify",
+            "value": "Objectiver"
+        },
+        {
+            "key": "june_pro_tab_filters",
+            "value": "Filtres"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_incorrection",
+            "value": "Incorrection des couleurs"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colourblind_simulation",
+            "value": "Simulation de daltonisme"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_corners",
+            "value": "Coins"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_crush",
+            "value": "Écrasement de couleur"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_cycline",
+            "value": "Colour CycLine"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_colour_wheel",
+            "value": "Roue chromatique"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_crt",
+            "value": "CRT"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_monotone",
+            "value": "Monotone"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_duotone",
+            "value": "Duotone"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tritone",
+            "value": "Tritone"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_engraving",
+            "value": "Gravure"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_linocut",
+            "value": "Linogravure"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_light_leak",
+            "value": "Fuite de lumière"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_film",
+            "value": "Film"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_normal_mapper",
+            "value": "Mappeur normal"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_chrome",
+            "value": "Chrome"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_rainbow",
+            "value": "Arc-en-ciel"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ramp",
+            "value": "Rampe"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_gradient",
+            "value": "Dégradé"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_ink",
+            "value": "Encre faible"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_low_bitrate",
+            "value": "Faible débit"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_grain",
+            "value": "Grain"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_glitter",
+            "value": "Paillettes"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_moire",
+            "value": "Moiré"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_sepia",
+            "value": "Sépia"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_solarize",
+            "value": "Solarisation"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_specular",
+            "value": "Spéculaire"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_tie_dye",
+            "value": "Tie Dye"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_technicolour",
+            "value": "Technicolor"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_thermal",
+            "value": "Thermique"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_threshold",
+            "value": "Seuil"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_night_vision",
+            "value": "Vision nocturne"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_ultra_violet",
+            "value": "Ultra Violet"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_wall_glow",
+            "value": "Lueur du mur"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vhs",
+            "value": "VHS"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_vignette",
+            "value": "Vignette"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_dither",
+            "value": "Tramage"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_fauxlate",
+            "value": "Fauxlate"
+        },
+        {
+            "key": "june_pro_sub_tab_filters_lieless",
+            "value": "Lieless"
+        },
+        {
+            "key": "june_pro_tab_frames",
+            "value": "Cadres"
+        },
+        {
+            "key": "june_pro_styles_frames",
+            "value": "Les cadres ont les styles suivants disponibles : Fierté, Trans, Musique, Polaroïd, Super Huit, Magazine, Filmdom, Néon, Bande dessinée et Bandes de film."
+        },
+        {
+            "key": "june_pro_tab_generation",
+            "value": "Génération"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_lines",
+            "value": "Lignes"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_ring_colors",
+            "value": "Couleurs de l'anneau"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_noise_colors",
+            "value": "Couleurs du bruit"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_sdf_colors",
+            "value": "Couleurs SDF"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_colors",
+            "value": "Couleurs des formes"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_shapes_uvs",
+            "value": "UV des formes"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_colors",
+            "value": "Couleurs de la spirale"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_spiral_uvs",
+            "value": "UV de la spirale"
+        },
+        {
+            "key": "june_pro_sub_tab_generation_hearts",
+            "value": "Cœurs"
+        },
+        {
+            "key": "june_pro_tab_glitch",
+            "value": "Glitch"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_simple",
+            "value": "Simple"
+        },
+        {
+            "key": "june_pro_sub_tab_glitch_advanced",
+            "value": "Avancé"
+        },
+        {
+            "key": "june_pro_tab_motion",
+            "value": "Mouvement"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_acid",
+            "value": "Acide"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_blur",
+            "value": "Flou"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_distortion",
+            "value": "Distorsion"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_freeze",
+            "value": "Geler"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_rgb_freeze",
+            "value": "Geler RVB"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_glitch",
+            "value": "Glitch"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_chromatic",
+            "value": "Chromatique"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_pixel_sort",
+            "value": "Tri de pixels"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_trail",
+            "value": "Traînée"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranquility",
+            "value": "Tranquillité"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_tranceless",
+            "value": "Tranceless"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_data_mosh",
+            "value": "Data Mosh"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_frame_rate",
+            "value": "Fréquence d'images"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fensterxd",
+            "value": "FensterXD"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_fading_projections",
+            "value": "Projections en fondu"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_motear",
+            "value": "Motear"
+        },
+        {
+            "key": "june_pro_sub_tab_motion_lake_fill",
+            "value": "Remplissage du lac"
+        },
+        {
+            "key": "june_pro_tab_others",
+            "value": "Autres"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral",
+            "value": "Astral"
+        },
+        {
+            "key": "june_pro_sub_tab_others_astral_rgb",
+            "value": "Astral RVB"
+        },
+        {
+            "key": "june_pro_sub_tab_others_apart",
+            "value": "À part"
+        },
+        {
+            "key": "june_pro_sub_tab_others_colour_diffusion",
+            "value": "Diffusion de couleur"
+        },
+        {
+            "key": "june_pro_sub_tab_others_holepuncher",
+            "value": "Perforatrice"
+        },
+        {
+            "key": "june_pro_sub_tab_others_glowstick",
+            "value": "Bâton lumineux"
+        },
+        {
+            "key": "june_pro_sub_tab_others_grid_checkerboard",
+            "value": "Damier de grille"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hallucinogen",
+            "value": "Hallucinogène"
+        },
+        {
+            "key": "june_pro_sub_tab_others_lenticular_halo",
+            "value": "Halo lenticulaire"
+        },
+        {
+            "key": "june_pro_sub_tab_others_meta_image",
+            "value": "Méta-image"
+        },
+        {
+            "key": "june_pro_sub_tab_others_palette",
+            "value": "Palette"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rain_line",
+            "value": "Ligne de pluie"
+        },
+        {
+            "key": "june_pro_sub_tab_others_rim",
+            "value": "Bord"
+        },
+        {
+            "key": "june_pro_sub_tab_others_scanline_overlay",
+            "value": "Superposition de lignes de balayage"
+        },
+        {
+            "key": "june_pro_sub_tab_others_stripes",
+            "value": "Rayures"
+        },
+        {
+            "key": "june_pro_sub_tab_others_sunbeams",
+            "value": "Rayons de soleil"
+        },
+        {
+            "key": "june_pro_sub_tab_others_water_reflection",
+            "value": "Reflet de l'eau"
+        },
+        {
+            "key": "june_pro_sub_tab_others_camouflage",
+            "value": "Camouflage"
+        },
+        {
+            "key": "june_pro_sub_tab_others_inception",
+            "value": "Inception"
+        },
+        {
+            "key": "june_pro_sub_tab_others_object_detection",
+            "value": "Détection d'objets"
+        },
+        {
+            "key": "june_pro_sub_tab_others_fog",
+            "value": "Brouillard"
+        },
+        {
+            "key": "june_pro_sub_tab_others_silhouette",
+            "value": "Silhouette"
+        },
+        {
+            "key": "june_pro_sub_tab_others_prismatic_layers",
+            "value": "Couches prismatiques"
+        },
+        {
+            "key": "june_pro_sub_tab_others_hexatile",
+            "value": "Hexatile"
+        },
+        {
+            "key": "june_pro_sub_tab_others_secrets",
+            "value": "Secrets"
+        },
+        {
+            "key": "june_pro_sub_tab_others_divider",
+            "value": "Diviseur"
+        },
+        {
+            "key": "june_pro_tab_outline",
+            "value": "Contour"
+        },
+        {
+            "key": "june_pro_styles_outline",
+            "value": "Le contour a les styles suivants disponibles : Couleur (Mince) et Profondeur (Épais)."
+        },
+        {
+            "key": "june_pro_tab_overlay",
+            "value": "Superposition"
+        },
+        {
+            "key": "june_pro_styles_overlay",
+            "value": "La superposition a les styles suivants disponibles : Image fixe, Image animée et Collage."
+        },
+        {
+            "key": "june_pro_tab_stylize",
+            "value": "Styliser"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_compression",
+            "value": "Compression"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crosshatching",
+            "value": "Hachures croisées"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_crystalize",
+            "value": "Cristalliser"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_dots",
+            "value": "Points"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_emboss",
+            "value": "Gaufrage"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_impressionism",
+            "value": "Impressionnisme"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_mosaic",
+            "value": "Mosaïque"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon_rings",
+            "value": "Anneaux de néon"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_oil",
+            "value": "Huile"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_monitor",
+            "value": "Moniteur"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_neon",
+            "value": "Néon"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_pop_art",
+            "value": "Pop Art"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_unicode",
+            "value": "Unicode"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone",
+            "value": "Demi-teinte"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_circles",
+            "value": "Cercles en demi-teinte"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_spiral",
+            "value": "Spirale en demi-teinte"
+        },
+        {
+            "key": "june_pro_sub_tab_stylize_halftone_rgb",
+            "value": "Demi-teinte RVB"
+        },
+        {
+            "key": "june_pro_tab_special",
+            "value": "Spécial"
+        },
+        {
+            "key": "june_pro_sub_tab_special_bubbles",
+            "value": "Bulles"
+        },
+        {
+            "key": "june_pro_sub_tab_special_confetti",
+            "value": "Confettis"
+        },
+        {
+            "key": "june_pro_sub_tab_special_data_stream",
+            "value": "Flux de données"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lens_flare",
+            "value": "Reflet de l'objectif"
+        },
+        {
+            "key": "june_pro_sub_tab_special_hexagonal_shield",
+            "value": "Bouclier hexagonal"
+        },
+        {
+            "key": "june_pro_sub_tab_special_lightning",
+            "value": "Foudre"
+        },
+        {
+            "key": "june_pro_sub_tab_special_mapping",
+            "value": "Mappage"
+        },
+        {
+            "key": "june_pro_sub_tab_special_rain_drops",
+            "value": "Gouttes de pluie"
+        },
+        {
+            "key": "june_pro_sub_tab_special_plexus",
+            "value": "Plexus"
+        },
+        {
+            "key": "june_pro_sub_tab_special_shanshuo",
+            "value": "Shanshuo"
+        },
+        {
+            "key": "june_pro_sub_tab_special_star_trail",
+            "value": "Traînée d'étoiles"
+        },
+        {
+            "key": "june_pro_sub_tab_special_spotlights",
+            "value": "Projecteurs"
+        },
+        {
+            "key": "june_pro_sub_tab_special_visualizer",
+            "value": "Visualiseur"
+        },
+        {
+            "key": "june_pro_sub_tab_special_warp_drive",
+            "value": "Warp Drive"
+        },
+        {
+            "key": "june_pro_tab_transition",
+            "value": "Transition"
+        },
+        {
+            "key": "june_pro_styles_transition",
+            "value": "La transition a les styles suivants disponibles : Glissement, Spot In, Spot Out, Box In, Box Out, Rebond de tuile, Vague de tuile, Obturateur, Balayage radial, Répétition radiale, Dissolution, Balayage déchiqueté, Retardé, Tuiles hexagonales, Balayage hexagonal et Modelo In."
+        },
+        {
+            "key": "june_pro_tab_triplanar",
+            "value": "Triplanaire"
+        },
+        {
+            "key": "june_pro_styles_triplanar",
+            "value": "Triplanar a les styles suivants disponibles : Image fixe, Image animée, Couleur et Cellules."
+        },
+        {
+            "key": "june_pro_tab_uv_manipulation",
+            "value": "Manipulation UV"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_bender",
+            "value": "Bender"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_movement",
+            "value": "Mouvement"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_clamp",
+            "value": "Serrage"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_coordinates",
+            "value": "Coordonnées"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_dither",
+            "value": "Tramage"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_kaleidoscope",
+            "value": "Kaléidoscope"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror",
+            "value": "Miroir"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scroll",
+            "value": "Défilement"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shake_(and_earthquake)",
+            "value": "Secousse (et tremblement de terre)"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_slicer",
+            "value": "Trancheur"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_melt",
+            "value": "Fondre"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_mirror_shatter",
+            "value": "Éclat de miroir"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_ring_rotation",
+            "value": "Rotation de l'anneau"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_refraction",
+            "value": "Réfraction"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixelation",
+            "value": "Pixellisation"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_pixel_shifter",
+            "value": "Décaleur de pixels"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_scanline",
+            "value": "Ligne de balayage"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_shuffle",
+            "value": "Mélanger"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_skew",
+            "value": "Inclinaison"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spherize",
+            "value": "Sphérisation"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_transformation",
+            "value": "Transformation"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twisted_corridor",
+            "value": "Couloir torsadé"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_recursion",
+            "value": "Récursivité"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_twod_rotation",
+            "value": "Rotation 2D"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_rotation",
+            "value": "Rotation 3D"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_threed_pan",
+            "value": "Panoramique 3D"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_onlyscreens",
+            "value": "OnlyScreens"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_spinterception",
+            "value": "Spinterception"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_quadrant_zoom",
+            "value": "Zoom de quadrant"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_swivel",
+            "value": "Pivot"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_distaer",
+            "value": "Distaer"
+        },
+        {
+            "key": "june_pro_sub_tab_uv_manipulation_thanos",
+            "value": "Thanos"
+        },
+        {
+            "key": "june_pro_tab_vertex_reconstruction",
+            "value": "Reconstruction de vertex"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_atmosphere",
+            "value": "Atmosphère"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_glitter",
+            "value": "Paillettes"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_shatterwave",
+            "value": "Onde de choc"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_threed_lighting",
+            "value": "Éclairage 3D"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe",
+            "value": "Filaire"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_wireframe_shatterwave",
+            "value": "Onde de choc filaire"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_normals",
+            "value": "Normales"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tripful",
+            "value": "Tripful"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_hololens",
+            "value": "Hololens"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_lidar",
+            "value": "LIDAR"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_corruption",
+            "value": "Corruption"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_world_wrap",
+            "value": "Enveloppement du monde"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_spotlight",
+            "value": "Projecteur"
+        },
+        {
+            "key": "june_pro_sub_tab_vertex_reconstruction_tryptamines",
+            "value": "Tryptamines"
+        },
+        {
+            "key": "june_pro_tab_zoom",
+            "value": "Zoom"
+        },
+        {
+            "key": "june_pro_styles_zoom",
+            "value": "Le zoom a les styles suivants disponibles : Écran, Centrage, Fisheye et Suivi."
+        },
+        {
+            "key": "june_pro_preview_toggle",
+            "value": "Aperçu de la version complète de June"
+        },
+        {
+            "key": "june_pro_preview_notice",
+            "value": "Vous visualisez un aperçu de tous les effets disponibles dans la version complète de June. Ils ne sont pas fonctionnels et n'ont pas tous les paramètres disponibles, mais vous pouvez voir tout ce qui est inclus pour vous aider à décider si June vous serait bénéfique. Vous pouvez revenir à tout moment à la version entièrement fonctionnelle de June Lite dans l'onglet Aperçu de June Pro. :)"
+        },
+        {
+            "key": "june_pro_buy_button",
+            "value": "Acheter June Pro !"
+        },
+        {
+            "key": "june_pro_learn_button",
+            "value": "En savoir plus sur June Pro !"
+        },
+        {
+            "key": "june_pro_docs_button",
+            "value": "Ouvrir la documentation de June Pro !"
+        },
+        {
+            "key": "june_pro_coupon",
+            "value": "Utilisez le code \"UPGRADE10\" pour obtenir 10% de réduction sur votre achat de June ! (Uniquement sur Gumroad)"
+        },
+        {
+            "key": "prop_coloring_sharpness",
+            "value": "Affiner l'écran"
+        },
+        {
+            "key": "tab_sub_filter_trippy",
+            "value": "Trippant"
+        },
+        {
+            "key": "prop_trippy_enable",
+            "value": "Activer Trippant"
+        },
+        {
+            "key": "prop_trippy_power",
+            "value": "Puissance trippante"
+        },
+        {
+            "key": "prop_trippy_spread",
+            "value": "Propagation trippante"
+        },
+        {
+            "key": "prop_trippy_speed",
+            "value": "Vitesse trippante"
+        },
+        {
+            "key": "tab_license",
+            "value": "Licence"
+        },
+        {
+            "key": "button_show_license",
+            "value": "Afficher la licence dans Unity"
+        }
+    ]
+}
